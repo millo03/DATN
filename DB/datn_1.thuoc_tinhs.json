@@ -1,0 +1,340 @@
+[{
+  "_id": {
+    "$oid": "67220e34ca94c3316a9f9ccc"
+  },
+  "ten_thuoc_tinh": "màu đỏ",
+  "the_loai_thuoc_tinh": "ux_color",
+  "id_account": {
+    "$oid": "670df3dee8e737d68b53fa83"
+  },
+  "symbol_thuoc_tinh": "#392d2d",
+  "createdAt": {
+    "$date": "2024-10-30T10:45:08.340Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T16:01:20.931Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6722242dfbdec5d92412fa98"
+  },
+  "ten_thuoc_tinh": "mau xanh",
+  "the_loai_thuoc_tinh": "ux_color",
+  "id_account": {
+    "$oid": "670df3dee8e737d68b53fa83"
+  },
+  "symbol_thuoc_tinh": "#2779d9",
+  "createdAt": {
+    "$date": "2024-10-30T12:18:53.017Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-30T12:18:53.017Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6729111b0f65ca9bb48a69b1"
+  },
+  "ten_thuoc_tinh": "màu nâu",
+  "the_loai_thuoc_tinh": "ux_color",
+  "id_account": {
+    "$oid": "670df3dee8e737d68b53fa83"
+  },
+  "symbol_thuoc_tinh": "#c66619",
+  "createdAt": {
+    "$date": "2024-11-04T18:23:23.913Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T16:02:00.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "672e1bae45449d16012d7b79"
+  },
+  "ten_thuoc_tinh": "Màu Trắng",
+  "the_loai_thuoc_tinh": "ux_color",
+  "id_account": {
+    "$oid": "670df3dee8e737d68b53fa83"
+  },
+  "symbol_thuoc_tinh": "#d0babd",
+  "createdAt": {
+    "$date": "2024-11-08T14:09:50.547Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T15:48:27.732Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674f2eff415ae3c4ea7b45bc"
+  },
+  "ten_thuoc_tinh": "Màu đỏ",
+  "the_loai_thuoc_tinh": "ux_color",
+  "id_account": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "symbol_thuoc_tinh": "#e91b1b",
+  "createdAt": {
+    "$date": "2024-12-03T16:17:03.444Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T19:03:47.788Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67501e0ce0d086d8c474d891"
+  },
+  "ten_thuoc_tinh": "Kẻ caro",
+  "the_loai_thuoc_tinh": "ux_image",
+  "id_account": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "symbol_thuoc_tinh": "https://res.cloudinary.com/dwya9mxip/image/upload/v1734435631/PRODUCTS/ujjwh4rpisjovmwgxtfv.jpg",
+  "createdAt": {
+    "$date": "2024-12-04T09:17:00.072Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T11:40:20.654Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67502092e0d086d8c474d919"
+  },
+  "ten_thuoc_tinh": "Màu xanh",
+  "the_loai_thuoc_tinh": "ux_color",
+  "id_account": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "symbol_thuoc_tinh": "#1669e0",
+  "createdAt": {
+    "$date": "2024-12-04T09:27:46.954Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-04T09:27:46.954Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67568291b70933616e181103"
+  },
+  "ten_thuoc_tinh": "Màu đen",
+  "the_loai_thuoc_tinh": "ux_color",
+  "id_account": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "symbol_thuoc_tinh": "#000000",
+  "createdAt": {
+    "$date": "2024-12-09T05:39:29.256Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T05:39:29.256Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675e46a459e3d8033572bb39"
+  },
+  "ten_thuoc_tinh": "Màu vàng",
+  "the_loai_thuoc_tinh": "ux_color",
+  "id_account": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "symbol_thuoc_tinh": "#f8e71c",
+  "createdAt": {
+    "$date": "2024-12-15T03:01:56.117Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T03:01:56.117Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675ecc190a6e90b02a69683a"
+  },
+  "ten_thuoc_tinh": "Màu nâu",
+  "the_loai_thuoc_tinh": "ux_color",
+  "id_account": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "symbol_thuoc_tinh": "#8b572a",
+  "createdAt": {
+    "$date": "2024-12-15T12:31:21.273Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T12:31:21.273Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675efcf62fce17c4e03f1528"
+  },
+  "ten_thuoc_tinh": "Vải nỉ",
+  "the_loai_thuoc_tinh": "ux_label",
+  "id_account": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "symbol_thuoc_tinh": "",
+  "createdAt": {
+    "$date": "2024-12-15T15:59:50.805Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T19:04:05.615Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f21ca2fce17c4e03f2a1a"
+  },
+  "ten_thuoc_tinh": "Kẻ sọc",
+  "the_loai_thuoc_tinh": "ux_image",
+  "id_account": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "symbol_thuoc_tinh": "https://res.cloudinary.com/dwya9mxip/image/upload/v1734435658/PRODUCTS/wbghsigwnuhqu5nfzlvp.jpg",
+  "createdAt": {
+    "$date": "2024-12-15T18:36:58.200Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T11:40:47.588Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f2f382fce17c4e03f5d44"
+  },
+  "ten_thuoc_tinh": "dd",
+  "the_loai_thuoc_tinh": "ux_color",
+  "id_account": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "symbol_thuoc_tinh": "#6b1515",
+  "createdAt": {
+    "$date": "2024-12-15T19:34:16.786Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T19:34:16.786Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675fbca425b6ef3bb3f6f701"
+  },
+  "ten_thuoc_tinh": "Màu cam",
+  "the_loai_thuoc_tinh": "ux_color",
+  "id_account": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "symbol_thuoc_tinh": "#f5a623",
+  "createdAt": {
+    "$date": "2024-12-16T05:37:40.373Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T05:37:40.373Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "676144269cf1ca0edeeb79fa"
+  },
+  "ten_thuoc_tinh": "Xanh",
+  "the_loai_thuoc_tinh": "ux_color",
+  "id_account": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "symbol_thuoc_tinh": "#7ed321",
+  "createdAt": {
+    "$date": "2024-12-17T09:28:06.094Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T09:28:06.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "676163523d6fedbcbd6dbd1e"
+  },
+  "ten_thuoc_tinh": "Mặt cười",
+  "the_loai_thuoc_tinh": "ux_image",
+  "id_account": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "symbol_thuoc_tinh": "https://res.cloudinary.com/dwya9mxip/image/upload/v1734435677/PRODUCTS/d1xnalglinsdzqgwu17u.jpg",
+  "createdAt": {
+    "$date": "2024-12-17T11:41:06.514Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T11:41:06.514Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6761637b3d6fedbcbd6dbd2e"
+  },
+  "ten_thuoc_tinh": "Vải len",
+  "the_loai_thuoc_tinh": "ux_label",
+  "id_account": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "symbol_thuoc_tinh": "",
+  "createdAt": {
+    "$date": "2024-12-17T11:41:47.061Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T11:41:47.061Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "676163913d6fedbcbd6dbd32"
+  },
+  "ten_thuoc_tinh": "Vải cotton",
+  "the_loai_thuoc_tinh": "ux_label",
+  "id_account": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "symbol_thuoc_tinh": "",
+  "createdAt": {
+    "$date": "2024-12-17T11:42:09.362Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T11:42:09.362Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "676228480963a94d3ed6362b"
+  },
+  "ten_thuoc_tinh": "Màu Đỏ",
+  "the_loai_thuoc_tinh": "ux_color",
+  "id_account": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "symbol_thuoc_tinh": "#ff0000",
+  "createdAt": {
+    "$date": "2024-12-18T01:41:28.586Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T01:41:28.586Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "676230335098e098e48fc6ef"
+  },
+  "ten_thuoc_tinh": "Màu Vàng",
+  "the_loai_thuoc_tinh": "ux_color",
+  "id_account": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "symbol_thuoc_tinh": "#f8e71c",
+  "createdAt": {
+    "$date": "2024-12-18T02:15:15.286Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T02:15:15.286Z"
+  }
+}]

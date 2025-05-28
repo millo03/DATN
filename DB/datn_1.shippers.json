@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "fullName": "Dương Hải Nam",
+  "phone": "0357219737",
+  "email": "namdhph33318@fpt.edu.vn",
+  "password": "$2a$10$L2xUBDSMBEkMCs1OkY.I/upFCusnkxH1IGIdfoekK34BjCBAnTI5a",
+  "avatar": "https://vectorified.com/images/default-avatar-icon-12.png",
+  "status": "Available",
+  "address": "Hà Nội",
+  "role": "courier",
+  "createdAt": {
+    "$date": "2024-10-13T07:14:51.327Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-29T15:29:33.947Z"
+  },
+  "bankAccountName": "MB",
+  "bankAccountNumber": "000066664444",
+  "number_citizen": "123456789",
+  "vehicle": "Xe máy"
+},
+{
+  "_id": {
+    "$oid": "671395f070441644ab44185a"
+  },
+  "fullName": "trung",
+  "phone": "0323844355",
+  "email": "hoangductrung09112004@gmail.com",
+  "password": "$2a$10$/RPBDA6izoEfDbiesKhILe/Z8Gf1bE7paE//KCSirWdUWnP9snuwG",
+  "avatar": "https://vectorified.com/images/default-avatar-icon-12.png",
+  "status": "Available",
+  "address": "Tuyên Quang",
+  "role": "courier",
+  "createdAt": {
+    "$date": "2024-10-19T11:20:16.128Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-28T14:32:21.805Z"
+  },
+  "bankAccountName": "MB",
+  "bankAccountNumber": "568368689999",
+  "number_citizen": "78678768",
+  "vehicle": "xe máy"
+},
+{
+  "_id": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "fullName": "Nguyễn Thị Gấm",
+  "phone": "0399290004",
+  "email": "gamsau2004@gmail.com",
+  "password": "$2a$10$NZZI1mvTbt6OWsNhzK16z.CiJWMANTwBGnyK1Nl2nJP.9vOn9NUFi",
+  "avatar": "https://vectorified.com/images/default-avatar-icon-12.png",
+  "status": "Available",
+  "role": "courier",
+  "createdAt": {
+    "$date": "2024-10-28T12:28:16.436Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-29T15:43:02.968Z"
+  },
+  "address": "Hà Nội",
+  "number_citizen": "0012030342710",
+  "vehicle": "xe máy",
+  "bankAccountName": "MB",
+  "bankAccountNumber": "101020040000"
+}]

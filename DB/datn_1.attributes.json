@@ -1,0 +1,6993 @@
+[{
+  "_id": {
+    "$oid": "670ba9630ff17a9152a2c628"
+  },
+  "id_account": {
+    "$oid": "66d35671ae9c6444f583e246"
+  },
+  "attribute": "Màu Xanh",
+  "category_attribute": "ux_color",
+  "symbol_attribute": "#0d73eb",
+  "values": []
+},
+{
+  "_id": {
+    "$oid": "670de1f2744b56fa6a96875b"
+  },
+  "id_account": {
+    "$oid": "66d35671ae9c6444f583e246"
+  },
+  "attribute": "màu tím",
+  "category_attribute": "ux_color",
+  "symbol_attribute": "#9013fe",
+  "values": []
+},
+{
+  "_id": {
+    "$oid": "670de94424cc81c5c8151a05"
+  },
+  "id_item": {
+    "$oid": "670de94424cc81c5c8151a03"
+  },
+  "values": [
+    {
+      "color": "Đỏ",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 333,
+          "price_attribute": 333,
+          "_id": {
+            "$oid": "670de94424cc81c5c8151a07"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "670de94424cc81c5c8151a06"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "670e7a4d2a287152f2a1372e"
+  },
+  "id_account": {
+    "$oid": "670df3dee8e737d68b53fa83"
+  },
+  "attribute": "Màu vàng",
+  "category_attribute": "ux_color",
+  "symbol_attribute": "#f8e71c",
+  "values": []
+},
+{
+  "_id": {
+    "$oid": "670e7a582a287152f2a13732"
+  },
+  "id_account": {
+    "$oid": "670df3dee8e737d68b53fa83"
+  },
+  "attribute": "Màu vàng1",
+  "category_attribute": "ux_color",
+  "symbol_attribute": "#000000",
+  "values": []
+},
+{
+  "_id": {
+    "$oid": "670e847fd6f89c368d517537"
+  },
+  "id_item": {
+    "$oid": "670e847fd6f89c368d517535"
+  },
+  "values": [
+    {
+      "color": "Đen",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 65,
+          "price_attribute": 250000,
+          "_id": {
+            "$oid": "670e847fd6f89c368d517539"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 166,
+          "price_attribute": 250000,
+          "_id": {
+            "$oid": "670e847fd6f89c368d51753a"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 112,
+          "price_attribute": 250000,
+          "_id": {
+            "$oid": "670e847fd6f89c368d51753b"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "670e847fd6f89c368d517538"
+      }
+    },
+    {
+      "color": "Trắng",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 160,
+          "price_attribute": 250000,
+          "_id": {
+            "$oid": "670e847fd6f89c368d51753d"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 131,
+          "price_attribute": 250000,
+          "_id": {
+            "$oid": "670e847fd6f89c368d51753e"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "670e847fd6f89c368d51753c"
+      }
+    },
+    {
+      "color": "Xanh",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 289,
+          "price_attribute": 250000,
+          "_id": {
+            "$oid": "670e847fd6f89c368d517540"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 179,
+          "price_attribute": 250000,
+          "_id": {
+            "$oid": "670e847fd6f89c368d517541"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "670e847fd6f89c368d51753f"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "670e8551d6f89c368d5175c3"
+  },
+  "id_item": {
+    "$oid": "670e8551d6f89c368d5175c1"
+  },
+  "values": [
+    {
+      "color": "Trắng",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 82,
+          "price_attribute": 270000,
+          "_id": {
+            "$oid": "670e8551d6f89c368d5175c5"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 156,
+          "price_attribute": 270000,
+          "_id": {
+            "$oid": "670e8551d6f89c368d5175c6"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 130,
+          "price_attribute": 270000,
+          "_id": {
+            "$oid": "670e8551d6f89c368d5175c7"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "670e8551d6f89c368d5175c4"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "670e8611d6f89c368d517607"
+  },
+  "id_item": {
+    "$oid": "670e8611d6f89c368d517605"
+  },
+  "values": [
+    {
+      "color": "Đen",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 61,
+          "price_attribute": 200000,
+          "_id": {
+            "$oid": "670e8611d6f89c368d517609"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 162,
+          "price_attribute": 150000,
+          "_id": {
+            "$oid": "670e8611d6f89c368d51760a"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 117,
+          "price_attribute": 140000,
+          "_id": {
+            "$oid": "670e8611d6f89c368d51760b"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "670e8611d6f89c368d517608"
+      }
+    },
+    {
+      "color": "Trắng",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 160,
+          "price_attribute": 250000,
+          "_id": {
+            "$oid": "670e8611d6f89c368d51760d"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 110,
+          "price_attribute": 150000,
+          "_id": {
+            "$oid": "670e8611d6f89c368d51760e"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 122,
+          "price_attribute": 130000,
+          "_id": {
+            "$oid": "670e8611d6f89c368d51760f"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "670e8611d6f89c368d51760c"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "670e8697d6f89c368d51766e"
+  },
+  "id_item": {
+    "$oid": "670e8697d6f89c368d51766c"
+  },
+  "values": [
+    {
+      "color": "Đen",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 60,
+          "price_attribute": 250000,
+          "_id": {
+            "$oid": "670e8697d6f89c368d517670"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 162,
+          "price_attribute": 250000,
+          "_id": {
+            "$oid": "670e8697d6f89c368d517671"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "670e8697d6f89c368d51766f"
+      }
+    },
+    {
+      "color": "Trắng",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 132,
+          "price_attribute": 250000,
+          "_id": {
+            "$oid": "670e8697d6f89c368d517673"
+          }
+        },
+        {
+          "name_size": "XS",
+          "stock_attribute": 138,
+          "price_attribute": 250000,
+          "_id": {
+            "$oid": "670e8697d6f89c368d517674"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "670e8697d6f89c368d517672"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "670f26282456807db675c87f"
+  },
+  "id_account": {
+    "$oid": "670df3dee8e737d68b53fa83"
+  },
+  "attribute": "Màu Đỏ",
+  "category_attribute": "ux_color",
+  "symbol_attribute": "#f21111",
+  "values": []
+},
+{
+  "_id": {
+    "$oid": "6722370ab2163cef078e2e14"
+  },
+  "values": [
+    {
+      "color": "mau do",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 10000,
+          "price_attribute": 10000,
+          "_id": {
+            "$oid": "6722370ab2163cef078e2e16"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6722370ab2163cef078e2e15"
+      }
+    },
+    {
+      "color": "mau xanh",
+      "size": [
+        {
+          "name_size": "XXL",
+          "stock_attribute": 1,
+          "price_attribute": 10000,
+          "_id": {
+            "$oid": "6722370ab2163cef078e2e18"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6722370ab2163cef078e2e17"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "672848a1b5c1a723ffb17f54"
+  },
+  "values": [
+    {
+      "color": "Ảnh mới sản phẩm",
+      "symbol": "https://res.cloudinary.com/dwya9mxip/image/upload/v1730692094/PRODUCTS/frfrbjx8twi3y1d3qxfp.jpg",
+      "size": [
+        {
+          "name_size": "XL",
+          "stock_attribute": 20,
+          "price_attribute": 10000,
+          "_id": {
+            "$oid": "672848a1b5c1a723ffb17f56"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "672848a1b5c1a723ffb17f55"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67284b6fb5c1a723ffb189fb"
+  },
+  "values": [
+    {
+      "color": "mau do",
+      "symbol": "#d30303",
+      "size": [
+        {
+          "name_size": "",
+          "stock_attribute": 10000,
+          "price_attribute": 10000,
+          "_id": {
+            "$oid": "67284b6fb5c1a723ffb189fd"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67284b6fb5c1a723ffb189fc"
+      }
+    },
+    {
+      "color": "mau xanh",
+      "symbol": "#2779d9",
+      "size": [
+        {
+          "name_size": "",
+          "stock_attribute": 199,
+          "price_attribute": 10000,
+          "_id": {
+            "$oid": "67284b6fb5c1a723ffb189ff"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67284b6fb5c1a723ffb189fe"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "672ba7f996730b13c243c455"
+  },
+  "values": [
+    {
+      "color": "Ảnh mới sản phẩm",
+      "symbol": "https://res.cloudinary.com/dwya9mxip/image/upload/v1730692094/PRODUCTS/frfrbjx8twi3y1d3qxfp.jpg",
+      "size": [
+        {
+          "name_size": "XXL",
+          "stock_attribute": 1000,
+          "price_attribute": 2000,
+          "_id": {
+            "$oid": "672ba7f996730b13c243c457"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "672ba7f996730b13c243c456"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "672e1ecbba52719e19b7fe09"
+  },
+  "values": [
+    {
+      "color": "Ảnh mới sản phẩm",
+      "symbol": "https://res.cloudinary.com/dwya9mxip/image/upload/v1730692094/PRODUCTS/frfrbjx8twi3y1d3qxfp.jpg",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 43543543,
+          "price_attribute": 54534,
+          "_id": {
+            "$oid": "672e1ecbba52719e19b7fe0b"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "672e1ecbba52719e19b7fe0a"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "672e1f45ba52719e19b7feb5"
+  },
+  "values": [
+    {
+      "color": "Màu Vàng",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 100,
+          "price_attribute": 100000,
+          "_id": {
+            "$oid": "672e1f45ba52719e19b7feb7"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "672e1f45ba52719e19b7feb6"
+      }
+    },
+    {
+      "color": "Màu Hồng",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 7,
+          "price_attribute": 200000,
+          "_id": {
+            "$oid": "672e1f45ba52719e19b7feb9"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "672e1f45ba52719e19b7feb8"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "672f5e68586d53f2acf7e6de"
+  },
+  "values": [
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 65,
+          "price_attribute": 247.5,
+          "_id": {
+            "$oid": "672f5e68586d53f2acf7e6e0"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 62,
+          "price_attribute": 247.5,
+          "_id": {
+            "$oid": "672f5e68586d53f2acf7e6e1"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 76,
+          "price_attribute": 247.5,
+          "_id": {
+            "$oid": "672f5e68586d53f2acf7e6e2"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 67,
+          "price_attribute": 247.5,
+          "_id": {
+            "$oid": "672f5e68586d53f2acf7e6e3"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "672f5e68586d53f2acf7e6df"
+      }
+    },
+    {
+      "color": "Trắng",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 89,
+          "price_attribute": 247.5,
+          "_id": {
+            "$oid": "672f5e68586d53f2acf7e6e5"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 60,
+          "price_attribute": 247.5,
+          "_id": {
+            "$oid": "672f5e68586d53f2acf7e6e6"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 82,
+          "price_attribute": 247.5,
+          "_id": {
+            "$oid": "672f5e68586d53f2acf7e6e7"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "672f5e68586d53f2acf7e6e4"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6730dc27d784ee269021603b"
+  },
+  "values": [
+    {
+      "color": "Màu Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 90,
+          "price_attribute": 100000,
+          "_id": {
+            "$oid": "6730dc27d784ee269021603d"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 198,
+          "price_attribute": 100000,
+          "_id": {
+            "$oid": "6730dc27d784ee269021603e"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6730dc27d784ee269021603c"
+      }
+    },
+    {
+      "color": "Màu Be",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 100,
+          "price_attribute": 100000,
+          "_id": {
+            "$oid": "6730dc27d784ee2690216040"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 90,
+          "price_attribute": 100000,
+          "_id": {
+            "$oid": "6730dc27d784ee2690216041"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6730dc27d784ee269021603f"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673828916456ec850c1d5737"
+  },
+  "values": [
+    {
+      "color": "Kích thước",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 10,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "673828916456ec850c1d5739"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 99,
+          "price_attribute": 579000,
+          "_id": {
+            "$oid": "673828916456ec850c1d573a"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "673828916456ec850c1d5738"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673f33d09439672cc0cb5972"
+  },
+  "values": [
+    {
+      "color": "màu đỏ",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 120,
+          "price_attribute": 12000,
+          "_id": {
+            "$oid": "673f33d09439672cc0cb5974"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "673f33d09439672cc0cb5973"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6740155dfd34db858c3fd1df"
+  },
+  "values": [
+    {
+      "color": "Màu Kem",
+      "symbol": "#2779d9",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 6,
+          "price_attribute": 2190000,
+          "_id": {
+            "$oid": "6740155dfd34db858c3fd1e1"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 15,
+          "price_attribute": 2190000,
+          "_id": {
+            "$oid": "6740155dfd34db858c3fd1e2"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6740155dfd34db858c3fd1e0"
+      }
+    },
+    {
+      "color": "Màu Xanh",
+      "symbol": "#c66619",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 100,
+          "price_attribute": 2290000,
+          "_id": {
+            "$oid": "6740155dfd34db858c3fd1e4"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 49,
+          "price_attribute": 2190000,
+          "_id": {
+            "$oid": "6740155dfd34db858c3fd1e5"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 29,
+          "price_attribute": 2290000,
+          "_id": {
+            "$oid": "6740155dfd34db858c3fd1e6"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6740155dfd34db858c3fd1e3"
+      }
+    },
+    {
+      "color": "Màu Đen",
+      "symbol": "#d0babd",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 15,
+          "price_attribute": 2400000,
+          "_id": {
+            "$oid": "6740155dfd34db858c3fd1e8"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 13,
+          "price_attribute": 2400000,
+          "_id": {
+            "$oid": "6740155dfd34db858c3fd1e9"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 20,
+          "price_attribute": 2450000,
+          "_id": {
+            "$oid": "6740155dfd34db858c3fd1ea"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6740155dfd34db858c3fd1e7"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6740174dfd34db858c3fdab0"
+  },
+  "values": [
+    {
+      "color": "Màu be",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 12,
+          "price_attribute": 2660000,
+          "_id": {
+            "$oid": "6740174dfd34db858c3fdab2"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 13,
+          "price_attribute": 2660000,
+          "_id": {
+            "$oid": "6740174dfd34db858c3fdab3"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 19,
+          "price_attribute": 2560000,
+          "_id": {
+            "$oid": "6740174dfd34db858c3fdab4"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6740174dfd34db858c3fdab1"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674019a4fd34db858c3fe293"
+  },
+  "values": [
+    {
+      "color": "Hoa nền xanh",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 15,
+          "price_attribute": 199000,
+          "_id": {
+            "$oid": "674019a4fd34db858c3fe295"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 2,
+          "price_attribute": 199000,
+          "_id": {
+            "$oid": "674019a4fd34db858c3fe296"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674019a4fd34db858c3fe294"
+      }
+    },
+    {
+      "color": "Hoa nền hồng",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 20,
+          "price_attribute": 198000,
+          "_id": {
+            "$oid": "674019a4fd34db858c3fe298"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 21,
+          "price_attribute": 210000,
+          "_id": {
+            "$oid": "674019a4fd34db858c3fe299"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674019a4fd34db858c3fe297"
+      }
+    },
+    {
+      "color": "Hoa nền trắng",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 140,
+          "price_attribute": 178000,
+          "_id": {
+            "$oid": "674019a4fd34db858c3fe29b"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 59,
+          "price_attribute": 188000,
+          "_id": {
+            "$oid": "674019a4fd34db858c3fe29c"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674019a4fd34db858c3fe29a"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674036525984b23cb2471d7a"
+  },
+  "values": [
+    {
+      "color": "Màu Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 98,
+          "price_attribute": 100000,
+          "_id": {
+            "$oid": "674036525984b23cb2471d7c"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 200,
+          "price_attribute": 100000,
+          "_id": {
+            "$oid": "674036525984b23cb2471d7d"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674036525984b23cb2471d7b"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674036c65984b23cb2471ea2"
+  },
+  "values": [
+    {
+      "color": "Màu Trắng",
+      "symbol": "#d0babd",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 98,
+          "price_attribute": 150000,
+          "_id": {
+            "$oid": "674036c65984b23cb2471ea4"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 77,
+          "price_attribute": 150000,
+          "_id": {
+            "$oid": "674036c65984b23cb2471ea5"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 79,
+          "price_attribute": 150000,
+          "_id": {
+            "$oid": "674036c65984b23cb2471ea6"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674036c65984b23cb2471ea3"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6740375f5984b23cb2472016"
+  },
+  "values": [
+    {
+      "color": "Màu Trắng",
+      "symbol": "#d0babd",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 79,
+          "price_attribute": 150000,
+          "_id": {
+            "$oid": "6740375f5984b23cb2472018"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 95,
+          "price_attribute": 150000,
+          "_id": {
+            "$oid": "6740375f5984b23cb2472019"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6740375f5984b23cb2472017"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67404f2ff6e623739ae5f3a8"
+  },
+  "values": [
+    {
+      "color": "ao thun",
+      "symbol": "https://res.cloudinary.com/dwya9mxip/image/upload/v1732267678/PRODUCTS/qkpolcv3y23n8fyc8ykj.webp",
+      "size": [
+        {
+          "name_size": "XL",
+          "stock_attribute": 4348,
+          "price_attribute": 43543543,
+          "_id": {
+            "$oid": "67404f2ff6e623739ae5f3aa"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67404f2ff6e623739ae5f3a9"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67408dd64df691566e44489c"
+  },
+  "values": [
+    {
+      "color": "màu xám",
+      "symbol": "#392d2d",
+      "size": [],
+      "_id": {
+        "$oid": "67408dd64df691566e44489d"
+      }
+    },
+    {
+      "color": "màu nâu",
+      "symbol": "#c66619",
+      "size": [],
+      "_id": {
+        "$oid": "67408dd64df691566e44489e"
+      }
+    },
+    {
+      "color": "Màu Trắng",
+      "symbol": "#d0babd",
+      "size": [],
+      "_id": {
+        "$oid": "67408dd64df691566e44489f"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67483e5a051ab760174d345d"
+  },
+  "values": [
+    {
+      "color": "Màu Trắng",
+      "symbol": "#d0babd",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 27,
+          "price_attribute": 260000,
+          "_id": {
+            "$oid": "67483e5a051ab760174d345f"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 52,
+          "price_attribute": 270000,
+          "_id": {
+            "$oid": "67483e5a051ab760174d3460"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 5,
+          "price_attribute": 260000,
+          "_id": {
+            "$oid": "67483e5a051ab760174d3461"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67483e5a051ab760174d345e"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67483f73051ab760174d3842"
+  },
+  "values": [
+    {
+      "color": "Xanh Rêu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 0,
+          "price_attribute": 260000,
+          "_id": {
+            "$oid": "67483f73051ab760174d3844"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 7,
+          "price_attribute": 265000,
+          "_id": {
+            "$oid": "67483f73051ab760174d3845"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 30,
+          "price_attribute": 265000,
+          "_id": {
+            "$oid": "67483f73051ab760174d3846"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67483f73051ab760174d3843"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67483fc9bd6fbb5ecb2cb22f"
+  },
+  "values": [
+    {
+      "color": "ao thun",
+      "symbol": "https://res.cloudinary.com/dwya9mxip/image/upload/v1732267678/PRODUCTS/qkpolcv3y23n8fyc8ykj.webp",
+      "size": [
+        {
+          "name_size": "XL",
+          "stock_attribute": 4348,
+          "price_attribute": 43543543,
+          "_id": {
+            "$oid": "67483fc9bd6fbb5ecb2cb231"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67483fc9bd6fbb5ecb2cb230"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67483fe1bd6fbb5ecb2cb274"
+  },
+  "values": [
+    {
+      "color": "Xanh Rêu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 0,
+          "price_attribute": 2620000,
+          "_id": {
+            "$oid": "67483fe1bd6fbb5ecb2cb276"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 7,
+          "price_attribute": 265000,
+          "_id": {
+            "$oid": "67483fe1bd6fbb5ecb2cb277"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67483fe1bd6fbb5ecb2cb275"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67484013bd6fbb5ecb2cb36a"
+  },
+  "values": [
+    {
+      "color": "Xanh Rêu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 0,
+          "price_attribute": 2620000,
+          "_id": {
+            "$oid": "67484013bd6fbb5ecb2cb36c"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 7,
+          "price_attribute": 265000,
+          "_id": {
+            "$oid": "67484013bd6fbb5ecb2cb36d"
+          }
+        },
+        {
+          "name_size": "XS",
+          "stock_attribute": 192,
+          "price_attribute": 425000,
+          "_id": {
+            "$oid": "67484013bd6fbb5ecb2cb36e"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67484013bd6fbb5ecb2cb36b"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67484092051ab760174d3a41"
+  },
+  "values": [
+    {
+      "color": "Xanh Dương",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 95,
+          "price_attribute": 583000,
+          "_id": {
+            "$oid": "67484092051ab760174d3a43"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 118,
+          "price_attribute": 490000,
+          "_id": {
+            "$oid": "67484092051ab760174d3a44"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67484092051ab760174d3a42"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67484185bd6fbb5ecb2cb52d"
+  },
+  "values": [
+    {
+      "color": "Xanh Rêu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 0,
+          "price_attribute": 2620000,
+          "_id": {
+            "$oid": "67484185bd6fbb5ecb2cb52f"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 7,
+          "price_attribute": 265000,
+          "_id": {
+            "$oid": "67484185bd6fbb5ecb2cb530"
+          }
+        },
+        {
+          "name_size": "XS",
+          "stock_attribute": 192,
+          "price_attribute": 425000,
+          "_id": {
+            "$oid": "67484185bd6fbb5ecb2cb531"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67484185bd6fbb5ecb2cb52e"
+      }
+    },
+    {
+      "color": "Trắng",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 995,
+          "price_attribute": 2560000,
+          "_id": {
+            "$oid": "67484185bd6fbb5ecb2cb533"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67484185bd6fbb5ecb2cb532"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674841dfbd6fbb5ecb2cb662"
+  },
+  "values": [
+    {
+      "color": "Xanh Dương",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 95,
+          "price_attribute": 583000,
+          "_id": {
+            "$oid": "674841dfbd6fbb5ecb2cb664"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 118,
+          "price_attribute": 490000,
+          "_id": {
+            "$oid": "674841dfbd6fbb5ecb2cb665"
+          }
+        },
+        {
+          "name_size": "XS",
+          "stock_attribute": 199,
+          "price_attribute": 590000,
+          "_id": {
+            "$oid": "674841dfbd6fbb5ecb2cb666"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674841dfbd6fbb5ecb2cb663"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67484206bd6fbb5ecb2cb6ee"
+  },
+  "values": [
+    {
+      "color": "Xanh Dương",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 95,
+          "price_attribute": 583000,
+          "_id": {
+            "$oid": "67484206bd6fbb5ecb2cb6f0"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 118,
+          "price_attribute": 490000,
+          "_id": {
+            "$oid": "67484206bd6fbb5ecb2cb6f1"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67484206bd6fbb5ecb2cb6ef"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67484229bd6fbb5ecb2cb775"
+  },
+  "values": [
+    {
+      "color": "Xanh Dương",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 95,
+          "price_attribute": 583000,
+          "_id": {
+            "$oid": "67484229bd6fbb5ecb2cb777"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 118,
+          "price_attribute": 490000,
+          "_id": {
+            "$oid": "67484229bd6fbb5ecb2cb778"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67484229bd6fbb5ecb2cb776"
+      }
+    },
+    {
+      "color": "Trắng",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "XL",
+          "stock_attribute": 1000,
+          "price_attribute": 2560000,
+          "_id": {
+            "$oid": "67484229bd6fbb5ecb2cb77a"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67484229bd6fbb5ecb2cb779"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6748429fbd6fbb5ecb2cb8de"
+  },
+  "values": [
+    {
+      "color": "Xanh Dương",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 95,
+          "price_attribute": 583000,
+          "_id": {
+            "$oid": "6748429fbd6fbb5ecb2cb8e0"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 118,
+          "price_attribute": 490000,
+          "_id": {
+            "$oid": "6748429fbd6fbb5ecb2cb8e1"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6748429fbd6fbb5ecb2cb8df"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674842bcbd6fbb5ecb2cb926"
+  },
+  "values": [
+    {
+      "color": "Xanh Dương",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 95,
+          "price_attribute": 583000,
+          "_id": {
+            "$oid": "674842bcbd6fbb5ecb2cb928"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 118,
+          "price_attribute": 490000,
+          "_id": {
+            "$oid": "674842bcbd6fbb5ecb2cb929"
+          }
+        },
+        {
+          "name_size": "XXL",
+          "stock_attribute": 198,
+          "price_attribute": 590000,
+          "_id": {
+            "$oid": "674842bcbd6fbb5ecb2cb92a"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674842bcbd6fbb5ecb2cb927"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674843abbd6fbb5ecb2cbbc1"
+  },
+  "values": [
+    {
+      "color": "Xanh Dương",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 95,
+          "price_attribute": 583000,
+          "_id": {
+            "$oid": "674843abbd6fbb5ecb2cbbc3"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 118,
+          "price_attribute": 490000,
+          "_id": {
+            "$oid": "674843abbd6fbb5ecb2cbbc4"
+          }
+        },
+        {
+          "name_size": "XXL",
+          "stock_attribute": 198,
+          "price_attribute": 590000,
+          "_id": {
+            "$oid": "674843abbd6fbb5ecb2cbbc5"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 21,
+          "price_attribute": 550000,
+          "_id": {
+            "$oid": "674843abbd6fbb5ecb2cbbc6"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674843abbd6fbb5ecb2cbbc2"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674843b9bd6fbb5ecb2cbc11"
+  },
+  "values": [
+    {
+      "color": "Xanh Dương",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 95,
+          "price_attribute": 583000,
+          "_id": {
+            "$oid": "674843b9bd6fbb5ecb2cbc13"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 118,
+          "price_attribute": 490000,
+          "_id": {
+            "$oid": "674843b9bd6fbb5ecb2cbc14"
+          }
+        },
+        {
+          "name_size": "XXL",
+          "stock_attribute": 198,
+          "price_attribute": 590000,
+          "_id": {
+            "$oid": "674843b9bd6fbb5ecb2cbc15"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674843b9bd6fbb5ecb2cbc12"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67487857051ab760174d46fe"
+  },
+  "values": [
+    {
+      "color": "Màu xám",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 15,
+          "price_attribute": 356000,
+          "_id": {
+            "$oid": "67487857051ab760174d4700"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 20,
+          "price_attribute": 365000,
+          "_id": {
+            "$oid": "67487857051ab760174d4701"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 50,
+          "price_attribute": 355000,
+          "_id": {
+            "$oid": "67487857051ab760174d4702"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67487857051ab760174d46ff"
+      }
+    },
+    {
+      "color": "Màu be",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 9,
+          "price_attribute": 365000,
+          "_id": {
+            "$oid": "67487857051ab760174d4704"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 15,
+          "price_attribute": 369000,
+          "_id": {
+            "$oid": "67487857051ab760174d4705"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 40,
+          "price_attribute": 360000,
+          "_id": {
+            "$oid": "67487857051ab760174d4706"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67487857051ab760174d4703"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67487929051ab760174d4760"
+  },
+  "values": [
+    {
+      "color": "Trắng Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 6,
+          "price_attribute": 287000,
+          "_id": {
+            "$oid": "67487929051ab760174d4762"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 95,
+          "price_attribute": 300000,
+          "_id": {
+            "$oid": "67487929051ab760174d4763"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 45,
+          "price_attribute": 289000,
+          "_id": {
+            "$oid": "67487929051ab760174d4764"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67487929051ab760174d4761"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67487a71051ab760174d4b18"
+  },
+  "values": [
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 0,
+          "price_attribute": 350000,
+          "_id": {
+            "$oid": "67487a71051ab760174d4b1a"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 6,
+          "price_attribute": 355000,
+          "_id": {
+            "$oid": "67487a71051ab760174d4b1b"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 88,
+          "price_attribute": 350000,
+          "_id": {
+            "$oid": "67487a71051ab760174d4b1c"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67487a71051ab760174d4b19"
+      }
+    },
+    {
+      "color": "Nâu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 29,
+          "price_attribute": 350000,
+          "_id": {
+            "$oid": "67487a71051ab760174d4b1e"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 9,
+          "price_attribute": 359000,
+          "_id": {
+            "$oid": "67487a71051ab760174d4b1f"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67487a71051ab760174d4b1d"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67487c16051ab760174d53e3"
+  },
+  "values": [
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 0,
+          "price_attribute": 377000,
+          "_id": {
+            "$oid": "67487c16051ab760174d53e5"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 76,
+          "price_attribute": 390000,
+          "_id": {
+            "$oid": "67487c16051ab760174d53e6"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 38,
+          "price_attribute": 385000,
+          "_id": {
+            "$oid": "67487c16051ab760174d53e7"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67487c16051ab760174d53e4"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67487cdb051ab760174d54ea"
+  },
+  "values": [
+    {
+      "color": "Màu Trắng",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 0,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "67487cdb051ab760174d54ec"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 0,
+          "price_attribute": 320000,
+          "_id": {
+            "$oid": "67487cdb051ab760174d54ed"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 92,
+          "price_attribute": 320000,
+          "_id": {
+            "$oid": "67487cdb051ab760174d54ee"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67487cdb051ab760174d54eb"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67487db8051ab760174d5691"
+  },
+  "values": [
+    {
+      "color": "Đen phối kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 43,
+          "price_attribute": 315000,
+          "_id": {
+            "$oid": "67487db8051ab760174d5693"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 15,
+          "price_attribute": 320000,
+          "_id": {
+            "$oid": "67487db8051ab760174d5694"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67487db8051ab760174d5692"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67487e73051ab760174d5810"
+  },
+  "values": [
+    {
+      "color": "Sọc Xanh Đậm",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 4,
+          "price_attribute": 315000,
+          "_id": {
+            "$oid": "67487e73051ab760174d5812"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 5,
+          "price_attribute": 310000,
+          "_id": {
+            "$oid": "67487e73051ab760174d5813"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67487e73051ab760174d5811"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67487fc1051ab760174d5922"
+  },
+  "values": [
+    {
+      "color": "Vàng Đậm",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 0,
+          "price_attribute": 149000,
+          "_id": {
+            "$oid": "67487fc1051ab760174d5924"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 5,
+          "price_attribute": 145000,
+          "_id": {
+            "$oid": "67487fc1051ab760174d5925"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67487fc1051ab760174d5923"
+      }
+    },
+    {
+      "color": "Đỏ Đậm",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 16,
+          "price_attribute": 149000,
+          "_id": {
+            "$oid": "67487fc1051ab760174d5927"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67487fc1051ab760174d5926"
+      }
+    },
+    {
+      "color": "Xanh Nước Biển",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 99,
+          "price_attribute": 149000,
+          "_id": {
+            "$oid": "67487fc1051ab760174d5929"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67487fc1051ab760174d5928"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67493708051ab760174d5dd5"
+  },
+  "values": [
+    {
+      "color": "Màu đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 2,
+          "price_attribute": 224000,
+          "_id": {
+            "$oid": "67493708051ab760174d5dd7"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 25,
+          "price_attribute": 220000,
+          "_id": {
+            "$oid": "67493708051ab760174d5dd8"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 2,
+          "price_attribute": 225000,
+          "_id": {
+            "$oid": "67493708051ab760174d5dd9"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67493708051ab760174d5dd6"
+      }
+    },
+    {
+      "color": "Màu rêu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 24,
+          "price_attribute": 224000,
+          "_id": {
+            "$oid": "67493708051ab760174d5ddb"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67493708051ab760174d5dda"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674937d9051ab760174d5f15"
+  },
+  "values": [
+    {
+      "color": "Màu đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 0,
+          "price_attribute": 260000,
+          "_id": {
+            "$oid": "674937d9051ab760174d5f17"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 15,
+          "price_attribute": 265000,
+          "_id": {
+            "$oid": "674937d9051ab760174d5f18"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674937d9051ab760174d5f16"
+      }
+    },
+    {
+      "color": "Màu Nâu Nhạt",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 28,
+          "price_attribute": 265000,
+          "_id": {
+            "$oid": "674937d9051ab760174d5f1a"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 28,
+          "price_attribute": 260000,
+          "_id": {
+            "$oid": "674937d9051ab760174d5f1b"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674937d9051ab760174d5f19"
+      }
+    },
+    {
+      "color": "Màu Trắng Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "XL",
+          "stock_attribute": 10,
+          "price_attribute": 260000,
+          "_id": {
+            "$oid": "674937d9051ab760174d5f1d"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 100,
+          "price_attribute": 269000,
+          "_id": {
+            "$oid": "674937d9051ab760174d5f1e"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674937d9051ab760174d5f1c"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6749386e051ab760174d5f73"
+  },
+  "values": [
+    {
+      "color": "Màu Be",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 6,
+          "price_attribute": 377000,
+          "_id": {
+            "$oid": "6749386e051ab760174d5f75"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 17,
+          "price_attribute": 375000,
+          "_id": {
+            "$oid": "6749386e051ab760174d5f76"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6749386e051ab760174d5f74"
+      }
+    },
+    {
+      "color": "Màu Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 30,
+          "price_attribute": 377000,
+          "_id": {
+            "$oid": "6749386e051ab760174d5f78"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 34,
+          "price_attribute": 379000,
+          "_id": {
+            "$oid": "6749386e051ab760174d5f79"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6749386e051ab760174d5f77"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67493918051ab760174d5fcd"
+  },
+  "values": [
+    {
+      "color": "Màu Xanh Nhạt",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 14,
+          "price_attribute": 351000,
+          "_id": {
+            "$oid": "67493918051ab760174d5fcf"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 33,
+          "price_attribute": 350000,
+          "_id": {
+            "$oid": "67493918051ab760174d5fd0"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67493918051ab760174d5fce"
+      }
+    },
+    {
+      "color": "Màu Xanh Đậm",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 20,
+          "price_attribute": 349000,
+          "_id": {
+            "$oid": "67493918051ab760174d5fd2"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 25,
+          "price_attribute": 351000,
+          "_id": {
+            "$oid": "67493918051ab760174d5fd3"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67493918051ab760174d5fd1"
+      }
+    },
+    {
+      "color": "Màu Xám Đậm",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 100,
+          "price_attribute": 370000,
+          "_id": {
+            "$oid": "67493918051ab760174d5fd5"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 0,
+          "price_attribute": 359000,
+          "_id": {
+            "$oid": "67493918051ab760174d5fd6"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67493918051ab760174d5fd4"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67493a1c051ab760174d6c11"
+  },
+  "values": [
+    {
+      "color": "Xám Wash",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 93,
+          "price_attribute": 149000,
+          "_id": {
+            "$oid": "67493a1c051ab760174d6c13"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 60,
+          "price_attribute": 145000,
+          "_id": {
+            "$oid": "67493a1c051ab760174d6c14"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67493a1c051ab760174d6c12"
+      }
+    },
+    {
+      "color": "Xanh Wash",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "XL",
+          "stock_attribute": 38,
+          "price_attribute": 159000,
+          "_id": {
+            "$oid": "67493a1c051ab760174d6c16"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 45,
+          "price_attribute": 149000,
+          "_id": {
+            "$oid": "67493a1c051ab760174d6c17"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67493a1c051ab760174d6c15"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67493c6d051ab760174d6eeb"
+  },
+  "values": [
+    {
+      "color": "Camo Rêu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 10,
+          "price_attribute": 149000,
+          "_id": {
+            "$oid": "67493c6d051ab760174d6eed"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 19,
+          "price_attribute": 149000,
+          "_id": {
+            "$oid": "67493c6d051ab760174d6eee"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 25,
+          "price_attribute": 155000,
+          "_id": {
+            "$oid": "67493c6d051ab760174d6eef"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67493c6d051ab760174d6eec"
+      }
+    },
+    {
+      "color": "Sọc Vàng",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 35,
+          "price_attribute": 149000,
+          "_id": {
+            "$oid": "67493c6d051ab760174d6ef1"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 99,
+          "price_attribute": 159000,
+          "_id": {
+            "$oid": "67493c6d051ab760174d6ef2"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67493c6d051ab760174d6ef0"
+      }
+    },
+    {
+      "color": "Xanh Sọc",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 15,
+          "price_attribute": 149000,
+          "_id": {
+            "$oid": "67493c6d051ab760174d6ef4"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 79,
+          "price_attribute": 159000,
+          "_id": {
+            "$oid": "67493c6d051ab760174d6ef5"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67493c6d051ab760174d6ef3"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67493d9c051ab760174d712e"
+  },
+  "values": [
+    {
+      "color": "Màu Trắng",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 39,
+          "price_attribute": 287000,
+          "_id": {
+            "$oid": "67493d9c051ab760174d7130"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 27,
+          "price_attribute": 289000,
+          "_id": {
+            "$oid": "67493d9c051ab760174d7131"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67493d9c051ab760174d712f"
+      }
+    },
+    {
+      "color": "Màu Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 54,
+          "price_attribute": 289000,
+          "_id": {
+            "$oid": "67493d9c051ab760174d7133"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 49,
+          "price_attribute": 279000,
+          "_id": {
+            "$oid": "67493d9c051ab760174d7134"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67493d9c051ab760174d7132"
+      }
+    },
+    {
+      "color": "Màu Nâu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 25,
+          "price_attribute": 287000,
+          "_id": {
+            "$oid": "67493d9c051ab760174d7136"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 20,
+          "price_attribute": 287000,
+          "_id": {
+            "$oid": "67493d9c051ab760174d7137"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67493d9c051ab760174d7135"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67493e2c051ab760174d71ed"
+  },
+  "values": [
+    {
+      "color": "Màu Nâu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 130,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "67493e2c051ab760174d71ef"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 98,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "67493e2c051ab760174d71f0"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 59,
+          "price_attribute": 319000,
+          "_id": {
+            "$oid": "67493e2c051ab760174d71f1"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67493e2c051ab760174d71ee"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67493eb9051ab760174d7254"
+  },
+  "values": [
+    {
+      "color": "Pattern",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 146,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "67493eb9051ab760174d7256"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 99,
+          "price_attribute": 319000,
+          "_id": {
+            "$oid": "67493eb9051ab760174d7257"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 50,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "67493eb9051ab760174d7258"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67493eb9051ab760174d7255"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67493f3d051ab760174d72bb"
+  },
+  "values": [
+    {
+      "color": "Pattern",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 6,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "67493f3d051ab760174d72bd"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 19,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "67493f3d051ab760174d72be"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 68,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "67493f3d051ab760174d72bf"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67493f3d051ab760174d72bc"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67494017051ab760174d73ba"
+  },
+  "values": [
+    {
+      "color": "Màu Trắng",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 40,
+          "price_attribute": 350000,
+          "_id": {
+            "$oid": "67494017051ab760174d73bc"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 41,
+          "price_attribute": 355000,
+          "_id": {
+            "$oid": "67494017051ab760174d73bd"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67494017051ab760174d73bb"
+      }
+    },
+    {
+      "color": "Màu Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 90,
+          "price_attribute": 359000,
+          "_id": {
+            "$oid": "67494017051ab760174d73bf"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 100,
+          "price_attribute": 350000,
+          "_id": {
+            "$oid": "67494017051ab760174d73c0"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67494017051ab760174d73be"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67494151051ab760174d7508"
+  },
+  "values": [
+    {
+      "color": "Sọc Xanh",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 10,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "67494151051ab760174d750a"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 99,
+          "price_attribute": 329000,
+          "_id": {
+            "$oid": "67494151051ab760174d750b"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 19,
+          "price_attribute": 300000,
+          "_id": {
+            "$oid": "67494151051ab760174d750c"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67494151051ab760174d7509"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67498b9b805c1c9e28a25e39"
+  },
+  "values": [
+    {
+      "color": "Sọc Xanh",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 10,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "67498b9b805c1c9e28a25e3b"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 99,
+          "price_attribute": 329000,
+          "_id": {
+            "$oid": "67498b9b805c1c9e28a25e3c"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 20,
+          "price_attribute": 300000,
+          "_id": {
+            "$oid": "67498b9b805c1c9e28a25e3d"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67498b9b805c1c9e28a25e3a"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674b37d8b559649f1daa63fe"
+  },
+  "values": [
+    {
+      "color": "Sọc Xanh",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 10,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674b37d8b559649f1daa6400"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 99,
+          "price_attribute": 329000,
+          "_id": {
+            "$oid": "674b37d8b559649f1daa6401"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 20,
+          "price_attribute": 300000,
+          "_id": {
+            "$oid": "674b37d8b559649f1daa6402"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674b37d8b559649f1daa63ff"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674b3dbbd8be2a6bff457277"
+  },
+  "values": [
+    {
+      "color": "Màu Trắng",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 40,
+          "price_attribute": 350000,
+          "_id": {
+            "$oid": "674b3dbbd8be2a6bff457279"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 41,
+          "price_attribute": 355000,
+          "_id": {
+            "$oid": "674b3dbbd8be2a6bff45727a"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674b3dbbd8be2a6bff457278"
+      }
+    },
+    {
+      "color": "Màu Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 90,
+          "price_attribute": 359000,
+          "_id": {
+            "$oid": "674b3dbbd8be2a6bff45727c"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 100,
+          "price_attribute": 350000,
+          "_id": {
+            "$oid": "674b3dbbd8be2a6bff45727d"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674b3dbbd8be2a6bff45727b"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674b3e31d8be2a6bff4573a8"
+  },
+  "values": [
+    {
+      "color": "Sọc Xanh",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 10,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674b3e31d8be2a6bff4573aa"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 99,
+          "price_attribute": 329000,
+          "_id": {
+            "$oid": "674b3e31d8be2a6bff4573ab"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 20,
+          "price_attribute": 300000,
+          "_id": {
+            "$oid": "674b3e31d8be2a6bff4573ac"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674b3e31d8be2a6bff4573a9"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d6ad15687bd787fbaf9ef"
+  },
+  "values": [
+    {
+      "color": "Màu Trắng",
+      "symbol": "#d0babd",
+      "size": [
+        {
+          "name_size": "XL",
+          "stock_attribute": 95,
+          "price_attribute": 11111111,
+          "_id": {
+            "$oid": "674d6ad15687bd787fbaf9f1"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674d6ad15687bd787fbaf9f0"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d6b815687bd787fbafbc0"
+  },
+  "values": [
+    {
+      "color": "Pattern",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 146,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674d6b815687bd787fbafbc2"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 99,
+          "price_attribute": 319000,
+          "_id": {
+            "$oid": "674d6b815687bd787fbafbc3"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 50,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674d6b815687bd787fbafbc4"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674d6b815687bd787fbafbc1"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d6b915687bd787fbafc1f"
+  },
+  "values": [
+    {
+      "color": "Pattern",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 146,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674d6b915687bd787fbafc21"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 99,
+          "price_attribute": 319000,
+          "_id": {
+            "$oid": "674d6b915687bd787fbafc22"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 50,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674d6b915687bd787fbafc23"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674d6b915687bd787fbafc20"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d702e92d3b5d795f97384"
+  },
+  "values": [
+    {
+      "color": "Pattern",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 146,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674d702e92d3b5d795f97386"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 99,
+          "price_attribute": 319000,
+          "_id": {
+            "$oid": "674d702e92d3b5d795f97387"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 50,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674d702e92d3b5d795f97388"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674d702e92d3b5d795f97385"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674e52cd3a603cdc33d7eb4d"
+  },
+  "values": [
+    {
+      "color": "màu đỏ",
+      "symbol": "#392d2d",
+      "size": [],
+      "_id": {
+        "$oid": "674e52cd3a603cdc33d7eb4e"
+      }
+    },
+    {
+      "color": "mau xanh",
+      "symbol": "#2779d9",
+      "size": [],
+      "_id": {
+        "$oid": "674e52cd3a603cdc33d7eb4f"
+      }
+    },
+    {
+      "color": "màu nâu",
+      "symbol": "#c66619",
+      "size": [],
+      "_id": {
+        "$oid": "674e52cd3a603cdc33d7eb50"
+      }
+    },
+    {
+      "color": "Màu Trắng",
+      "symbol": "#d0babd",
+      "size": [],
+      "_id": {
+        "$oid": "674e52cd3a603cdc33d7eb51"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674e53d93a603cdc33d7ec3d"
+  },
+  "values": [
+    {
+      "color": "màu greyeyyeye",
+      "symbol": "#392d2d",
+      "size": [
+        {
+          "name_size": "XXL",
+          "stock_attribute": 4,
+          "price_attribute": 566666666,
+          "_id": {
+            "$oid": "674e53d93a603cdc33d7ec3f"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674e53d93a603cdc33d7ec3e"
+      }
+    },
+    {
+      "color": "mau xanh",
+      "symbol": "#2779d9",
+      "size": [],
+      "_id": {
+        "$oid": "674e53d93a603cdc33d7ec40"
+      }
+    },
+    {
+      "color": "màu nâu",
+      "symbol": "#c66619",
+      "size": [],
+      "_id": {
+        "$oid": "674e53d93a603cdc33d7ec41"
+      }
+    },
+    {
+      "color": "Màu Trắng",
+      "symbol": "#d0babd",
+      "size": [],
+      "_id": {
+        "$oid": "674e53d93a603cdc33d7ec42"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674f3238415ae3c4ea7b474f"
+  },
+  "values": [
+    {
+      "color": "Màu đỏ",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 1000,
+          "price_attribute": 285000,
+          "_id": {
+            "$oid": "674f3238415ae3c4ea7b4751"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f3238415ae3c4ea7b4750"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674f35ea95ba8e96d4728022"
+  },
+  "values": [
+    {
+      "color": "Màu đỏ",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 1000,
+          "price_attribute": 285000,
+          "_id": {
+            "$oid": "674f35ea95ba8e96d4728024"
+          }
+        },
+        {
+          "name_size": "XS",
+          "stock_attribute": 1500,
+          "price_attribute": 258000,
+          "_id": {
+            "$oid": "674f35ea95ba8e96d4728025"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f35ea95ba8e96d4728023"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674f58882b1afff5ed32dce1"
+  },
+  "values": [
+    {
+      "color": "Màu đỏ",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 1000,
+          "price_attribute": 285000,
+          "_id": {
+            "$oid": "674f58882b1afff5ed32dce3"
+          }
+        },
+        {
+          "name_size": "XS",
+          "stock_attribute": 1500,
+          "price_attribute": 258000,
+          "_id": {
+            "$oid": "674f58882b1afff5ed32dce4"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f58882b1afff5ed32dce2"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674f6088926057db153a4afe"
+  },
+  "values": [
+    {
+      "color": "Màu đỏ",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 1000,
+          "price_attribute": 285000,
+          "_id": {
+            "$oid": "674f6088926057db153a4b00"
+          }
+        },
+        {
+          "name_size": "XS",
+          "stock_attribute": 1500,
+          "price_attribute": 270000,
+          "_id": {
+            "$oid": "674f6088926057db153a4b01"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f6088926057db153a4aff"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674f60a0926057db153a4b55"
+  },
+  "values": [
+    {
+      "color": "Màu đỏ",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 1000,
+          "price_attribute": 285000,
+          "_id": {
+            "$oid": "674f60a0926057db153a4b57"
+          }
+        },
+        {
+          "name_size": "XS",
+          "stock_attribute": 1500,
+          "price_attribute": 270000,
+          "_id": {
+            "$oid": "674f60a0926057db153a4b58"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f60a0926057db153a4b56"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674f60b4926057db153a4bac"
+  },
+  "values": [
+    {
+      "color": "Màu đỏ",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 1000,
+          "price_attribute": 285000,
+          "_id": {
+            "$oid": "674f60b4926057db153a4bae"
+          }
+        },
+        {
+          "name_size": "XS",
+          "stock_attribute": 1500,
+          "price_attribute": 270000,
+          "_id": {
+            "$oid": "674f60b4926057db153a4baf"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f60b4926057db153a4bad"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674fe5e530fc628fb7747f0c"
+  },
+  "values": [
+    {
+      "color": "Be",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 190,
+          "price_attribute": 449000,
+          "_id": {
+            "$oid": "674fe5e530fc628fb7747f0e"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 49,
+          "price_attribute": 439000,
+          "_id": {
+            "$oid": "674fe5e530fc628fb7747f0f"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 50,
+          "price_attribute": 449000,
+          "_id": {
+            "$oid": "674fe5e530fc628fb7747f10"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fe5e530fc628fb7747f0d"
+      }
+    },
+    {
+      "color": "Xanh",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 50,
+          "price_attribute": 449000,
+          "_id": {
+            "$oid": "674fe5e530fc628fb7747f12"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fe5e530fc628fb7747f11"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674fe6ba30fc628fb7747fdb"
+  },
+  "values": [
+    {
+      "color": "Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 98,
+          "price_attribute": 420000,
+          "_id": {
+            "$oid": "674fe6ba30fc628fb7747fdd"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 10,
+          "price_attribute": 419000,
+          "_id": {
+            "$oid": "674fe6ba30fc628fb7747fde"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fe6ba30fc628fb7747fdc"
+      }
+    },
+    {
+      "color": "Xám",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 100,
+          "price_attribute": 420000,
+          "_id": {
+            "$oid": "674fe6ba30fc628fb7747fe0"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 60,
+          "price_attribute": 425000,
+          "_id": {
+            "$oid": "674fe6ba30fc628fb7747fe1"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fe6ba30fc628fb7747fdf"
+      }
+    },
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 239,
+          "price_attribute": 429000,
+          "_id": {
+            "$oid": "674fe6ba30fc628fb7747fe3"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fe6ba30fc628fb7747fe2"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674fe95330fc628fb77483be"
+  },
+  "values": [
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 139,
+          "price_attribute": 450000,
+          "_id": {
+            "$oid": "674fe95330fc628fb77483c0"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 126,
+          "price_attribute": 459000,
+          "_id": {
+            "$oid": "674fe95330fc628fb77483c1"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fe95330fc628fb77483bf"
+      }
+    },
+    {
+      "color": "Xám",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 29,
+          "price_attribute": 450000,
+          "_id": {
+            "$oid": "674fe95330fc628fb77483c3"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 45,
+          "price_attribute": 450000,
+          "_id": {
+            "$oid": "674fe95330fc628fb77483c4"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fe95330fc628fb77483c2"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674fea2030fc628fb774855d"
+  },
+  "values": [
+    {
+      "color": "Rêu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 100,
+          "price_attribute": 450000,
+          "_id": {
+            "$oid": "674fea2030fc628fb774855f"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 110,
+          "price_attribute": 455000,
+          "_id": {
+            "$oid": "674fea2030fc628fb7748560"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fea2030fc628fb774855e"
+      }
+    },
+    {
+      "color": "Be nâu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 100,
+          "price_attribute": 459000,
+          "_id": {
+            "$oid": "674fea2030fc628fb7748562"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 111,
+          "price_attribute": 455000,
+          "_id": {
+            "$oid": "674fea2030fc628fb7748563"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 59,
+          "price_attribute": 450000,
+          "_id": {
+            "$oid": "674fea2030fc628fb7748564"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fea2030fc628fb7748561"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674feb6d30fc628fb77487b9"
+  },
+  "values": [
+    {
+      "color": "Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 48,
+          "price_attribute": 449000,
+          "_id": {
+            "$oid": "674feb6d30fc628fb77487bb"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 59,
+          "price_attribute": 459000,
+          "_id": {
+            "$oid": "674feb6d30fc628fb77487bc"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674feb6d30fc628fb77487ba"
+      }
+    },
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 55,
+          "price_attribute": 455000,
+          "_id": {
+            "$oid": "674feb6d30fc628fb77487be"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 49,
+          "price_attribute": 459000,
+          "_id": {
+            "$oid": "674feb6d30fc628fb77487bf"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 69,
+          "price_attribute": 450000,
+          "_id": {
+            "$oid": "674feb6d30fc628fb77487c0"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674feb6d30fc628fb77487bd"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674febb430fc628fb774897b"
+  },
+  "values": [
+    {
+      "color": "Camo Rêu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 10,
+          "price_attribute": 149000,
+          "_id": {
+            "$oid": "674febb430fc628fb774897d"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 19,
+          "price_attribute": 149000,
+          "_id": {
+            "$oid": "674febb430fc628fb774897e"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 25,
+          "price_attribute": 155000,
+          "_id": {
+            "$oid": "674febb430fc628fb774897f"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674febb430fc628fb774897c"
+      }
+    },
+    {
+      "color": "Sọc Vàng",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 35,
+          "price_attribute": 149000,
+          "_id": {
+            "$oid": "674febb430fc628fb7748981"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 99,
+          "price_attribute": 159000,
+          "_id": {
+            "$oid": "674febb430fc628fb7748982"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674febb430fc628fb7748980"
+      }
+    },
+    {
+      "color": "Xanh Sọc",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 15,
+          "price_attribute": 149000,
+          "_id": {
+            "$oid": "674febb430fc628fb7748984"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 79,
+          "price_attribute": 159000,
+          "_id": {
+            "$oid": "674febb430fc628fb7748985"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674febb430fc628fb7748983"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674febf930fc628fb7748ad3"
+  },
+  "values": [
+    {
+      "color": "Màu Nâu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 130,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674febf930fc628fb7748ad5"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 98,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674febf930fc628fb7748ad6"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 59,
+          "price_attribute": 319000,
+          "_id": {
+            "$oid": "674febf930fc628fb7748ad7"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674febf930fc628fb7748ad4"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674fec2930fc628fb7748ce6"
+  },
+  "values": [
+    {
+      "color": "Sọc Xanh Đậm",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 4,
+          "price_attribute": 315000,
+          "_id": {
+            "$oid": "674fec2930fc628fb7748ce8"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 5,
+          "price_attribute": 310000,
+          "_id": {
+            "$oid": "674fec2930fc628fb7748ce9"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fec2930fc628fb7748ce7"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674fec3530fc628fb7748d3f"
+  },
+  "values": [
+    {
+      "color": "Pattern",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 146,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674fec3530fc628fb7748d41"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 99,
+          "price_attribute": 319000,
+          "_id": {
+            "$oid": "674fec3530fc628fb7748d42"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 50,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674fec3530fc628fb7748d43"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fec3530fc628fb7748d40"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674fec3f30fc628fb7748d9b"
+  },
+  "values": [
+    {
+      "color": "Pattern",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 6,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674fec3f30fc628fb7748d9d"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 19,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674fec3f30fc628fb7748d9e"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 68,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674fec3f30fc628fb7748d9f"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fec3f30fc628fb7748d9c"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674fec4a30fc628fb7748e33"
+  },
+  "values": [
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 0,
+          "price_attribute": 377000,
+          "_id": {
+            "$oid": "674fec4a30fc628fb7748e35"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 76,
+          "price_attribute": 390000,
+          "_id": {
+            "$oid": "674fec4a30fc628fb7748e36"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 38,
+          "price_attribute": 385000,
+          "_id": {
+            "$oid": "674fec4a30fc628fb7748e37"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fec4a30fc628fb7748e34"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674fec5630fc628fb7748eca"
+  },
+  "values": [
+    {
+      "color": "Đen phối kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 43,
+          "price_attribute": 315000,
+          "_id": {
+            "$oid": "674fec5630fc628fb7748ecc"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 15,
+          "price_attribute": 320000,
+          "_id": {
+            "$oid": "674fec5630fc628fb7748ecd"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fec5630fc628fb7748ecb"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674fec6330fc628fb7748f64"
+  },
+  "values": [
+    {
+      "color": "Vàng Đậm",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 0,
+          "price_attribute": 149000,
+          "_id": {
+            "$oid": "674fec6330fc628fb7748f66"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 5,
+          "price_attribute": 145000,
+          "_id": {
+            "$oid": "674fec6330fc628fb7748f67"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fec6330fc628fb7748f65"
+      }
+    },
+    {
+      "color": "Đỏ Đậm",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 16,
+          "price_attribute": 149000,
+          "_id": {
+            "$oid": "674fec6330fc628fb7748f69"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fec6330fc628fb7748f68"
+      }
+    },
+    {
+      "color": "Xanh Nước Biển",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 99,
+          "price_attribute": 149000,
+          "_id": {
+            "$oid": "674fec6330fc628fb7748f6b"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fec6330fc628fb7748f6a"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674fec7d30fc628fb774904e"
+  },
+  "values": [
+    {
+      "color": "Màu Trắng",
+      "symbol": "#d0babd",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 40,
+          "price_attribute": 260000,
+          "_id": {
+            "$oid": "674fec7d30fc628fb7749050"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 52,
+          "price_attribute": 270000,
+          "_id": {
+            "$oid": "674fec7d30fc628fb7749051"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 5,
+          "price_attribute": 260000,
+          "_id": {
+            "$oid": "674fec7d30fc628fb7749052"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fec7d30fc628fb774904f"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674fec8b30fc628fb77490d0"
+  },
+  "values": [
+    {
+      "color": "Trắng Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 6,
+          "price_attribute": 287000,
+          "_id": {
+            "$oid": "674fec8b30fc628fb77490d2"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 95,
+          "price_attribute": 300000,
+          "_id": {
+            "$oid": "674fec8b30fc628fb77490d3"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 45,
+          "price_attribute": 289000,
+          "_id": {
+            "$oid": "674fec8b30fc628fb77490d4"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fec8b30fc628fb77490d1"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674fec9e30fc628fb7749155"
+  },
+  "values": [
+    {
+      "color": "Xanh Rêu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 0,
+          "price_attribute": 2620000,
+          "_id": {
+            "$oid": "674fec9e30fc628fb7749157"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 7,
+          "price_attribute": 265000,
+          "_id": {
+            "$oid": "674fec9e30fc628fb7749158"
+          }
+        },
+        {
+          "name_size": "XS",
+          "stock_attribute": 192,
+          "price_attribute": 425000,
+          "_id": {
+            "$oid": "674fec9e30fc628fb7749159"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fec9e30fc628fb7749156"
+      }
+    },
+    {
+      "color": "Trắng",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 995,
+          "price_attribute": 2560000,
+          "_id": {
+            "$oid": "674fec9e30fc628fb774915b"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fec9e30fc628fb774915a"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674fecd030fc628fb7749291"
+  },
+  "values": [
+    {
+      "color": "Xanh Dương",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 95,
+          "price_attribute": 583000,
+          "_id": {
+            "$oid": "674fecd030fc628fb7749293"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 118,
+          "price_attribute": 490000,
+          "_id": {
+            "$oid": "674fecd030fc628fb7749294"
+          }
+        },
+        {
+          "name_size": "XXL",
+          "stock_attribute": 198,
+          "price_attribute": 590000,
+          "_id": {
+            "$oid": "674fecd030fc628fb7749295"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fecd030fc628fb7749292"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674fedd930fc628fb77494ab"
+  },
+  "values": [
+    {
+      "color": "Trắng",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 148,
+          "price_attribute": 499000,
+          "_id": {
+            "$oid": "674fedd930fc628fb77494ad"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 148,
+          "price_attribute": 499000,
+          "_id": {
+            "$oid": "674fedd930fc628fb77494ae"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 99,
+          "price_attribute": 490000,
+          "_id": {
+            "$oid": "674fedd930fc628fb77494af"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fedd930fc628fb77494ac"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674feea630fc628fb774966a"
+  },
+  "values": [
+    {
+      "color": "Dark blue",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 159,
+          "price_attribute": 619000,
+          "_id": {
+            "$oid": "674feea630fc628fb774966c"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 100,
+          "price_attribute": 600000,
+          "_id": {
+            "$oid": "674feea630fc628fb774966d"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 199,
+          "price_attribute": 629000,
+          "_id": {
+            "$oid": "674feea630fc628fb774966e"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674feea630fc628fb774966b"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674fefe230fc628fb774a3eb"
+  },
+  "values": [
+    {
+      "color": "Xám rêu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 149,
+          "price_attribute": 419000,
+          "_id": {
+            "$oid": "674fefe230fc628fb774a3ed"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 158,
+          "price_attribute": 419000,
+          "_id": {
+            "$oid": "674fefe230fc628fb774a3ee"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 10,
+          "price_attribute": 429000,
+          "_id": {
+            "$oid": "674fefe230fc628fb774a3ef"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fefe230fc628fb774a3ec"
+      }
+    },
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 76,
+          "price_attribute": 419000,
+          "_id": {
+            "$oid": "674fefe230fc628fb774a3f1"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 89,
+          "price_attribute": 425000,
+          "_id": {
+            "$oid": "674fefe230fc628fb774a3f2"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674fefe230fc628fb774a3f0"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674ff0fb30fc628fb774b8c0"
+  },
+  "values": [
+    {
+      "color": "Vàng Đậm",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 0,
+          "price_attribute": 149000,
+          "_id": {
+            "$oid": "674ff0fb30fc628fb774b8c2"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 5,
+          "price_attribute": 145000,
+          "_id": {
+            "$oid": "674ff0fb30fc628fb774b8c3"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674ff0fb30fc628fb774b8c1"
+      }
+    },
+    {
+      "color": "Đỏ Đậm",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 16,
+          "price_attribute": 149000,
+          "_id": {
+            "$oid": "674ff0fb30fc628fb774b8c5"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674ff0fb30fc628fb774b8c4"
+      }
+    },
+    {
+      "color": "Xanh Nước Biển",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 99,
+          "price_attribute": 149000,
+          "_id": {
+            "$oid": "674ff0fb30fc628fb774b8c7"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674ff0fb30fc628fb774b8c6"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674ff12530fc628fb774b91a"
+  },
+  "values": [
+    {
+      "color": "Pattern",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 6,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674ff12530fc628fb774b91c"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 19,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674ff12530fc628fb774b91d"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 68,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674ff12530fc628fb774b91e"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674ff12530fc628fb774b91b"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674ff14830fc628fb774ba06"
+  },
+  "values": [
+    {
+      "color": "Pattern",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 146,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674ff14830fc628fb774ba08"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 99,
+          "price_attribute": 319000,
+          "_id": {
+            "$oid": "674ff14830fc628fb774ba09"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 50,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674ff14830fc628fb774ba0a"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674ff14830fc628fb774ba07"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674ff16d30fc628fb774baa3"
+  },
+  "values": [
+    {
+      "color": "Sọc Xanh Đậm",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 4,
+          "price_attribute": 315000,
+          "_id": {
+            "$oid": "674ff16d30fc628fb774baa5"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 5,
+          "price_attribute": 310000,
+          "_id": {
+            "$oid": "674ff16d30fc628fb774baa6"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674ff16d30fc628fb774baa4"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674ff18e30fc628fb774bb6c"
+  },
+  "values": [
+    {
+      "color": "Đen phối kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 43,
+          "price_attribute": 315000,
+          "_id": {
+            "$oid": "674ff18e30fc628fb774bb6e"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 15,
+          "price_attribute": 320000,
+          "_id": {
+            "$oid": "674ff18e30fc628fb774bb6f"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674ff18e30fc628fb774bb6d"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674ff1bc30fc628fb774bc36"
+  },
+  "values": [
+    {
+      "color": "Trắng Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 6,
+          "price_attribute": 287000,
+          "_id": {
+            "$oid": "674ff1bc30fc628fb774bc38"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 95,
+          "price_attribute": 300000,
+          "_id": {
+            "$oid": "674ff1bc30fc628fb774bc39"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 45,
+          "price_attribute": 289000,
+          "_id": {
+            "$oid": "674ff1bc30fc628fb774bc3a"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674ff1bc30fc628fb774bc37"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674ff1da30fc628fb774bd3b"
+  },
+  "values": [
+    {
+      "color": "Đen phối kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 43,
+          "price_attribute": 315000,
+          "_id": {
+            "$oid": "674ff1da30fc628fb774bd3d"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 15,
+          "price_attribute": 320000,
+          "_id": {
+            "$oid": "674ff1da30fc628fb774bd3e"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674ff1da30fc628fb774bd3c"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674ff20d30fc628fb774be42"
+  },
+  "values": [
+    {
+      "color": "Xanh Rêu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 0,
+          "price_attribute": 2620000,
+          "_id": {
+            "$oid": "674ff20d30fc628fb774be44"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 7,
+          "price_attribute": 265000,
+          "_id": {
+            "$oid": "674ff20d30fc628fb774be45"
+          }
+        },
+        {
+          "name_size": "XS",
+          "stock_attribute": 192,
+          "price_attribute": 425000,
+          "_id": {
+            "$oid": "674ff20d30fc628fb774be46"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674ff20d30fc628fb774be43"
+      }
+    },
+    {
+      "color": "Trắng",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 995,
+          "price_attribute": 2560000,
+          "_id": {
+            "$oid": "674ff20d30fc628fb774be48"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674ff20d30fc628fb774be47"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674ff24030fc628fb774c1f4"
+  },
+  "values": [
+    {
+      "color": "Trắng Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 6,
+          "price_attribute": 287000,
+          "_id": {
+            "$oid": "674ff24030fc628fb774c1f6"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 95,
+          "price_attribute": 300000,
+          "_id": {
+            "$oid": "674ff24030fc628fb774c1f7"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 45,
+          "price_attribute": 289000,
+          "_id": {
+            "$oid": "674ff24030fc628fb774c1f8"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674ff24030fc628fb774c1f5"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674ff27430fc628fb774c504"
+  },
+  "values": [
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 0,
+          "price_attribute": 377000,
+          "_id": {
+            "$oid": "674ff27430fc628fb774c506"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 76,
+          "price_attribute": 390000,
+          "_id": {
+            "$oid": "674ff27430fc628fb774c507"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 38,
+          "price_attribute": 385000,
+          "_id": {
+            "$oid": "674ff27430fc628fb774c508"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674ff27430fc628fb774c505"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674ff2a730fc628fb774cb1e"
+  },
+  "values": [
+    {
+      "color": "Pattern",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 6,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674ff2a730fc628fb774cb20"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 19,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674ff2a730fc628fb774cb21"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 68,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674ff2a730fc628fb774cb22"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674ff2a730fc628fb774cb1f"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674ff2b430fc628fb774cb72"
+  },
+  "values": [
+    {
+      "color": "Pattern",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 146,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674ff2b430fc628fb774cb74"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 99,
+          "price_attribute": 319000,
+          "_id": {
+            "$oid": "674ff2b430fc628fb774cb75"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 50,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "674ff2b430fc628fb774cb76"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674ff2b430fc628fb774cb73"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67501f60e0d086d8c474d8a9"
+  },
+  "values": [
+    {
+      "color": "Màu đỏ",
+      "symbol": "#b12323",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 100,
+          "price_attribute": 234000,
+          "_id": {
+            "$oid": "67501f60e0d086d8c474d8ab"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67501f60e0d086d8c474d8aa"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6757041d5d19052aec44e9aa"
+  },
+  "values": [
+    {
+      "color": "Màu đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 3,
+          "price_attribute": 224000,
+          "_id": {
+            "$oid": "6757041d5d19052aec44e9ac"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 25,
+          "price_attribute": 220000,
+          "_id": {
+            "$oid": "6757041d5d19052aec44e9ad"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 2,
+          "price_attribute": 225000,
+          "_id": {
+            "$oid": "6757041d5d19052aec44e9ae"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6757041d5d19052aec44e9ab"
+      }
+    },
+    {
+      "color": "Màu rêu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 0,
+          "price_attribute": 224000,
+          "_id": {
+            "$oid": "6757041d5d19052aec44e9b0"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6757041d5d19052aec44e9af"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6757046f5d19052aec44ec7a"
+  },
+  "values": [
+    {
+      "color": "Màu đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 3,
+          "price_attribute": 224000,
+          "_id": {
+            "$oid": "6757046f5d19052aec44ec7c"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 25,
+          "price_attribute": 220000,
+          "_id": {
+            "$oid": "6757046f5d19052aec44ec7d"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 2,
+          "price_attribute": 225000,
+          "_id": {
+            "$oid": "6757046f5d19052aec44ec7e"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6757046f5d19052aec44ec7b"
+      }
+    },
+    {
+      "color": "Màu rêu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 30,
+          "price_attribute": 224000,
+          "_id": {
+            "$oid": "6757046f5d19052aec44ec80"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6757046f5d19052aec44ec7f"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67571e6f7c301884e1935b45"
+  },
+  "values": [
+    {
+      "color": "Trắng",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 82,
+          "price_attribute": 270000,
+          "_id": {
+            "$oid": "67571e6f7c301884e1935b47"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 156,
+          "price_attribute": 270000,
+          "_id": {
+            "$oid": "67571e6f7c301884e1935b48"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 130,
+          "price_attribute": 270000,
+          "_id": {
+            "$oid": "67571e6f7c301884e1935b49"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67571e6f7c301884e1935b46"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675873b04afbc95572da919c"
+  },
+  "values": [
+    {
+      "color": "Xanh Dương",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 95,
+          "price_attribute": 583000,
+          "_id": {
+            "$oid": "675873b04afbc95572da919e"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 118,
+          "price_attribute": 490000,
+          "_id": {
+            "$oid": "675873b04afbc95572da919f"
+          }
+        },
+        {
+          "name_size": "XXL",
+          "stock_attribute": 198,
+          "price_attribute": 590000,
+          "_id": {
+            "$oid": "675873b04afbc95572da91a0"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "675873b04afbc95572da919d"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67587473d0876705f02d08e5"
+  },
+  "values": [
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 4,
+          "price_attribute": 350000,
+          "_id": {
+            "$oid": "67587473d0876705f02d08e7"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 6,
+          "price_attribute": 355000,
+          "_id": {
+            "$oid": "67587473d0876705f02d08e8"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 88,
+          "price_attribute": 350000,
+          "_id": {
+            "$oid": "67587473d0876705f02d08e9"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67587473d0876705f02d08e6"
+      }
+    },
+    {
+      "color": "Nâu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 29,
+          "price_attribute": 350000,
+          "_id": {
+            "$oid": "67587473d0876705f02d08eb"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 9,
+          "price_attribute": 359000,
+          "_id": {
+            "$oid": "67587473d0876705f02d08ec"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67587473d0876705f02d08ea"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675874e6d0876705f02d0b4f"
+  },
+  "values": [
+    {
+      "color": "Màu Trắng",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 39,
+          "price_attribute": 287000,
+          "_id": {
+            "$oid": "675874e6d0876705f02d0b51"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 27,
+          "price_attribute": 289000,
+          "_id": {
+            "$oid": "675874e6d0876705f02d0b52"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "675874e6d0876705f02d0b50"
+      }
+    },
+    {
+      "color": "Màu Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 54,
+          "price_attribute": 289000,
+          "_id": {
+            "$oid": "675874e6d0876705f02d0b54"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 49,
+          "price_attribute": 279000,
+          "_id": {
+            "$oid": "675874e6d0876705f02d0b55"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "675874e6d0876705f02d0b53"
+      }
+    },
+    {
+      "color": "Màu Nâu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 25,
+          "price_attribute": 287000,
+          "_id": {
+            "$oid": "675874e6d0876705f02d0b57"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 20,
+          "price_attribute": 287000,
+          "_id": {
+            "$oid": "675874e6d0876705f02d0b58"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "675874e6d0876705f02d0b56"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67587505d0876705f02d0c40"
+  },
+  "values": [
+    {
+      "color": "Màu Trắng",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 0,
+          "price_attribute": 314000,
+          "_id": {
+            "$oid": "67587505d0876705f02d0c42"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 0,
+          "price_attribute": 320000,
+          "_id": {
+            "$oid": "67587505d0876705f02d0c43"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 92,
+          "price_attribute": 320000,
+          "_id": {
+            "$oid": "67587505d0876705f02d0c44"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67587505d0876705f02d0c41"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6758751ad0876705f02d0d01"
+  },
+  "values": [
+    {
+      "color": "Màu Trắng",
+      "symbol": "#d0babd",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 40,
+          "price_attribute": 260000,
+          "_id": {
+            "$oid": "6758751ad0876705f02d0d03"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 52,
+          "price_attribute": 270000,
+          "_id": {
+            "$oid": "6758751ad0876705f02d0d04"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 5,
+          "price_attribute": 260000,
+          "_id": {
+            "$oid": "6758751ad0876705f02d0d05"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6758751ad0876705f02d0d02"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67587531d0876705f02d0d7e"
+  },
+  "values": [
+    {
+      "color": "Xanh Rêu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 0,
+          "price_attribute": 2620000,
+          "_id": {
+            "$oid": "67587531d0876705f02d0d80"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 7,
+          "price_attribute": 265000,
+          "_id": {
+            "$oid": "67587531d0876705f02d0d81"
+          }
+        },
+        {
+          "name_size": "XS",
+          "stock_attribute": 192,
+          "price_attribute": 425000,
+          "_id": {
+            "$oid": "67587531d0876705f02d0d82"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67587531d0876705f02d0d7f"
+      }
+    },
+    {
+      "color": "Trắng",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 995,
+          "price_attribute": 2560000,
+          "_id": {
+            "$oid": "67587531d0876705f02d0d84"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67587531d0876705f02d0d83"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67587540d0876705f02d0dfe"
+  },
+  "values": [
+    {
+      "color": "Trắng Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 6,
+          "price_attribute": 287000,
+          "_id": {
+            "$oid": "67587540d0876705f02d0e00"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 95,
+          "price_attribute": 300000,
+          "_id": {
+            "$oid": "67587540d0876705f02d0e01"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 45,
+          "price_attribute": 289000,
+          "_id": {
+            "$oid": "67587540d0876705f02d0e02"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67587540d0876705f02d0dff"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675875424afbc95572daaa79"
+  },
+  "values": [
+    {
+      "color": "Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 48,
+          "price_attribute": 449000,
+          "_id": {
+            "$oid": "675875424afbc95572daaa7b"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 59,
+          "price_attribute": 459000,
+          "_id": {
+            "$oid": "675875424afbc95572daaa7c"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "675875424afbc95572daaa7a"
+      }
+    },
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 55,
+          "price_attribute": 455000,
+          "_id": {
+            "$oid": "675875424afbc95572daaa7e"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 49,
+          "price_attribute": 459000,
+          "_id": {
+            "$oid": "675875424afbc95572daaa7f"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 69,
+          "price_attribute": 450000,
+          "_id": {
+            "$oid": "675875424afbc95572daaa80"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "675875424afbc95572daaa7d"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6758755d4afbc95572daae7f"
+  },
+  "values": [
+    {
+      "color": "Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 48,
+          "price_attribute": 449000,
+          "_id": {
+            "$oid": "6758755d4afbc95572daae81"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 59,
+          "price_attribute": 459000,
+          "_id": {
+            "$oid": "6758755d4afbc95572daae82"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6758755d4afbc95572daae80"
+      }
+    },
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 55,
+          "price_attribute": 455000,
+          "_id": {
+            "$oid": "6758755d4afbc95572daae84"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 49,
+          "price_attribute": 459000,
+          "_id": {
+            "$oid": "6758755d4afbc95572daae85"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 69,
+          "price_attribute": 450000,
+          "_id": {
+            "$oid": "6758755d4afbc95572daae86"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6758755d4afbc95572daae83"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6758758e4afbc95572dab56f"
+  },
+  "values": [
+    {
+      "color": "Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 48,
+          "price_attribute": 449000,
+          "_id": {
+            "$oid": "6758758e4afbc95572dab571"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 59,
+          "price_attribute": 459000,
+          "_id": {
+            "$oid": "6758758e4afbc95572dab572"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6758758e4afbc95572dab570"
+      }
+    },
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 55,
+          "price_attribute": 455000,
+          "_id": {
+            "$oid": "6758758e4afbc95572dab574"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 49,
+          "price_attribute": 459000,
+          "_id": {
+            "$oid": "6758758e4afbc95572dab575"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 69,
+          "price_attribute": 450000,
+          "_id": {
+            "$oid": "6758758e4afbc95572dab576"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6758758e4afbc95572dab573"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67592b9e1fc8220b2c42df30"
+  },
+  "values": [
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 100,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "67592b9e1fc8220b2c42df32"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 1892,
+          "price_attribute": 559000,
+          "_id": {
+            "$oid": "67592b9e1fc8220b2c42df33"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 93,
+          "price_attribute": 559000,
+          "_id": {
+            "$oid": "67592b9e1fc8220b2c42df34"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67592b9e1fc8220b2c42df31"
+      }
+    },
+    {
+      "color": "Nâu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 99,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "67592b9e1fc8220b2c42df36"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67592b9e1fc8220b2c42df35"
+      }
+    },
+    {
+      "color": "Xám",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 9,
+          "price_attribute": 529000,
+          "_id": {
+            "$oid": "67592b9e1fc8220b2c42df38"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67592b9e1fc8220b2c42df37"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67592c491fc8220b2c42e07e"
+  },
+  "values": [
+    {
+      "color": "Be xám",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 90,
+          "price_attribute": 749000,
+          "_id": {
+            "$oid": "67592c491fc8220b2c42e080"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 100,
+          "price_attribute": 759000,
+          "_id": {
+            "$oid": "67592c491fc8220b2c42e081"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67592c491fc8220b2c42e07f"
+      }
+    },
+    {
+      "color": "Đỏ đô",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 100,
+          "price_attribute": 759000,
+          "_id": {
+            "$oid": "67592c491fc8220b2c42e083"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67592c491fc8220b2c42e082"
+      }
+    },
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 741,
+          "price_attribute": 749000,
+          "_id": {
+            "$oid": "67592c491fc8220b2c42e085"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 0,
+          "price_attribute": 759000,
+          "_id": {
+            "$oid": "67592c491fc8220b2c42e086"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67592c491fc8220b2c42e084"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67592ce31fc8220b2c42e2b2"
+  },
+  "values": [
+    {
+      "color": "Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 98,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "67592ce31fc8220b2c42e2b4"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 98,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "67592ce31fc8220b2c42e2b5"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 139,
+          "price_attribute": 529000,
+          "_id": {
+            "$oid": "67592ce31fc8220b2c42e2b6"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67592ce31fc8220b2c42e2b3"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675943be75e8c1e372cd5f8d"
+  },
+  "values": [
+    {
+      "color": "Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 98,
+          "sale": 10,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "675943be75e8c1e372cd5f8f"
+          },
+          "price_sale": 494100
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 98,
+          "sale": 10,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "675943be75e8c1e372cd5f90"
+          },
+          "price_sale": 494100
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 139,
+          "sale": 10,
+          "price_attribute": 529000,
+          "_id": {
+            "$oid": "675943be75e8c1e372cd5f91"
+          },
+          "price_sale": 476100
+        }
+      ],
+      "_id": {
+        "$oid": "675943be75e8c1e372cd5f8e"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67594ffc1d5e3f39ae43b3a1"
+  },
+  "values": [
+    {
+      "color": "Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 98,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "67594ffc1d5e3f39ae43b3a3"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 98,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "67594ffc1d5e3f39ae43b3a4"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 139,
+          "price_attribute": 529000,
+          "_id": {
+            "$oid": "67594ffc1d5e3f39ae43b3a5"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67594ffc1d5e3f39ae43b3a2"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67595888e322b21ffee00147"
+  },
+  "values": [
+    {
+      "color": "Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 98,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "67595888e322b21ffee00149"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 98,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "67595888e322b21ffee0014a"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 139,
+          "price_attribute": 529000,
+          "_id": {
+            "$oid": "67595888e322b21ffee0014b"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67595888e322b21ffee00148"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675958d6e322b21ffee00fa2"
+  },
+  "values": [
+    {
+      "color": "Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 98,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "675958d6e322b21ffee00fa4"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 98,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "675958d6e322b21ffee00fa5"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 139,
+          "price_attribute": 529000,
+          "_id": {
+            "$oid": "675958d6e322b21ffee00fa6"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "675958d6e322b21ffee00fa3"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67595b06c5578a9fa8a327f5"
+  },
+  "values": [
+    {
+      "color": "Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 98,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "67595b06c5578a9fa8a327f7"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 98,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "67595b06c5578a9fa8a327f8"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 139,
+          "price_attribute": 529000,
+          "_id": {
+            "$oid": "67595b06c5578a9fa8a327f9"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67595b06c5578a9fa8a327f6"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67595b26c5578a9fa8a328ab"
+  },
+  "values": [
+    {
+      "color": "Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 98,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "67595b26c5578a9fa8a328ad"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 98,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "67595b26c5578a9fa8a328ae"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 139,
+          "price_attribute": 529000,
+          "_id": {
+            "$oid": "67595b26c5578a9fa8a328af"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67595b26c5578a9fa8a328ac"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67595b1de293484de0fca5d7"
+  },
+  "values": [
+    {
+      "color": "Be xám",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 90,
+          "price_attribute": 749000,
+          "_id": {
+            "$oid": "67595b1de293484de0fca5d9"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 100,
+          "price_attribute": 759000,
+          "_id": {
+            "$oid": "67595b1de293484de0fca5da"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67595b1de293484de0fca5d8"
+      }
+    },
+    {
+      "color": "Đỏ đô",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 100,
+          "price_attribute": 759000,
+          "_id": {
+            "$oid": "67595b1de293484de0fca5dc"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67595b1de293484de0fca5db"
+      }
+    },
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 741,
+          "price_attribute": 749000,
+          "_id": {
+            "$oid": "67595b1de293484de0fca5de"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 0,
+          "price_attribute": 759000,
+          "_id": {
+            "$oid": "67595b1de293484de0fca5df"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67595b1de293484de0fca5dd"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67595b69c5578a9fa8a3292a"
+  },
+  "values": [
+    {
+      "color": "Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 98,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "67595b69c5578a9fa8a3292c"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 98,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "67595b69c5578a9fa8a3292d"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 139,
+          "price_attribute": 529000,
+          "_id": {
+            "$oid": "67595b69c5578a9fa8a3292e"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67595b69c5578a9fa8a3292b"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67595c944b9640af440aed00"
+  },
+  "values": [
+    {
+      "color": "Màu đỏ",
+      "symbol": "#b12323",
+      "size": [
+        {
+          "name_size": "",
+          "stock_attribute": 100,
+          "price_attribute": 100000,
+          "_id": {
+            "$oid": "67595c944b9640af440aed02"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67595c944b9640af440aed01"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67595e8f364e999d36994d8b"
+  },
+  "values": [
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 40,
+          "price_attribute": 350000,
+          "_id": {
+            "$oid": "67595e8f364e999d36994d8d"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 6,
+          "price_attribute": 355000,
+          "_id": {
+            "$oid": "67595e8f364e999d36994d8e"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 89,
+          "price_attribute": 350000,
+          "_id": {
+            "$oid": "67595e8f364e999d36994d8f"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67595e8f364e999d36994d8c"
+      }
+    },
+    {
+      "color": "Nâu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 29,
+          "price_attribute": 350000,
+          "_id": {
+            "$oid": "67595e8f364e999d36994d91"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 9,
+          "price_attribute": 359000,
+          "_id": {
+            "$oid": "67595e8f364e999d36994d92"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67595e8f364e999d36994d90"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67595eaae293484de0fca9ad"
+  },
+  "values": [
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 100,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "67595eaae293484de0fca9af"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 1892,
+          "price_attribute": 559000,
+          "_id": {
+            "$oid": "67595eaae293484de0fca9b0"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 94,
+          "price_attribute": 559000,
+          "_id": {
+            "$oid": "67595eaae293484de0fca9b1"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67595eaae293484de0fca9ae"
+      }
+    },
+    {
+      "color": "Nâu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 99,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "67595eaae293484de0fca9b3"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67595eaae293484de0fca9b2"
+      }
+    },
+    {
+      "color": "Xám",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 9,
+          "price_attribute": 529000,
+          "_id": {
+            "$oid": "67595eaae293484de0fca9b5"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67595eaae293484de0fca9b4"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6759601f364e999d369953e8"
+  },
+  "values": [
+    {
+      "color": "Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 98,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "6759601f364e999d369953ea"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 98,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "6759601f364e999d369953eb"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 139,
+          "price_attribute": 529000,
+          "_id": {
+            "$oid": "6759601f364e999d369953ec"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6759601f364e999d369953e9"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675965d6d3909e601073822f"
+  },
+  "values": [
+    {
+      "color": "Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 98,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "675965d6d3909e6010738231"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 98,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "675965d6d3909e6010738232"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 139,
+          "price_attribute": 529000,
+          "_id": {
+            "$oid": "675965d6d3909e6010738233"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "675965d6d3909e6010738230"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6759835b364e999d36995d67"
+  },
+  "values": [
+    {
+      "color": "Kem",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 98,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "6759835b364e999d36995d69"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 98,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "6759835b364e999d36995d6a"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 139,
+          "price_attribute": 529000,
+          "_id": {
+            "$oid": "6759835b364e999d36995d6b"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6759835b364e999d36995d68"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675a7bc5823a589bd89d4087"
+  },
+  "values": [
+    {
+      "color": "Xanh Rêu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 0,
+          "price_attribute": 262000,
+          "_id": {
+            "$oid": "675a7bc5823a589bd89d4089"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 7,
+          "price_attribute": 265000,
+          "_id": {
+            "$oid": "675a7bc5823a589bd89d408a"
+          }
+        },
+        {
+          "name_size": "XS",
+          "stock_attribute": 192,
+          "price_attribute": 425000,
+          "_id": {
+            "$oid": "675a7bc5823a589bd89d408b"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "675a7bc5823a589bd89d4088"
+      }
+    },
+    {
+      "color": "Trắng",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 995,
+          "price_attribute": 2560000,
+          "_id": {
+            "$oid": "675a7bc5823a589bd89d408d"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "675a7bc5823a589bd89d408c"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675a7d0c823a589bd89d43e7"
+  },
+  "values": [
+    {
+      "color": "Xám rêu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 99,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "675a7d0c823a589bd89d43e9"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 99,
+          "price_attribute": 559000,
+          "_id": {
+            "$oid": "675a7d0c823a589bd89d43ea"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 109,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "675a7d0c823a589bd89d43eb"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "675a7d0c823a589bd89d43e8"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675a7e33823a589bd89d45de"
+  },
+  "values": [
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 100,
+          "price_attribute": 299000,
+          "_id": {
+            "$oid": "675a7e33823a589bd89d45e0"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 103,
+          "price_attribute": 289000,
+          "_id": {
+            "$oid": "675a7e33823a589bd89d45e1"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "675a7e33823a589bd89d45df"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675a83a3823a589bd89d4793"
+  },
+  "values": [
+    {
+      "color": "Xanh nhạt wash",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 118,
+          "price_attribute": 579000,
+          "_id": {
+            "$oid": "675a83a3823a589bd89d4795"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 110,
+          "price_attribute": 589000,
+          "_id": {
+            "$oid": "675a83a3823a589bd89d4796"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 99,
+          "price_attribute": 579000,
+          "_id": {
+            "$oid": "675a83a3823a589bd89d4797"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "675a83a3823a589bd89d4794"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675aa819956a00dcdd9b99d9"
+  },
+  "values": [
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 100,
+          "price_attribute": 200000,
+          "_id": {
+            "$oid": "675aa819956a00dcdd9b99db"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 103,
+          "price_attribute": 289000,
+          "_id": {
+            "$oid": "675aa819956a00dcdd9b99dc"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "675aa819956a00dcdd9b99da"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675aa90b956a00dcdd9ba820"
+  },
+  "values": [
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 1892,
+          "price_attribute": 559000,
+          "_id": {
+            "$oid": "675aa90b956a00dcdd9ba822"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 94,
+          "price_attribute": 559000,
+          "_id": {
+            "$oid": "675aa90b956a00dcdd9ba823"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "675aa90b956a00dcdd9ba821"
+      }
+    },
+    {
+      "color": "Nâu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 99,
+          "price_attribute": 549000,
+          "_id": {
+            "$oid": "675aa90b956a00dcdd9ba825"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "675aa90b956a00dcdd9ba824"
+      }
+    },
+    {
+      "color": "Xám",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 9,
+          "price_attribute": 529000,
+          "_id": {
+            "$oid": "675aa90b956a00dcdd9ba827"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "675aa90b956a00dcdd9ba826"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675f0894b13442ade28498d4"
+  },
+  "values": [
+    {
+      "color": "Màu rêu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 100,
+          "price_attribute": 250000,
+          "_id": {
+            "$oid": "675f0894b13442ade28498d6"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "675f0894b13442ade28498d5"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675f0920b13442ade284ac1a"
+  },
+  "values": [
+    {
+      "color": "Đen",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "M",
+          "stock_attribute": 6,
+          "price_attribute": 355000,
+          "_id": {
+            "$oid": "675f0920b13442ade284ac1c"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 89,
+          "price_attribute": 350000,
+          "_id": {
+            "$oid": "675f0920b13442ade284ac1d"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 100,
+          "price_attribute": 350000,
+          "_id": {
+            "$oid": "675f0920b13442ade284ac1e"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "675f0920b13442ade284ac1b"
+      }
+    },
+    {
+      "color": "Nâu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 29,
+          "price_attribute": 350000,
+          "_id": {
+            "$oid": "675f0920b13442ade284ac20"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 9,
+          "price_attribute": 359000,
+          "_id": {
+            "$oid": "675f0920b13442ade284ac21"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "675f0920b13442ade284ac1f"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675f0973b13442ade284b57c"
+  },
+  "values": [
+    {
+      "color": "Nâu",
+      "symbol": "",
+      "size": [
+        {
+          "name_size": "L",
+          "stock_attribute": 29,
+          "price_attribute": 350000,
+          "_id": {
+            "$oid": "675f0973b13442ade284b57e"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 9,
+          "price_attribute": 359000,
+          "_id": {
+            "$oid": "675f0973b13442ade284b57f"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "675f0973b13442ade284b57d"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6761aac767629eece4f66a3f"
+  },
+  "values": [
+    {
+      "color": "Màu Đỏ",
+      "symbol": "#f30c0c",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 100,
+          "price_attribute": 1000,
+          "_id": {
+            "$oid": "6761aac767629eece4f66a41"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6761aac767629eece4f66a40"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6761ab5567629eece4f66e6b"
+  },
+  "values": [
+    {
+      "color": "Màu Đỏ",
+      "symbol": "#f30c0c",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 100,
+          "price_attribute": 1000,
+          "_id": {
+            "$oid": "6761ab5567629eece4f66e6d"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6761ab5567629eece4f66e6c"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67621bd30963a94d3ed5e93f"
+  },
+  "values": [
+    {
+      "color": "Màu Đỏ",
+      "symbol": "#f30c0c",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 6,
+          "price_attribute": 100000,
+          "_id": {
+            "$oid": "67621bd30963a94d3ed5e941"
+          }
+        },
+        {
+          "name_size": "M",
+          "stock_attribute": 6,
+          "price_attribute": 900000,
+          "_id": {
+            "$oid": "67621bd30963a94d3ed5e942"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67621bd30963a94d3ed5e940"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6762259e0963a94d3ed6146d"
+  },
+  "values": [
+    {
+      "color": "Màu Trắng",
+      "symbol": "#d0babd",
+      "size": [
+        {
+          "name_size": "S",
+          "stock_attribute": 40,
+          "price_attribute": 260000,
+          "_id": {
+            "$oid": "6762259e0963a94d3ed6146f"
+          }
+        },
+        {
+          "name_size": "L",
+          "stock_attribute": 52,
+          "price_attribute": 270000,
+          "_id": {
+            "$oid": "6762259e0963a94d3ed61470"
+          }
+        },
+        {
+          "name_size": "XL",
+          "stock_attribute": 5,
+          "price_attribute": 260000,
+          "_id": {
+            "$oid": "6762259e0963a94d3ed61471"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6762259e0963a94d3ed6146e"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "676230c35098e098e48fc788"
+  },
+  "values": [
+    {
+      "color": "Màu Đỏ",
+      "symbol": "#ff0000",
+      "size": [
+        {
+          "name_size": "XS",
+          "stock_attribute": 100,
+          "price_attribute": 100000,
+          "_id": {
+            "$oid": "676230c35098e098e48fc78a"
+          }
+        },
+        {
+          "name_size": "S",
+          "stock_attribute": 100,
+          "price_attribute": 900000,
+          "_id": {
+            "$oid": "676230c35098e098e48fc78b"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "676230c35098e098e48fc789"
+      }
+    }
+  ]
+}]

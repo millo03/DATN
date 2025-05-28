@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "671b3afacb99cde30162b64b"
+  },
+  "month": "2024-10",
+  "shipperId": {
+    "$oid": "6719feae424d1ec94bc6d58e"
+  },
+  "baseSalary": 0,
+  "createdAt": {
+    "$date": "2024-10-25T06:30:18.648Z"
+  },
+  "dailyRecords": [
+    {
+      "date": {
+        "$date": "2024-10-22T00:00:00.000Z"
+      },
+      "totalDistance": 0,
+      "dailyEarnings": 0,
+      "_id": {
+        "$oid": "671b3afa157a60b8ae0f1e20"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-10-24T00:00:00.000Z"
+      },
+      "totalDistance": 0,
+      "dailyEarnings": 0,
+      "_id": {
+        "$oid": "671b3afa157a60b8ae0f1e21"
+      }
+    }
+  ],
+  "monthlyBonus": 0,
+  "totalDistance": 0,
+  "totalSalary": 0,
+  "updatedAt": {
+    "$date": "2024-10-25T06:30:18.648Z"
+  },
+  "weeklyBonus": 0
+},
+{
+  "_id": {
+    "$oid": "6720a250a2d4b95fbd51d899"
+  },
+  "shipperId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "month": "2024-10",
+  "totalDistance": 4.52,
+  "totalOrders": 7,
+  "ratePerKm": 10000,
+  "totalSalary": 67800,
+  "monthlyBonus": 0,
+  "totalPayment": 67800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6726528acc69af8f4f6c67d2"
+  },
+  "shipperId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "month": "2024-11",
+  "totalDistance": 90.12,
+  "totalOrders": 1,
+  "ratePerKm": 15000,
+  "totalSalary": 1351800,
+  "monthlyBonus": 0,
+  "totalPayment": 1351800,
+  "__v": 0
+}]

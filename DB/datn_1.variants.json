@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "670d6c2ab50ab3d4f46ba305"
+  },
+  "values": [
+    {
+      "color": "Màu vàng test",
+      "size": [
+        {
+          "name_size": "XL",
+          "stock_attribute": 100,
+          "price_attribute": 100000,
+          "_id": {
+            "$oid": "670d6c2ab50ab3d4f46ba307"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "670d6c2ab50ab3d4f46ba306"
+      }
+    },
+    {
+      "color": "Màu Xanh",
+      "size": [
+        {
+          "name_size": "XL",
+          "stock_attribute": 199,
+          "price_attribute": 10000,
+          "_id": {
+            "$oid": "670d6c2ab50ab3d4f46ba309"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "670d6c2ab50ab3d4f46ba308"
+      }
+    }
+  ]
+}]

@@ -1,0 +1,567 @@
+[{
+  "_id": {
+    "$oid": "674e8e53f32ffa57831c76f0"
+  },
+  "email": "lamctph35369@fpt.edu.vn",
+  "userName": "Tú Lâm",
+  "role": "user",
+  "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL6qjANH3FUfnbN_xoh9NUuhtpYkZcihf96xAfp3PlPO4kRlw=s96-c",
+  "address": [
+    {
+      "coordinates": {
+        "lat": 21.90146464329493,
+        "lng": 106.3245307346362
+      },
+      "fullName": "admin",
+      "phoneNumber": "0123456789",
+      "address": "Xã Đồng ý, Huyện Bắc Sơn, Tỉnh Lạng Sơn",
+      "detailedAddress": "Số nhà 1",
+      "checked": false,
+      "_id": {
+        "$oid": "674ea4caf32ffa57831cba0f"
+      }
+    },
+    {
+      "fullName": "admin",
+      "phoneNumber": "0123456789",
+      "address": "Phường Tây Tựu, Quận Bắc Từ Liêm, Thành phố Hà Nội",
+      "detailedAddress": "Số nhà 1",
+      "checked": true,
+      "coordinates": {
+        "lat": 21.072274865351034,
+        "lng": 105.74053045793607
+      },
+      "_id": {
+        "$oid": "674eaaeaf32ffa57831cc63d"
+      }
+    }
+  ],
+  "updatedFields": [],
+  "createdAt": {
+    "$date": "2024-12-03T04:51:31.967Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T06:53:30.574Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "email": "nguyenvana@gmail.com",
+  "password": "$2a$10$E4ZcgHnAI1yly1rarpILLOc3fC1Qhh7TNAMBPlBrT7UXi/8Pz8YH.",
+  "userName": "nguyenvana@gmail.com",
+  "role": "admin",
+  "avatar": "https://vectorified.com/images/default-avatar-icon-12.png",
+  "address": [
+    {
+      "fullName": "Kiều Văn Hùng",
+      "phoneNumber": "0359774443",
+      "address": "Xã Cần Kiệm, Huyện Thạch Thất, Thành phố Hà Nội",
+      "addressName": [
+        "Xã Cần Kiệm",
+        "Huyện Thạch Thất",
+        "Thành phố Hà Nội"
+      ],
+      "detailedAddress": "nhà số 1, ngõ 123, đường xóm cộng",
+      "checked": true,
+      "coordinates": {
+        "lat": 21.005672841264484,
+        "lng": 105.57435164083438
+      },
+      "_id": {
+        "$oid": "674fde6d75eb8ba31ee5ae4f"
+      }
+    },
+    {
+      "fullName": "Admin",
+      "phoneNumber": "0357219736",
+      "address": "Phường Phúc Xá, Quận Ba Đình, Thành phố Hà Nội",
+      "addressName": [
+        "Phường Phúc Xá",
+        "Quận Ba Đình",
+        "Thành phố Hà Nội"
+      ],
+      "detailedAddress": "38 Nguyên Xá",
+      "checked": false,
+      "coordinates": {
+        "lat": 21.045368,
+        "lng": 105.845814
+      },
+      "_id": {
+        "$oid": "6750007b66af816ad51f0883"
+      }
+    }
+  ],
+  "updatedFields": [],
+  "createdAt": {
+    "$date": "2024-12-03T05:21:43.138Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-04T07:10:51.885Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674ea85359ea4a29fadd7164"
+  },
+  "email": "namdhph33318@fpt.edu.vn",
+  "userName": "Duong Hai Nam (FPL HN)",
+  "role": "user",
+  "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIuDIzWYafzAH2QCCVPjgMAdapLxnUwpigKkOa3Y6QYKAYAzw=s96-c",
+  "address": [
+    {
+      "coordinates": {
+        "lat": 22.451414731693262,
+        "lng": 105.7972359186756
+      },
+      "fullName": "Dương Hải Nam",
+      "phoneNumber": "0356473823",
+      "address": "Xã Phúc Lộc, Huyện Ba Bể, Tỉnh Bắc Kạn",
+      "detailedAddress": "số nhà 2",
+      "checked": false,
+      "_id": {
+        "$oid": "674ea89059ea4a29fadd7277"
+      }
+    },
+    {
+      "fullName": "Dương Hải Nam 1",
+      "phoneNumber": "0356473823",
+      "address": "Xã Đồng ý, Huyện Bắc Sơn, Tỉnh Lạng Sơn",
+      "detailedAddress": "số nhà 2",
+      "checked": true,
+      "coordinates": {
+        "lat": 21.88809791700966,
+        "lng": 106.22456082778967
+      },
+      "_id": {
+        "$oid": "674eaedc1a4e0cb26050244b"
+      }
+    },
+    {
+      "fullName": "Test",
+      "phoneNumber": "0356473823",
+      "address": "Xã Hoa Thám, Huyện Bình Gia, Tỉnh Lạng Sơn",
+      "detailedAddress": "số nhà 2",
+      "checked": false,
+      "coordinates": {
+        "lat": 22.126656513928666,
+        "lng": 106.35721904551139
+      },
+      "_id": {
+        "$oid": "674ebbdb1a4e0cb260503c46"
+      }
+    }
+  ],
+  "updatedFields": [],
+  "createdAt": {
+    "$date": "2024-12-03T06:42:27.043Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T08:05:47.294Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674eab24e5fe601047c983b2"
+  },
+  "email": "khongchodau01@gmail.com",
+  "userName": "Minh Tran",
+  "role": "user",
+  "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKSdqaytUdMHyb-GxN9EGJH3RJucGxKp2PogUD5vyltoBDh0Q=s96-c",
+  "address": [
+    {
+      "fullName": "Thang Tuan",
+      "phoneNumber": "0347470397",
+      "address": "Phường Đồng Xuân, Quận Hoàn Kiếm, Thành phố Hà Nội",
+      "detailedAddress": "Cành lá - Cành cây - Gốc cây - Ngọn cây",
+      "checked": false,
+      "coordinates": {
+        "lat": 21.0387445,
+        "lng": 105.8489245
+      },
+      "_id": {
+        "$oid": "674f2aa06890b9b9cf6ae8a8"
+      }
+    },
+    {
+      "fullName": "Thang Tuan",
+      "phoneNumber": "0347470397",
+      "address": "Phường Đồng Xuân, Quận Hoàn Kiếm, Thành phố Hà Nội",
+      "detailedAddress": "Cành lá - Cành cây - Gốc cây - Ngọn cây",
+      "checked": true,
+      "coordinates": {
+        "lat": 21.0387445,
+        "lng": 105.8489245
+      },
+      "_id": {
+        "$oid": "674f2aa56890b9b9cf6ae8ae"
+      }
+    }
+  ],
+  "updatedFields": [],
+  "createdAt": {
+    "$date": "2024-12-03T06:54:28.022Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T15:58:29.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674ebe1d6dcb7d8850424361"
+  },
+  "email": "chungkbph38477@fpt.edu.vn",
+  "password": "$2a$10$demLsbG.roP.PJHio6ydmOuwpdsRkvqneK8dUyh9ERYfO3AmHTQcu",
+  "userName": "chungkbph38477@fpt.edu.vn",
+  "role": "user",
+  "avatar": "https://vectorified.com/images/default-avatar-icon-12.png",
+  "address": [
+    {
+      "fullName": "Nguyễn Văn Lâm",
+      "phoneNumber": "0377778889",
+      "address": "789 Đường GHI",
+      "detailedAddress": "Nhà riêng",
+      "checked": true,
+      "coordinates": {
+        "lat": 10.776889,
+        "lng": 106.700806
+      },
+      "_id": {
+        "$oid": "674f48c892fb499c953bfea6"
+      }
+    }
+  ],
+  "updatedFields": [],
+  "createdAt": {
+    "$date": "2024-12-03T08:15:25.688Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T18:07:04.631Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674f4f5b51771866e2552b16"
+  },
+  "email": "gamnt2004@gmail.com",
+  "password": "$2a$10$/QmhB70nDeVTf7TqT8JQA.nsGoG61Buj6xBzEIWIpP7OnYa.3CsQ.",
+  "userName": "gamnt2004@gmail.com",
+  "role": "user",
+  "avatar": "https://vectorified.com/images/default-avatar-icon-12.png",
+  "address": [
+    {
+      "coordinates": {
+        "lat": 21.353073,
+        "lng": 105.828021
+      },
+      "fullName": "Nguyê",
+      "phoneNumber": "0399290004",
+      "address": "Xã Bắc Sơn, Huyện Sóc Sơn, Thành phố Hà Nội",
+      "detailedAddress": "Đô Lương",
+      "checked": false,
+      "_id": {
+        "$oid": "674f508a51771866e2553a87"
+      }
+    },
+    {
+      "fullName": "Nguyễn Thị Gấm",
+      "phoneNumber": "0399290004",
+      "address": "Xã Bắc Sơn, Huyện Sóc Sơn, Thành phố Hà Nội",
+      "detailedAddress": "Đô Lương",
+      "checked": true,
+      "coordinates": {
+        "lat": 21.353073,
+        "lng": 105.828021
+      },
+      "_id": {
+        "$oid": "674f509851771866e2553a8d"
+      }
+    }
+  ],
+  "updatedFields": [],
+  "createdAt": {
+    "$date": "2024-12-03T18:35:07.755Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T18:40:24.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674f708bc68237d02c4ab68e"
+  },
+  "email": "ducnaph34806@fpt.edu.vn",
+  "password": "$2a$10$S4oskFZ1OhBREPo9r8WqTeN4/HY6T.e..T.Mnv.AV0a4AX/9Ie4A6",
+  "userName": "ducnaph34806@fpt.edu.vn",
+  "role": "user",
+  "avatar": "https://vectorified.com/images/default-avatar-icon-12.png",
+  "address": [],
+  "updatedFields": [],
+  "createdAt": {
+    "$date": "2024-12-03T20:56:43.178Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T20:56:43.178Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674f763d892b619c75fdf583"
+  },
+  "email": "naduc151204@gmail.com",
+  "password": "$2a$10$WhgdcdqJJaPUl.sNaLqLNOXnaxYRBh.Mt3rr0E0nDH8orG/zl7Rt.",
+  "userName": "naduc151204@gmail.com",
+  "role": "user",
+  "avatar": "https://vectorified.com/images/default-avatar-icon-12.png",
+  "address": [],
+  "updatedFields": [],
+  "createdAt": {
+    "$date": "2024-12-03T21:21:01.333Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T21:21:01.333Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674ffd0c66af816ad51efc82"
+  },
+  "email": "khongchodau02@gmail.com",
+  "userName": "Vũ Công Minh PH 3 3 6 9 3_",
+  "role": "user",
+  "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJLxz5PQ0Xc07AFOz5wDw0wRZdvMaGYM86ibP_qdg6wm7fbyA=s96-c",
+  "address": [
+    {
+      "fullName": "Thang Tuan",
+      "phoneNumber": "0347470397",
+      "address": "Phường Phúc Xá, Quận Ba Đình, Thành phố Hà Nội",
+      "addressName": [
+        "Phường Phúc Xá",
+        "Quận Ba Đình",
+        "Thành phố Hà Nội"
+      ],
+      "detailedAddress": "Cành lá - Cành cây - Gốc cây - Ngọn cây",
+      "checked": false,
+      "coordinates": {
+        "lat": 21.045368,
+        "lng": 105.845814
+      },
+      "_id": {
+        "$oid": "6750030766af816ad51f2274"
+      }
+    }
+  ],
+  "updatedFields": [],
+  "createdAt": {
+    "$date": "2024-12-04T06:56:12.489Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-04T07:21:43.666Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67500a13ab516e7f191d1264"
+  },
+  "email": "test@gmail.com",
+  "password": "$2a$10$gRjIpHMaTlJRCyG1EeN7nOlzBOcMc6ZZ5X98AKaP1ztAeBmFNr3.m",
+  "userName": "test",
+  "role": "user",
+  "avatar": "https://vectorified.com/images/default-avatar-icon-12.png",
+  "address": [
+    {
+      "fullName": "Nguyễn Thị Gấm",
+      "phoneNumber": "0347470397",
+      "address": "Phường Ngọc Hà, Quận Ba Đình, Thành phố Hà Nội",
+      "addressName": [
+        "Phường Ngọc Hà",
+        "Quận Ba Đình",
+        "Thành phố Hà Nội"
+      ],
+      "detailedAddress": "số nhà 1",
+      "checked": true,
+      "coordinates": {
+        "lat": 21.039602673036498,
+        "lng": 105.82868706439046
+      },
+      "_id": {
+        "$oid": "67541beab226262964bff634"
+      }
+    }
+  ],
+  "updatedFields": [],
+  "createdAt": {
+    "$date": "2024-06-01T07:51:47.440Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T09:56:58.188Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "email": "namduongone@gmail.com",
+  "userName": "Dương Nam",
+  "role": "user",
+  "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLaUXb_T1pkkhXMg5qznhcb0nC7T57Az0SF5m0oEB-RrlnU-w=s96-c",
+  "address": [
+    {
+      "fullName": "Dương Hải Nam",
+      "phoneNumber": "0399290004",
+      "address": "Phường Minh Khai, Quận Bắc Từ Liêm, Thành phố Hà Nội",
+      "addressName": [
+        "Phường Minh Khai",
+        "Quận Bắc Từ Liêm",
+        "Thành phố Hà Nội"
+      ],
+      "detailedAddress": "số nhà 2",
+      "checked": true,
+      "coordinates": {
+        "lat": 21.05331441354636,
+        "lng": 105.73921245832935
+      },
+      "_id": {
+        "$oid": "67541e7cb226262964c00b5f"
+      }
+    },
+    {
+      "fullName": "Dương Hải Hà",
+      "phoneNumber": "0399290004",
+      "address": "Phường Xuân La, Quận Tây Hồ, Thành phố Hà Nội",
+      "addressName": [
+        "Phường Xuân La",
+        "Quận Tây Hồ",
+        "Thành phố Hà Nội"
+      ],
+      "detailedAddress": "số nhà 2",
+      "checked": false,
+      "coordinates": {
+        "lat": 21.06882778082796,
+        "lng": 105.81122734656634
+      },
+      "_id": {
+        "$oid": "675aa889956a00dcdd9b9be4"
+      }
+    }
+  ],
+  "updatedFields": [],
+  "createdAt": {
+    "$date": "2024-12-07T10:07:26.193Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:10:33.546Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "email": "totnghieppoly@gmail.com",
+  "password": "$2a$10$3ocLeiyNR3Ky/fN/pCHtHeutPOcXPxmRFuGvpRSxLe0S9OgiEu16q",
+  "userName": "Admin",
+  "role": "admin",
+  "avatar": "https://vectorified.com/images/default-avatar-icon-12.png",
+  "address": [],
+  "updatedFields": [],
+  "createdAt": {
+    "$date": "2024-12-12T08:35:28.813Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T08:35:28.813Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "email": "namhai0301004@gmail.com",
+  "userName": "hai nam",
+  "role": "user",
+  "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLU_9p2hbGF4aLacUnpLmtvwm-5LPEajXsQpvflyJx2wYYfpQ=s96-c",
+  "address": [
+    {
+      "coordinates": {
+        "lat": 21.042112600691325,
+        "lng": 105.84782017559803
+      },
+      "fullName": "Hoàng Đức Trung",
+      "phoneNumber": "0361839131",
+      "address": "Phường Nguyễn Trung Trực, Quận Ba Đình, Thành phố Hà Nội",
+      "addressName": [
+        "Phường Nguyễn Trung Trực",
+        "Quận Ba Đình",
+        "Thành phố Hà Nội"
+      ],
+      "detailedAddress": "số nhà 32",
+      "checked": false,
+      "_id": {
+        "$oid": "675f00bbb13442ade28424b8"
+      }
+    },
+    {
+      "fullName": "Vũ Công Minh",
+      "phoneNumber": "0357219736",
+      "address": "Phường Giang Biên, Quận Long Biên, Thành phố Hà Nội",
+      "addressName": [
+        "Phường Giang Biên",
+        "Quận Long Biên",
+        "Thành phố Hà Nội"
+      ],
+      "detailedAddress": "số nhà 192",
+      "checked": true,
+      "coordinates": {
+        "lat": 21.061597004670247,
+        "lng": 105.91207590648514
+      },
+      "_id": {
+        "$oid": "67601926c314fdcae569e465"
+      }
+    }
+  ],
+  "updatedFields": [],
+  "createdAt": {
+    "$date": "2024-12-15T16:05:05.600Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T12:12:22.209Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67613472e509f78e0d88fb29"
+  },
+  "email": "duonghainam.03012004@gmail.com",
+  "userName": "Nam Duong",
+  "role": "user",
+  "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIcgR2Dh4SRcX4x6yAjPY1u2k596OB2vj6PPxJUhmWQyky4qA=s96-c",
+  "address": [
+    {
+      "fullName": "Dương Hải Nam",
+      "phoneNumber": "0357219736",
+      "address": "Phường Phúc Xá, Quận Ba Đình, Thành phố Hà Nội",
+      "addressName": [
+        "Phường Phúc Xá",
+        "Quận Ba Đình",
+        "Thành phố Hà Nội"
+      ],
+      "detailedAddress": "ngõ 12",
+      "checked": true,
+      "coordinates": {
+        "lat": 21.045368,
+        "lng": 105.845814
+      },
+      "_id": {
+        "$oid": "67613498e509f78e0d88fcbf"
+      }
+    }
+  ],
+  "updatedFields": [],
+  "createdAt": {
+    "$date": "2024-12-17T08:21:06.267Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T08:21:44.986Z"
+  }
+}]

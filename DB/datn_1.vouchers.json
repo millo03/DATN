@@ -1,0 +1,750 @@
+[{
+  "_id": {
+    "$oid": "675eff49b13442ade2842166"
+  },
+  "name_voucher": "Giảm 50000",
+  "code_voucher": "R20HM4WS",
+  "description_voucher": "Giảm 50000",
+  "quantity_voucher": 1000,
+  "discountType": "fixed",
+  "discountValue": 50000,
+  "maxDiscount": 0,
+  "applyType": "product",
+  "appliedProducts": [
+    {
+      "$oid": "67483e5a051ab760174d345b"
+    },
+    {
+      "$oid": "67483f72051ab760174d3840"
+    },
+    {
+      "$oid": "67484092051ab760174d3a3f"
+    },
+    {
+      "$oid": "67487929051ab760174d475e"
+    },
+    {
+      "$oid": "67487a71051ab760174d4b16"
+    },
+    {
+      "$oid": "67487c16051ab760174d53e1"
+    },
+    {
+      "$oid": "67487cdb051ab760174d54e8"
+    },
+    {
+      "$oid": "67487db8051ab760174d568f"
+    },
+    {
+      "$oid": "67487e73051ab760174d580e"
+    },
+    {
+      "$oid": "67493708051ab760174d5dd3"
+    },
+    {
+      "$oid": "674937d9051ab760174d5f13"
+    },
+    {
+      "$oid": "6749386e051ab760174d5f71"
+    },
+    {
+      "$oid": "67493918051ab760174d5fcb"
+    },
+    {
+      "$oid": "67493a1c051ab760174d6c0f"
+    },
+    {
+      "$oid": "67493c6d051ab760174d6ee9"
+    },
+    {
+      "$oid": "67493d9c051ab760174d712c"
+    },
+    {
+      "$oid": "67493e2c051ab760174d71eb"
+    },
+    {
+      "$oid": "67493eb9051ab760174d7252"
+    },
+    {
+      "$oid": "67493f3d051ab760174d72b9"
+    },
+    {
+      "$oid": "674fe5e530fc628fb7747f0a"
+    }
+  ],
+  "appliedCategories": [],
+  "minimumSpend": 150000,
+  "allowedUsers": [
+    {
+      "$oid": "674e8e53f32ffa57831c76f0"
+    },
+    {
+      "$oid": "674e9567215b6b28aefaf145"
+    },
+    {
+      "$oid": "674ea85359ea4a29fadd7164"
+    },
+    {
+      "$oid": "674f4f5b51771866e2552b16"
+    },
+    {
+      "$oid": "674f708bc68237d02c4ab68e"
+    },
+    {
+      "$oid": "674ffd0c66af816ad51efc82"
+    },
+    {
+      "$oid": "67541e5eb226262964c00ac7"
+    },
+    {
+      "$oid": "675aa0509fb615afe043f4f7"
+    },
+    {
+      "$oid": "675efe31b13442ade284166b"
+    }
+  ],
+  "startDate": {
+    "$date": "2024-12-15T16:10:40.200Z"
+  },
+  "expirationDate": {
+    "$date": "2024-12-20T17:22:00.000Z"
+  },
+  "isActive": true,
+  "usedCount": 7,
+  "createdAt": {
+    "$date": "2024-12-15T16:09:45.199Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T08:08:31.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675effa5b13442ade2842294"
+  },
+  "name_voucher": "Giảm 40000",
+  "code_voucher": "T5CMF7R8",
+  "description_voucher": "Giảm 40000",
+  "quantity_voucher": 100,
+  "discountType": "fixed",
+  "discountValue": 40000,
+  "maxDiscount": 0,
+  "applyType": "product",
+  "appliedProducts": [
+    {
+      "$oid": "67483e5a051ab760174d345b"
+    },
+    {
+      "$oid": "67483f72051ab760174d3840"
+    },
+    {
+      "$oid": "67484092051ab760174d3a3f"
+    },
+    {
+      "$oid": "67487929051ab760174d475e"
+    },
+    {
+      "$oid": "67487a71051ab760174d4b16"
+    },
+    {
+      "$oid": "67487c16051ab760174d53e1"
+    },
+    {
+      "$oid": "67487cdb051ab760174d54e8"
+    },
+    {
+      "$oid": "67487db8051ab760174d568f"
+    },
+    {
+      "$oid": "67487e73051ab760174d580e"
+    },
+    {
+      "$oid": "67493708051ab760174d5dd3"
+    },
+    {
+      "$oid": "674937d9051ab760174d5f13"
+    },
+    {
+      "$oid": "6749386e051ab760174d5f71"
+    },
+    {
+      "$oid": "67493918051ab760174d5fcb"
+    },
+    {
+      "$oid": "67493a1c051ab760174d6c0f"
+    },
+    {
+      "$oid": "67493c6d051ab760174d6ee9"
+    },
+    {
+      "$oid": "67493d9c051ab760174d712c"
+    },
+    {
+      "$oid": "67493e2c051ab760174d71eb"
+    },
+    {
+      "$oid": "67493eb9051ab760174d7252"
+    },
+    {
+      "$oid": "67493f3d051ab760174d72b9"
+    },
+    {
+      "$oid": "674fe5e530fc628fb7747f0a"
+    }
+  ],
+  "appliedCategories": [],
+  "minimumSpend": 150000,
+  "allowedUsers": [
+    {
+      "$oid": "674ea85359ea4a29fadd7164"
+    },
+    {
+      "$oid": "674eab24e5fe601047c983b2"
+    },
+    {
+      "$oid": "674f708bc68237d02c4ab68e"
+    },
+    {
+      "$oid": "674f763d892b619c75fdf583"
+    },
+    {
+      "$oid": "67541e5eb226262964c00ac7"
+    },
+    {
+      "$oid": "675aa0509fb615afe043f4f7"
+    },
+    {
+      "$oid": "674e9567215b6b28aefaf145"
+    }
+  ],
+  "startDate": {
+    "$date": "2024-12-15T16:12:45.000Z"
+  },
+  "expirationDate": {
+    "$date": "2024-12-20T23:00:00.000Z"
+  },
+  "isActive": true,
+  "usedCount": 0,
+  "createdAt": {
+    "$date": "2024-12-15T16:11:17.878Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:11:38.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f006ab13442ade28423c1"
+  },
+  "name_voucher": "Giảm 15 %",
+  "code_voucher": "LFC79PT7",
+  "description_voucher": "Giảm 15 %",
+  "quantity_voucher": 100,
+  "discountType": "percentage",
+  "discountValue": 15,
+  "maxDiscount": 150000,
+  "applyType": "product",
+  "appliedProducts": [
+    {
+      "$oid": "67483e5a051ab760174d345b"
+    },
+    {
+      "$oid": "67483f72051ab760174d3840"
+    },
+    {
+      "$oid": "67484092051ab760174d3a3f"
+    },
+    {
+      "$oid": "67487929051ab760174d475e"
+    },
+    {
+      "$oid": "67487a71051ab760174d4b16"
+    },
+    {
+      "$oid": "67487c16051ab760174d53e1"
+    },
+    {
+      "$oid": "67487cdb051ab760174d54e8"
+    },
+    {
+      "$oid": "67487db8051ab760174d568f"
+    },
+    {
+      "$oid": "67487e73051ab760174d580e"
+    },
+    {
+      "$oid": "67493708051ab760174d5dd3"
+    },
+    {
+      "$oid": "674937d9051ab760174d5f13"
+    },
+    {
+      "$oid": "6749386e051ab760174d5f71"
+    },
+    {
+      "$oid": "67493918051ab760174d5fcb"
+    },
+    {
+      "$oid": "67493a1c051ab760174d6c0f"
+    },
+    {
+      "$oid": "67493c6d051ab760174d6ee9"
+    },
+    {
+      "$oid": "67493d9c051ab760174d712c"
+    },
+    {
+      "$oid": "67493e2c051ab760174d71eb"
+    },
+    {
+      "$oid": "67493eb9051ab760174d7252"
+    },
+    {
+      "$oid": "67493f3d051ab760174d72b9"
+    },
+    {
+      "$oid": "674fe5e530fc628fb7747f0a"
+    }
+  ],
+  "appliedCategories": [],
+  "minimumSpend": 500000,
+  "allowedUsers": [
+    {
+      "$oid": "67541e5eb226262964c00ac7"
+    },
+    {
+      "$oid": "675aa0509fb615afe043f4f7"
+    },
+    {
+      "$oid": "675efe31b13442ade284166b"
+    },
+    {
+      "$oid": "674e9567215b6b28aefaf145"
+    }
+  ],
+  "startDate": {
+    "$date": "2024-12-15T16:15:21.800Z"
+  },
+  "expirationDate": {
+    "$date": "2024-12-20T22:00:00.000Z"
+  },
+  "isActive": true,
+  "usedCount": 3,
+  "createdAt": {
+    "$date": "2024-12-15T16:14:34.005Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T07:59:14.061Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6761b80d33fcfd8ac7d0a11b"
+  },
+  "name_voucher": "53453",
+  "code_voucher": "W18Q6VPK",
+  "description_voucher": "dsss",
+  "quantity_voucher": 10000,
+  "discountType": "fixed",
+  "discountValue": 12000,
+  "maxDiscount": 0,
+  "applyType": "product",
+  "appliedProducts": [
+    {
+      "$oid": "67483e5a051ab760174d345b"
+    },
+    {
+      "$oid": "67483f72051ab760174d3840"
+    },
+    {
+      "$oid": "67484092051ab760174d3a3f"
+    },
+    {
+      "$oid": "67487929051ab760174d475e"
+    },
+    {
+      "$oid": "67487c16051ab760174d53e1"
+    },
+    {
+      "$oid": "67487cdb051ab760174d54e8"
+    },
+    {
+      "$oid": "67487db8051ab760174d568f"
+    },
+    {
+      "$oid": "67487e73051ab760174d580e"
+    },
+    {
+      "$oid": "67493708051ab760174d5dd3"
+    },
+    {
+      "$oid": "674937d9051ab760174d5f13"
+    },
+    {
+      "$oid": "6749386e051ab760174d5f71"
+    },
+    {
+      "$oid": "67493918051ab760174d5fcb"
+    },
+    {
+      "$oid": "67493a1c051ab760174d6c0f"
+    },
+    {
+      "$oid": "67493c6d051ab760174d6ee9"
+    },
+    {
+      "$oid": "67493d9c051ab760174d712c"
+    },
+    {
+      "$oid": "67493e2c051ab760174d71eb"
+    },
+    {
+      "$oid": "67493eb9051ab760174d7252"
+    },
+    {
+      "$oid": "67493f3d051ab760174d72b9"
+    },
+    {
+      "$oid": "674fe5e530fc628fb7747f0a"
+    },
+    {
+      "$oid": "674fe6ba30fc628fb7747fd9"
+    }
+  ],
+  "appliedCategories": [],
+  "minimumSpend": 1000000,
+  "allowedUsers": [
+    {
+      "$oid": "674e8e53f32ffa57831c76f0"
+    },
+    {
+      "$oid": "674e9567215b6b28aefaf145"
+    },
+    {
+      "$oid": "674ea85359ea4a29fadd7164"
+    },
+    {
+      "$oid": "674eab24e5fe601047c983b2"
+    },
+    {
+      "$oid": "674ebe1d6dcb7d8850424361"
+    },
+    {
+      "$oid": "674f4f5b51771866e2552b16"
+    },
+    {
+      "$oid": "674f708bc68237d02c4ab68e"
+    },
+    {
+      "$oid": "674f763d892b619c75fdf583"
+    },
+    {
+      "$oid": "674ffd0c66af816ad51efc82"
+    },
+    {
+      "$oid": "67500a13ab516e7f191d1264"
+    },
+    {
+      "$oid": "67541e5eb226262964c00ac7"
+    },
+    {
+      "$oid": "675aa0509fb615afe043f4f7"
+    },
+    {
+      "$oid": "675efe31b13442ade284166b"
+    },
+    {
+      "$oid": "67613472e509f78e0d88fb29"
+    }
+  ],
+  "startDate": {
+    "$date": "2024-12-17T17:43:00.000Z"
+  },
+  "expirationDate": {
+    "$date": "2024-12-17T18:00:00.000Z"
+  },
+  "isActive": true,
+  "usedCount": 0,
+  "createdAt": {
+    "$date": "2024-12-17T17:42:37.552Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T00:51:37.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676212350963a94d3ed598ed"
+  },
+  "name_voucher": "Siêu Sale",
+  "code_voucher": "91L0IZD6",
+  "description_voucher": "test",
+  "quantity_voucher": 1000,
+  "discountType": "percentage",
+  "discountValue": 20,
+  "maxDiscount": 150000,
+  "applyType": "product",
+  "appliedProducts": [
+    {
+      "$oid": "67483e5a051ab760174d345b"
+    },
+    {
+      "$oid": "67483f72051ab760174d3840"
+    },
+    {
+      "$oid": "67484092051ab760174d3a3f"
+    },
+    {
+      "$oid": "67487929051ab760174d475e"
+    },
+    {
+      "$oid": "67487c16051ab760174d53e1"
+    },
+    {
+      "$oid": "67487cdb051ab760174d54e8"
+    },
+    {
+      "$oid": "67487db8051ab760174d568f"
+    },
+    {
+      "$oid": "67487e73051ab760174d580e"
+    },
+    {
+      "$oid": "67493708051ab760174d5dd3"
+    },
+    {
+      "$oid": "674937d9051ab760174d5f13"
+    },
+    {
+      "$oid": "6749386e051ab760174d5f71"
+    },
+    {
+      "$oid": "67493918051ab760174d5fcb"
+    },
+    {
+      "$oid": "67493a1c051ab760174d6c0f"
+    },
+    {
+      "$oid": "67493c6d051ab760174d6ee9"
+    },
+    {
+      "$oid": "67493d9c051ab760174d712c"
+    },
+    {
+      "$oid": "67493e2c051ab760174d71eb"
+    },
+    {
+      "$oid": "67493eb9051ab760174d7252"
+    },
+    {
+      "$oid": "67493f3d051ab760174d72b9"
+    },
+    {
+      "$oid": "674fe5e530fc628fb7747f0a"
+    },
+    {
+      "$oid": "674fe6ba30fc628fb7747fd9"
+    }
+  ],
+  "appliedCategories": [],
+  "minimumSpend": 200000,
+  "allowedUsers": [
+    {
+      "$oid": "674e8e53f32ffa57831c76f0"
+    },
+    {
+      "$oid": "674e9567215b6b28aefaf145"
+    },
+    {
+      "$oid": "674ea85359ea4a29fadd7164"
+    },
+    {
+      "$oid": "674eab24e5fe601047c983b2"
+    },
+    {
+      "$oid": "674ebe1d6dcb7d8850424361"
+    },
+    {
+      "$oid": "674f4f5b51771866e2552b16"
+    },
+    {
+      "$oid": "674f708bc68237d02c4ab68e"
+    },
+    {
+      "$oid": "674f763d892b619c75fdf583"
+    },
+    {
+      "$oid": "674ffd0c66af816ad51efc82"
+    },
+    {
+      "$oid": "67500a13ab516e7f191d1264"
+    },
+    {
+      "$oid": "67541e5eb226262964c00ac7"
+    },
+    {
+      "$oid": "675aa0509fb615afe043f4f7"
+    },
+    {
+      "$oid": "675efe31b13442ade284166b"
+    },
+    {
+      "$oid": "67613472e509f78e0d88fb29"
+    }
+  ],
+  "startDate": {
+    "$date": "2024-12-18T17:00:00.000Z"
+  },
+  "expirationDate": {
+    "$date": "2024-12-19T17:00:00.000Z"
+  },
+  "isActive": false,
+  "usedCount": 0,
+  "createdAt": {
+    "$date": "2024-12-18T00:07:17.140Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T00:07:17.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676231705098e098e48fc90a"
+  },
+  "name_voucher": "Giam 10",
+  "code_voucher": "3D10RBB2",
+  "description_voucher": "cazfhhkjukfy",
+  "quantity_voucher": 6,
+  "discountType": "fixed",
+  "discountValue": 10000,
+  "maxDiscount": 0,
+  "applyType": "product",
+  "appliedProducts": [
+    {
+      "$oid": "67483e5a051ab760174d345b"
+    },
+    {
+      "$oid": "67483f72051ab760174d3840"
+    },
+    {
+      "$oid": "67484092051ab760174d3a3f"
+    },
+    {
+      "$oid": "67487929051ab760174d475e"
+    },
+    {
+      "$oid": "67487c16051ab760174d53e1"
+    },
+    {
+      "$oid": "67487cdb051ab760174d54e8"
+    },
+    {
+      "$oid": "67487db8051ab760174d568f"
+    },
+    {
+      "$oid": "67487e73051ab760174d580e"
+    },
+    {
+      "$oid": "67493708051ab760174d5dd3"
+    },
+    {
+      "$oid": "674937d9051ab760174d5f13"
+    },
+    {
+      "$oid": "6749386e051ab760174d5f71"
+    },
+    {
+      "$oid": "67493918051ab760174d5fcb"
+    },
+    {
+      "$oid": "67493a1c051ab760174d6c0f"
+    },
+    {
+      "$oid": "67493c6d051ab760174d6ee9"
+    },
+    {
+      "$oid": "67493d9c051ab760174d712c"
+    },
+    {
+      "$oid": "67493e2c051ab760174d71eb"
+    },
+    {
+      "$oid": "67493eb9051ab760174d7252"
+    },
+    {
+      "$oid": "67493f3d051ab760174d72b9"
+    },
+    {
+      "$oid": "674fe5e530fc628fb7747f0a"
+    },
+    {
+      "$oid": "674fe6ba30fc628fb7747fd9"
+    }
+  ],
+  "appliedCategories": [],
+  "minimumSpend": 1000000,
+  "allowedUsers": [
+    {
+      "$oid": "674e8e53f32ffa57831c76f0"
+    },
+    {
+      "$oid": "674e9567215b6b28aefaf145"
+    },
+    {
+      "$oid": "674ea85359ea4a29fadd7164"
+    },
+    {
+      "$oid": "674eab24e5fe601047c983b2"
+    },
+    {
+      "$oid": "674ebe1d6dcb7d8850424361"
+    },
+    {
+      "$oid": "674f4f5b51771866e2552b16"
+    },
+    {
+      "$oid": "674f708bc68237d02c4ab68e"
+    },
+    {
+      "$oid": "674f763d892b619c75fdf583"
+    },
+    {
+      "$oid": "674ffd0c66af816ad51efc82"
+    },
+    {
+      "$oid": "67500a13ab516e7f191d1264"
+    },
+    {
+      "$oid": "67541e5eb226262964c00ac7"
+    },
+    {
+      "$oid": "675aa0509fb615afe043f4f7"
+    },
+    {
+      "$oid": "675efe31b13442ade284166b"
+    },
+    {
+      "$oid": "67613472e509f78e0d88fb29"
+    }
+  ],
+  "startDate": {
+    "$date": "2024-12-18T17:00:00.000Z"
+  },
+  "expirationDate": {
+    "$date": "2024-12-27T17:00:00.000Z"
+  },
+  "isActive": true,
+  "usedCount": 0,
+  "createdAt": {
+    "$date": "2024-12-18T02:20:32.831Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T02:21:51.291Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "67404a96205ea395ffd201ae"
+  },
+  "date": "2024-11-22",
+  "shipperId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "__v": 0,
+  "orderCount": 1,
+  "totalDistance": 20.11
+},
+{
+  "_id": {
+    "$oid": "67404a96205ea395ffd201af"
+  },
+  "date": "2024-11-08",
+  "shipperId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "__v": 0,
+  "orderCount": 2,
+  "totalDistance": 90.12
+},
+{
+  "_id": {
+    "$oid": "67487f29b172072233fb640f"
+  },
+  "date": "undefined",
+  "shipperId": {
+    "$oid": "671395f070441644ab44185a"
+  },
+  "__v": 0,
+  "orderCount": 2,
+  "totalDistance": 1.13
+},
+{
+  "_id": {
+    "$oid": "67487f29b172072233fb6410"
+  },
+  "date": "2024-11-06",
+  "shipperId": {
+    "$oid": "671395f070441644ab44185a"
+  },
+  "__v": 0,
+  "orderCount": 1,
+  "totalDistance": 1.13
+},
+{
+  "_id": {
+    "$oid": "67487f29b172072233fb6411"
+  },
+  "date": "2024-10-28",
+  "shipperId": {
+    "$oid": "671395f070441644ab44185a"
+  },
+  "__v": 0,
+  "orderCount": 1,
+  "totalDistance": 0
+},
+{
+  "_id": {
+    "$oid": "67487f29b172072233fb6412"
+  },
+  "date": "2024-10-20",
+  "shipperId": {
+    "$oid": "671395f070441644ab44185a"
+  },
+  "__v": 0,
+  "orderCount": 1,
+  "totalDistance": 0
+},
+{
+  "_id": {
+    "$oid": "67487f2ab172072233fb6413"
+  },
+  "date": "2024-11-01",
+  "shipperId": {
+    "$oid": "671395f070441644ab44185a"
+  },
+  "__v": 0,
+  "orderCount": 1,
+  "totalDistance": 0
+},
+{
+  "_id": {
+    "$oid": "67487f2ab172072233fb6414"
+  },
+  "date": "2024-10-27",
+  "shipperId": {
+    "$oid": "671395f070441644ab44185a"
+  },
+  "__v": 0,
+  "orderCount": 1,
+  "totalDistance": 0
+},
+{
+  "_id": {
+    "$oid": "6749f190b172072233fb643a"
+  },
+  "date": "undefined",
+  "shipperId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "__v": 0,
+  "orderCount": 2,
+  "totalDistance": 1.13
+},
+{
+  "_id": {
+    "$oid": "6749f190b172072233fb643b"
+  },
+  "date": "2024-11-29",
+  "shipperId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "__v": 0,
+  "orderCount": 2,
+  "totalDistance": 2.6399999999999997
+},
+{
+  "_id": {
+    "$oid": "674eb7a3b172072233fb6571"
+  },
+  "shipperId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "date": "2024-12-03",
+  "__v": 0,
+  "orderCount": 3,
+  "totalDistance": 203.79
+}]

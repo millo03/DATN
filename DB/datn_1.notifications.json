@@ -1,0 +1,6757 @@
+[{
+  "_id": {
+    "$oid": "675aa297956a00dcdd9b363d"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675aa294956a00dcdd9b3287",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T08:45:11.502Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T08:45:11.502Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa380956a00dcdd9b5a75"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675aa37d956a00dcdd9b56c8",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T08:49:04.953Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T08:49:04.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa3b0956a00dcdd9b606a"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675aa3ad956a00dcdd9b5d2b",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T08:49:52.750Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T08:49:52.750Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa4bc956a00dcdd9b6942"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1733993389909-754",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T08:54:20.179Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T08:54:20.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa4c6956a00dcdd9b696b"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã giao đơn hàng 1733993389909-754 cho đơn vị vận chuyển!",
+  "different": "675aa3ad956a00dcdd9b5d2b",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T08:54:30.585Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T08:54:30.585Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa4fa81f2d760f022d07d"
+  },
+  "userId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã giao đơn hàng 1733993389909-754 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675aa3ad956a00dcdd9b5d2b",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T08:55:22.043Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T08:55:22.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa508956a00dcdd9b6a08"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1733993108312-879",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T08:55:36.137Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T08:55:36.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa50e956a00dcdd9b6a34"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã giao đơn hàng 1733993108312-879 cho đơn vị vận chuyển!",
+  "different": "675aa294956a00dcdd9b3287",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T08:55:42.178Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T08:55:42.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa52181f2d760f022d0c7"
+  },
+  "userId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã giao đơn hàng 1733993108312-879 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675aa294956a00dcdd9b3287",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T08:56:01.179Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T08:56:01.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa525956a00dcdd9b6aa8"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1733993341909-262 ",
+  "different": "675aa37d956a00dcdd9b56c8",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T08:56:05.975Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T08:56:05.975Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa52a956a00dcdd9b6ac8"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã giao đơn hàng 1733993341909-262 cho đơn vị vận chuyển!",
+  "different": "675aa37d956a00dcdd9b56c8",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T08:56:10.479Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T08:56:10.479Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa53d81f2d760f022d114"
+  },
+  "userId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã giao đơn hàng 1733993341909-262 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675aa37d956a00dcdd9b56c8",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T08:56:29.686Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T08:56:29.686Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa62d956a00dcdd9b7174"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675aa62b956a00dcdd9b6e36",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:00:29.534Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:00:29.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa649956a00dcdd9b793b"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675aa646956a00dcdd9b75fe",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:00:57.275Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:00:57.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa65a956a00dcdd9b7d81"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675aa657956a00dcdd9b7a45",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:01:14.282Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:01:14.282Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa669956a00dcdd9b7efb"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1733994027195-018",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:01:29.049Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:01:29.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa66b956a00dcdd9b7f13"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1733994055059-989",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:01:31.158Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:01:31.158Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa66d956a00dcdd9b7f2c"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1733994071473-064",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:01:33.758Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:01:33.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa672956a00dcdd9b7f5a"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã giao đơn hàng 1733994027195-018 cho đơn vị vận chuyển!",
+  "different": "675aa62b956a00dcdd9b6e36",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:01:38.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:01:38.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa68b81f2d760f022d16a"
+  },
+  "userId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã giao đơn hàng 1733994027195-018 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675aa62b956a00dcdd9b6e36",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:02:03.214Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:02:03.214Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa694956a00dcdd9b8110"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đơn hàng 1733994027195-018 đã được giao thành công!",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:02:12.084Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:02:12.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa69f956a00dcdd9b81a1"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã giao đơn hàng 1733994055059-989 cho đơn vị vận chuyển!",
+  "different": "675aa646956a00dcdd9b75fe",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:02:23.556Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:02:23.556Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa6b781f2d760f022d1bf"
+  },
+  "userId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã giao đơn hàng 1733994055059-989 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675aa646956a00dcdd9b75fe",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:02:47.937Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:02:47.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa6c1956a00dcdd9b8346"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đơn hàng 1733994055059-989 đã được giao thành công!",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:02:57.650Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:02:57.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa6c8956a00dcdd9b83cf"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã giao đơn hàng 1733994071473-064 cho đơn vị vận chuyển!",
+  "different": "675aa657956a00dcdd9b7a45",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:03:04.945Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:03:04.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa6df81f2d760f022d218"
+  },
+  "userId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã giao đơn hàng 1733994071473-064 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675aa657956a00dcdd9b7a45",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:03:27.976Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:03:27.976Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa6e4956a00dcdd9b84b0"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đơn hàng 1733994071473-064 đã được giao thành công!",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:03:32.618Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:03:32.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa7dc956a00dcdd9b93da"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675aa7da956a00dcdd9b909f",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:07:40.535Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:07:40.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa8da956a00dcdd9ba77c"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675aa8d8956a00dcdd9ba440",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:11:54.261Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:11:54.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa932956a00dcdd9baa2e"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1733994458307-776",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:13:22.816Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:13:22.816Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa938956a00dcdd9baa61"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã giao đơn hàng 1733994458307-776 cho đơn vị vận chuyển!",
+  "different": "675aa7da956a00dcdd9b909f",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:13:28.031Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:13:28.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa94e81f2d760f022d293"
+  },
+  "userId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã giao đơn hàng 1733994458307-776 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675aa7da956a00dcdd9b909f",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:13:50.924Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:13:50.924Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa952956a00dcdd9bab06"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1733994712132-292 ",
+  "different": "675aa8d8956a00dcdd9ba440",
+  "status_notification": true,
+  "createdAt": {
+    "$date": "2024-12-12T09:13:54.990Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:13:54.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa957956a00dcdd9bab1a"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã giao đơn hàng 1733994712132-292 cho đơn vị vận chuyển!",
+  "different": "675aa8d8956a00dcdd9ba440",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:13:59.127Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:13:59.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa96d81f2d760f022d2de"
+  },
+  "userId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã giao đơn hàng 1733994712132-292 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675aa8d8956a00dcdd9ba440",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:14:21.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:14:21.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aa980956a00dcdd9bac02"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đơn hàng 1733994712132-292 đã được giao thành công!",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T09:14:40.045Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:14:40.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae01a956a00dcdd9bc713"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675ae017956a00dcdd9bc3cf",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T13:07:38.325Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T13:07:38.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae021956a00dcdd9bc917"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734008855413-759",
+  "status_notification": true,
+  "createdAt": {
+    "$date": "2024-12-12T13:07:45.052Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T13:07:45.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae12e956a00dcdd9bd2e1"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675ae12a956a00dcdd9bcf9f",
+  "status_notification": true,
+  "createdAt": {
+    "$date": "2024-12-12T13:12:14.303Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T13:12:14.303Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae138956a00dcdd9bd524"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734009130941-938",
+  "status_notification": true,
+  "createdAt": {
+    "$date": "2024-12-12T13:12:24.078Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T13:12:24.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae241956a00dcdd9bdec2"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675ae23e956a00dcdd9bdb64",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T13:16:49.646Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T13:16:49.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ae24f956a00dcdd9bdfdb"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734009406350-085",
+  "different": "675ae23e956a00dcdd9bdb64",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-12T13:17:03.428Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T13:17:03.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675e9415041ef5025054726e"
+  },
+  "userId": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "receiver_id": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675e9412041ef50250546f2a",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T08:32:21.407Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T08:32:21.407Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675efd690a9ae86d05725065"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người giao hàng đã giao hàng đơn hàng 1733657462787-590 thất bại với lí do Không tìm thấy địa chỉ giao hàng!",
+  "different": "675583761ec1ce002a3105b6",
+  "id_different": "1733657462787-590",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:01:45.404Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:01:45.404Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675efd93b13442ade2840f8f"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã giao đơn hàng 1734009406350-085 cho đơn vị vận chuyển!",
+  "different": "675ae23e956a00dcdd9bdb64",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:02:27.454Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:02:27.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675efd9d0a9ae86d05725400"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người giao hàng đã giao hàng đơn hàng 1734009406350-085 thất bại với lí do Người nhận không nghe máy!",
+  "different": "675ae23e956a00dcdd9bdb64",
+  "id_different": "1734009406350-085",
+  "status_notification": true,
+  "createdAt": {
+    "$date": "2024-12-15T16:02:37.720Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:02:37.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f00d3b13442ade28427ff"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675f00d0b13442ade28424bd",
+  "status_notification": true,
+  "createdAt": {
+    "$date": "2024-12-15T16:16:19.466Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:16:19.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f00f2b13442ade2842ff2"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675f00f0b13442ade2842cae",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:16:50.353Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:16:50.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0113b13442ade28434b2"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675f0111b13442ade284316e",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:17:23.512Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:17:23.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0125b13442ade28435c1"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã giao đơn hàng 1734009130941-938 cho đơn vị vận chuyển!",
+  "different": "675ae12a956a00dcdd9bcf9f",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:17:41.259Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:17:41.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f01410a9ae86d0572545c"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã giao đơn hàng 1734009130941-938 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675ae12a956a00dcdd9bcf9f",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:18:09.566Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:18:09.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f014db13442ade284366b"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã giao đơn hàng 1734008855413-759 cho đơn vị vận chuyển!",
+  "different": "675ae017956a00dcdd9bc3cf",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:18:21.789Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:18:21.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f01620a9ae86d057254a0"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã giao đơn hàng 1734008855413-759 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675ae017956a00dcdd9bc3cf",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:18:42.857Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:18:42.857Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f016fb13442ade284371a"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734251538465-555",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:18:55.980Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:18:55.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0172b13442ade2843731"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734279376655-551",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:18:58.131Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:18:58.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0174b13442ade284374a"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734279408202-430",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:19:00.265Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:19:00.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0176b13442ade2843766"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734279441355-182",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:19:02.659Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:19:02.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f017cb13442ade2843795"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "message": "Người bán đã giao đơn hàng 1734251538465-555 cho đơn vị vận chuyển!",
+  "different": "675e9412041ef50250546f2a",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:19:08.424Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:19:08.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f01920a9ae86d057254e6"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "message": "Đã giao đơn hàng 1734251538465-555 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675e9412041ef50250546f2a",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:19:30.785Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:19:30.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f01a4b13442ade284383f"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734279376655-551 cho đơn vị vận chuyển!",
+  "different": "675f00d0b13442ade28424bd",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:19:48.209Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:19:48.209Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f01bb0a9ae86d0572553e"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734279376655-551 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675f00d0b13442ade28424bd",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:20:11.147Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:20:11.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f01c3b13442ade28438eb"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734279408202-430 cho đơn vị vận chuyển!",
+  "different": "675f00f0b13442ade2842cae",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:20:19.314Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:20:19.314Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f01e10a9ae86d05725581"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734279408202-430 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675f00f0b13442ade2842cae",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:20:49.634Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:20:49.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f021cb13442ade28439da"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734279441355-182 cho đơn vị vận chuyển!",
+  "different": "675f0111b13442ade284316e",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:21:48.043Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:21:48.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f02330a9ae86d05725609"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734279441355-182 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675f0111b13442ade284316e",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:22:11.646Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:22:11.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f025db13442ade2844474"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675f025ab13442ade2844132",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:22:53.713Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:22:53.713Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f026eb13442ade28449df"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675f026bb13442ade2844607",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:23:10.600Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:23:10.600Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f02feb13442ade2845585"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675f02fbb13442ade2845241",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:25:34.540Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:25:34.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f030ab13442ade2845b89"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675f0307b13442ade2845846",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:25:46.025Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:25:46.025Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0321b13442ade28461e5"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675f031fb13442ade2845e9f",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:26:09.505Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:26:09.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f032bb13442ade284656c"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675f0328b13442ade2846229",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:26:19.720Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:26:19.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f033fb13442ade2846ba4"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675f033db13442ade2846861",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:26:39.611Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:26:39.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0348b13442ade2846f14"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675f0346b13442ade2846bd2",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:26:48.328Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:26:48.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0371b13442ade284711a"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734279770950-685",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:27:29.458Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:27:29.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0376b13442ade2847151"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734279770950-685 cho đơn vị vận chuyển!",
+  "different": "675f025ab13442ade2844132",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:27:34.518Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:27:34.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f037cb13442ade28471d3"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734279787765-702",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:27:40.817Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:27:40.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f037eb13442ade28471e2"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734279932123-669",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:27:42.840Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:27:42.840Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0380b13442ade28471f3"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734279943329-649",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:27:44.639Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:27:44.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0382b13442ade2847206"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734279967147-113",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:27:46.507Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:27:46.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0384b13442ade2847218"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734279977034-383",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:27:48.688Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:27:48.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0386b13442ade284722c"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734279997517-773",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:27:50.530Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:27:50.530Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0388b13442ade2847242"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734280006166-030",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:27:52.577Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:27:52.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f03ab0a9ae86d0572566f"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734279770950-685 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675f025ab13442ade2844132",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:28:27.758Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:28:27.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f03b6b13442ade28472ec"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734279787765-702 cho đơn vị vận chuyển!",
+  "different": "675f026bb13442ade2844607",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:28:38.415Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:28:38.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f03c80a9ae86d057256c6"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734279787765-702 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675f026bb13442ade2844607",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:28:56.282Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:28:56.282Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f03d6b13442ade28473a0"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734279932123-669 cho đơn vị vận chuyển!",
+  "different": "675f02fbb13442ade2845241",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:29:10.834Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:29:10.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f03ed0a9ae86d0572570b"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734279932123-669 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675f02fbb13442ade2845241",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:29:33.310Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:29:33.310Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f03f9b13442ade2847467"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734279943329-649 cho đơn vị vận chuyển!",
+  "different": "675f0307b13442ade2845846",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:29:45.345Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:29:45.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f040e0a9ae86d05725770"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734279943329-649 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675f0307b13442ade2845846",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:30:06.299Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:30:06.299Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f041ab13442ade2847522"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734279967147-113 cho đơn vị vận chuyển!",
+  "different": "675f031fb13442ade2845e9f",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:30:18.177Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:30:18.177Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f04320a9ae86d057257b4"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734279967147-113 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675f031fb13442ade2845e9f",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:30:42.864Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:30:42.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f043fb13442ade28475e2"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734279977034-383 cho đơn vị vận chuyển!",
+  "different": "675f0328b13442ade2846229",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:30:55.783Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:30:55.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f04530a9ae86d05725811"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734279977034-383 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675f0328b13442ade2846229",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:31:15.699Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:31:15.699Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f045fb13442ade28476a7"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734279997517-773 cho đơn vị vận chuyển!",
+  "different": "675f033db13442ade2846861",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:31:27.337Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:31:27.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f04760a9ae86d0572586a"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734279997517-773 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675f033db13442ade2846861",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:31:50.478Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:31:50.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f047eb13442ade28477f8"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734280006166-030 cho đơn vị vận chuyển!",
+  "different": "675f0346b13442ade2846bd2",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:31:58.984Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:31:58.984Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f04960a9ae86d057258bf"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734280006166-030 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675f0346b13442ade2846bd2",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:32:22.086Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:32:22.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0796b13442ade2848a9a"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675f0794b13442ade2848753",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:45:10.979Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:45:10.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f08cab13442ade284a36c"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675f08c7b13442ade284a027",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:50:18.431Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:50:18.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0988b13442ade284b956"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675f0985b13442ade284b605",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:53:28.523Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:53:28.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f099bb13442ade284bfd2"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675f0998b13442ade284bc7f",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:53:47.130Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:53:47.130Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f09a5b13442ade284c469"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675f09a3b13442ade284c117",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:53:57.273Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:53:57.273Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f09b0b13442ade284c8fc"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675f09adb13442ade284c5ab",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:54:08.644Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:54:08.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f09dcb13442ade284d0af"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675f09dab13442ade284cd5a",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:54:52.622Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:54:52.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f09ecb13442ade284d462"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675f09e9b13442ade284d10e",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:55:08.676Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:55:08.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f09f8b13442ade284d8f4"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675f09f5b13442ade284d5a3",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:55:20.318Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:55:20.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0a11b13442ade284da9c"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734281108500-591",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:55:45.166Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:55:45.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0a14b13442ade284dabb"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734281415641-853",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:55:48.188Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:55:48.188Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0a18b13442ade284dade"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734281605775-540",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:55:52.661Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:55:52.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0a1ab13442ade284daed"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734281624967-793",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:55:54.317Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:55:54.317Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0a1bb13442ade284dafe"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734281635167-611",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:55:55.979Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:55:55.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0a1db13442ade284db10"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734281645932-750",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:55:57.565Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:55:57.565Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0a1fb13442ade284db24"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734281690479-767",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:55:59.516Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:55:59.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0a21b13442ade284db38"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734281706050-861",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:56:01.298Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:56:01.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0a24b13442ade284db4e"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734281718041-908",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:56:04.974Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:56:04.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0a33b13442ade284db8b"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734281108500-591 cho đơn vị vận chuyển!",
+  "different": "675f0794b13442ade2848753",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:56:19.582Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:56:19.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0a560a9ae86d05725a45"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734281108500-591 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675f0794b13442ade2848753",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:56:54.840Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:56:54.840Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0a61b13442ade284dca9"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734281415641-853 cho đơn vị vận chuyển!",
+  "different": "675f08c7b13442ade284a027",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:57:05.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:57:05.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0a700a9ae86d05725dd1"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người giao hàng đã giao hàng đơn hàng 1734281415641-853 thất bại với lí do Khách hàng hủy đơn!",
+  "different": "675f08c7b13442ade284a027",
+  "id_different": "1734281415641-853",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:57:20.765Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:57:20.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0aa2b13442ade284de75"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734281605775-540 cho đơn vị vận chuyển!",
+  "different": "675f0985b13442ade284b605",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:58:10.882Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:58:10.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0ab90a9ae86d05725e36"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734281605775-540 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675f0985b13442ade284b605",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:58:33.936Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:58:33.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0ac9b13442ade284df87"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734281624967-793 cho đơn vị vận chuyển!",
+  "different": "675f0998b13442ade284bc7f",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:58:49.128Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:58:49.128Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0ade0a9ae86d05725e85"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734281624967-793 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675f0998b13442ade284bc7f",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:59:10.166Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:59:10.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0afbb13442ade284e056"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734281635167-611 cho đơn vị vận chuyển!",
+  "different": "675f09a3b13442ade284c117",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T16:59:39.149Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T16:59:39.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0b130a9ae86d05725ef5"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734281635167-611 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675f09a3b13442ade284c117",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T17:00:03.834Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T17:00:03.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0b1ab13442ade284e1bc"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734281645932-750 cho đơn vị vận chuyển!",
+  "different": "675f09adb13442ade284c5ab",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T17:00:10.643Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T17:00:10.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0b2e0a9ae86d05725f40"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734281645932-750 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675f09adb13442ade284c5ab",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T17:00:30.931Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T17:00:30.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0b3ab13442ade284e294"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734281690479-767 cho đơn vị vận chuyển!",
+  "different": "675f09dab13442ade284cd5a",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T17:00:42.429Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T17:00:42.429Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0b4c0a9ae86d05725f92"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734281690479-767 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675f09dab13442ade284cd5a",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T17:01:00.518Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T17:01:00.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0bf5b13442ade284e540"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734281706050-861 cho đơn vị vận chuyển!",
+  "different": "675f09e9b13442ade284d10e",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T17:03:49.073Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T17:03:49.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0c280a9ae86d05726010"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734281706050-861 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675f09e9b13442ade284d10e",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T17:04:40.244Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T17:04:40.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0c6fb13442ade284e726"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734281718041-908 cho đơn vị vận chuyển!",
+  "different": "675f09f5b13442ade284d5a3",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T17:05:51.062Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T17:05:51.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675f0c860a9ae86d05726082"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734281718041-908 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675f09f5b13442ade284d5a3",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-15T17:06:14.304Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T17:06:14.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fa4e2eafa90cbf20dc1ba"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675fa4dceafa90cbf20dbe69",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T03:56:18.931Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T03:56:18.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fa4f0eafa90cbf20dc2c9"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734321372754-629 ",
+  "different": "675fa4dceafa90cbf20dbe69",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T03:56:32.897Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T03:56:32.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fa4faeafa90cbf20dc2e1"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734321372754-629 cho đơn vị vận chuyển!",
+  "different": "675fa4dceafa90cbf20dbe69",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T03:56:42.169Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T03:56:42.169Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fa5529a8d603f8237559b"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734321372754-629 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675fa4dceafa90cbf20dbe69",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T03:58:10.356Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T03:58:10.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fa70ceafa90cbf20dd1e6"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675fa707eafa90cbf20dce94",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T04:05:32.296Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T04:05:32.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fa713eafa90cbf20dd2a6"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734321928218-032",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T04:05:39.314Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T04:05:39.314Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fa722eafa90cbf20dd2fa"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734321928218-032 cho đơn vị vận chuyển!",
+  "different": "675fa707eafa90cbf20dce94",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T04:05:54.425Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T04:05:54.426Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fa74d9a8d603f82375619"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734321928218-032 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675fa707eafa90cbf20dce94",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T04:06:37.783Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T04:06:37.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fdd5ac314fdcae56886f4"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675fdd56c314fdcae568839f",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T07:57:14.724Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T07:57:14.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fdd69c314fdcae5688b92"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675fdd65c314fdcae5688840",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T07:57:29.159Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T07:57:29.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fdd77c314fdcae5688f11"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675fdd73c314fdcae5688bc0",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T07:57:43.598Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T07:57:43.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fdd9bc314fdcae56892ee"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675fdd98c314fdcae5688f9b",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T07:58:19.847Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T07:58:19.847Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fddb6c314fdcae5689a63"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675fddb1c314fdcae5689710",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T07:58:46.063Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T07:58:46.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fddc0c314fdcae5689de0"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675fddbdc314fdcae5689a8e",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T07:58:56.827Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T07:58:56.827Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fddd6c314fdcae568a15d"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675fddd1c314fdcae5689e0a",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T07:59:18.425Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T07:59:18.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fddf4c314fdcae568aa37"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675fddf0c314fdcae568a6e5",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T07:59:48.093Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T07:59:48.093Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fddfec314fdcae568adaf"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675fddfac314fdcae568aa5e",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T07:59:58.372Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T07:59:58.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fde15c314fdcae568b3f3"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675fde11c314fdcae568b0a1",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:00:21.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:00:21.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fde21c314fdcae568b76c"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675fde1dc314fdcae568b41a",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:00:33.902Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:00:33.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fde41c314fdcae568c0fe"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675fde3dc314fdcae568ba60",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:01:05.819Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:01:05.819Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fde6bc314fdcae568c75f"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675fde67c314fdcae568c40d",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:01:47.823Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:01:47.823Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fde79c314fdcae568cad5"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "675fde74c314fdcae568c783",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:02:01.971Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:02:01.971Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fdedcc314fdcae568d208"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734335831032-594",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:03:40.799Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:03:40.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fdee0c314fdcae568d218"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734335845426-906",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:03:44.124Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:03:44.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fdee3c314fdcae568d22b"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734335860021-748",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:03:47.837Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:03:47.837Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fdee6c314fdcae568d23d"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734335896641-054",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:03:50.538Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:03:50.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fdee9c314fdcae568d252"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734335921924-785",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:03:53.019Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:03:53.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fdeebc314fdcae568d266"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734335933449-505",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:03:55.771Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:03:55.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fdeefc314fdcae568d27d"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734335954057-154",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:03:59.501Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:03:59.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fdf1bc314fdcae568d297"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734335984467-073",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:04:43.222Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:04:43.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fdf1ec314fdcae568d2a8"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734335995082-408",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:04:46.013Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:04:46.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fdf20c314fdcae568d2bb"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734336018243-264",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:04:48.721Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:04:48.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fdf23c314fdcae568d2cd"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734336030476-563",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:04:51.058Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:04:51.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fdf25c314fdcae568d2e1"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734336062447-950",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:04:53.527Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:04:53.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fdf28c314fdcae568d2f7"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734336103795-053",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:04:56.097Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:04:56.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fdf2bc314fdcae568d30c"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734336117577-824",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:04:59.041Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:04:59.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fe269c314fdcae568e596"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734335831032-594 cho đơn vị vận chuyển!",
+  "different": "675fdd56c314fdcae568839f",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:18:49.581Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:18:49.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fe5e04ccd630e5acb8d1c"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734335831032-594 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675fdd56c314fdcae568839f",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:33:36.016Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:33:36.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fe6a1c314fdcae5690346"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734335984467-073 cho đơn vị vận chuyển!",
+  "different": "675fddf0c314fdcae568a6e5",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:36:49.775Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:36:49.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fe7d54ccd630e5acb8d7d"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734335984467-073 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675fddf0c314fdcae568a6e5",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:41:57.844Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:41:57.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fe7e0c314fdcae5690b44"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734335995082-408 cho đơn vị vận chuyển!",
+  "different": "675fddfac314fdcae568aa5e",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T08:42:08.513Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T08:42:08.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fec524ccd630e5acb8e80"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734335995082-408 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675fddfac314fdcae568aa5e",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T09:01:06.518Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T09:01:06.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ffb1bc314fdcae5695e25"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734336018243-264 cho đơn vị vận chuyển!",
+  "different": "675fde11c314fdcae568b0a1",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T10:04:11.743Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T10:04:11.743Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ffe6e4ccd630e5acb908b"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734336018243-264 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675fde11c314fdcae568b0a1",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T10:18:22.607Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T10:18:22.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ffe88c314fdcae5697158"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734336030476-563 cho đơn vị vận chuyển!",
+  "different": "675fde1dc314fdcae568b41a",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T10:18:48.035Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T10:18:48.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ffea14ccd630e5acb910d"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734336030476-563 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675fde1dc314fdcae568b41a",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T10:19:13.589Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T10:19:13.589Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67600d03c314fdcae5698fbd"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734336062447-950 cho đơn vị vận chuyển!",
+  "different": "675fde3dc314fdcae568ba60",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T11:20:35.935Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T11:20:35.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67600e544ccd630e5acb926a"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734336062447-950 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675fde3dc314fdcae568ba60",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T11:26:12.321Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T11:26:12.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6760192fc314fdcae569e88a"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "6760192cc314fdcae569e46a",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T12:12:31.550Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T12:12:31.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67601939c314fdcae569ea4c"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734351148469-013 ",
+  "different": "6760192cc314fdcae569e46a",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T12:12:41.226Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T12:12:41.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6760193dc314fdcae569ea64"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734351148469-013 cho đơn vị vận chuyển!",
+  "different": "6760192cc314fdcae569e46a",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T12:12:45.682Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T12:12:45.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676019554ccd630e5acb93b0"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734351148469-013 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "6760192cc314fdcae569e46a",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T12:13:09.800Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T12:13:09.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67601973c314fdcae569ebfc"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đơn hàng 1734351148469-013 đã được giao thành công!",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T12:13:39.272Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T12:13:39.272Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6760347c8fa3e72a87d172db"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734336103795-053 cho đơn vị vận chuyển!",
+  "different": "675fde67c314fdcae568c40d",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:09:00.524Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:09:00.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676034974793701a3d5a450b"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734336103795-053 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675fde67c314fdcae568c40d",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:09:27.680Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:09:27.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676034d78fa3e72a87d17525"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734336117577-824 cho đơn vị vận chuyển!",
+  "different": "675fde74c314fdcae568c783",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:10:31.268Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:10:31.268Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676034ef4793701a3d5a455d"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734336117577-824 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675fde74c314fdcae568c783",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:10:55.619Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:10:55.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676035028fa3e72a87d17800"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734335954057-154 cho đơn vị vận chuyển!",
+  "different": "675fddd1c314fdcae5689e0a",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:11:14.578Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:11:14.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676035b28fa3e72a87d17eab"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734335954057-154 cho đơn vị vận chuyển!",
+  "different": "675fddd1c314fdcae5689e0a",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:14:10.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:14:10.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676035ce8fa3e72a87d1821c"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734335845426-906 cho đơn vị vận chuyển!",
+  "different": "675fdd65c314fdcae5688840",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:14:38.401Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:14:38.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676037228fa3e72a87d18c05"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734335845426-906 cho đơn vị vận chuyển!",
+  "different": "675fdd65c314fdcae5688840",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:20:18.143Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:20:18.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676037384793701a3d5a4b93"
+  },
+  "userId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734335845426-906 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675fdd65c314fdcae5688840",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:20:40.138Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:20:40.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676037468fa3e72a87d18eca"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734335860021-748 cho đơn vị vận chuyển!",
+  "different": "675fdd73c314fdcae5688bc0",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:20:54.223Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:20:54.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6760375d4793701a3d5a4c1e"
+  },
+  "userId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734335860021-748 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675fdd73c314fdcae5688bc0",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:21:17.423Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:21:17.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676037678fa3e72a87d19178"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734335896641-054 cho đơn vị vận chuyển!",
+  "different": "675fdd98c314fdcae5688f9b",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:21:27.047Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:21:27.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676037794793701a3d5a4c6a"
+  },
+  "userId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734335896641-054 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675fdd98c314fdcae5688f9b",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:21:45.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:21:45.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6760377c8fa3e72a87d1928c"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734335921924-785 cho đơn vị vận chuyển!",
+  "different": "675fddb1c314fdcae5689710",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:21:48.807Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:21:48.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676037984793701a3d5a4cb1"
+  },
+  "userId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734335921924-785 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675fddb1c314fdcae5689710",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:22:16.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:22:16.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6760379c8fa3e72a87d193a2"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734335933449-505 cho đơn vị vận chuyển!",
+  "different": "675fddbdc314fdcae5689a8e",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:22:20.040Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:22:20.040Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676037b04793701a3d5a4cff"
+  },
+  "userId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734335933449-505 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "675fddbdc314fdcae5689a8e",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:22:40.293Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:22:40.293Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603b428fa3e72a87d1cc57"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67603b3f8fa3e72a87d1c8f0",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:37:54.040Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:37:54.040Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603b4f8fa3e72a87d1d093"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67603b4c8fa3e72a87d1cd2d",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:38:07.334Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:38:07.334Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603b568fa3e72a87d1d4c9"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67603b548fa3e72a87d1d164",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:38:14.850Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:38:14.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603b738fa3e72a87d1dd4b"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67603b708fa3e72a87d1d9e7",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:38:43.397Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:38:43.397Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603b7b8fa3e72a87d1e16b"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67603b788fa3e72a87d1de08",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:38:51.499Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:38:51.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603b828fa3e72a87d1e586"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67603b7f8fa3e72a87d1e224",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:38:58.178Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:38:58.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603b8a8fa3e72a87d1e99d"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67603b878fa3e72a87d1e63c",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:39:06.406Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:39:06.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603b978fa3e72a87d1eda2"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67603b958fa3e72a87d1ea42",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:39:19.473Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:39:19.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603b9e8fa3e72a87d1f1a2"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67603b9b8fa3e72a87d1ee43",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:39:26.816Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:39:26.816Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603ba88fa3e72a87d1f59e"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67603ba58fa3e72a87d1f240",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:39:36.026Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:39:36.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603bb38fa3e72a87d1f988"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67603bb08fa3e72a87d1f62b",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:39:47.580Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:39:47.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603bbb8fa3e72a87d1fd6d"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67603bb98fa3e72a87d1fa11",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:39:55.970Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:39:55.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603bd38fa3e72a87d20254"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67603bd08fa3e72a87d1fef9",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:40:19.178Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:40:19.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603bda8fa3e72a87d20623"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67603bd88fa3e72a87d202c9",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:40:26.757Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:40:26.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603be28fa3e72a87d209ee"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67603bdf8fa3e72a87d20695",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:40:34.922Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:40:34.922Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603be98fa3e72a87d20db3"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67603be78fa3e72a87d20a5b",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:40:41.877Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:40:41.877Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603bf28fa3e72a87d21173"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67603bf08fa3e72a87d20e1c",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:40:50.405Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:40:50.405Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603bfb8fa3e72a87d21519"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67603bf88fa3e72a87d211c3",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:40:59.023Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:40:59.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c048fa3e72a87d218bb"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67603c028fa3e72a87d21566",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:41:08.820Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:41:08.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c0d8fa3e72a87d21c57"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67603c0a8fa3e72a87d21903",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:41:17.319Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:41:17.319Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c178fa3e72a87d21ff0"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67603c158fa3e72a87d21c9d",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:41:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:41:27.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c378fa3e72a87d22201"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734359871502-926",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:41:59.382Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:41:59.382Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c3e8fa3e72a87d22220"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734359884899-394 ",
+  "different": "67603b4c8fa3e72a87d1cd2d",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:42:06.515Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:42:06.515Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c458fa3e72a87d22311"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734359892523-656 ",
+  "different": "67603b548fa3e72a87d1d164",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:42:13.516Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:42:13.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c498fa3e72a87d223f5"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734359921071-855",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:42:17.155Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:42:17.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c4b8fa3e72a87d2240a"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734359928983-422",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:42:19.341Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:42:19.341Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c4d8fa3e72a87d2241e"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734359935891-964",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:42:21.667Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:42:21.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c508fa3e72a87d22434"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734359943624-757",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:42:24.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:42:24.274Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c548fa3e72a87d2244e"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734359957211-488",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:42:28.094Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:42:28.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c558fa3e72a87d2245e"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734359963955-912",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:42:29.621Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:42:29.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c578fa3e72a87d22471"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734359973537-418",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:42:31.195Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:42:31.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c598fa3e72a87d22485"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734359984722-386",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:42:33.190Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:42:33.190Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c5a8fa3e72a87d22498"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734359993602-882",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:42:34.786Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:42:34.786Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c5c8fa3e72a87d224ad"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734360016893-179",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:42:36.453Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:42:36.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c5e8fa3e72a87d224c3"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734360024395-097",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:42:38.091Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:42:38.091Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c618fa3e72a87d224dd"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734360032110-884",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:42:41.845Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:42:41.845Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c638fa3e72a87d224ed"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734360039598-750",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:42:43.330Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:42:43.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c668fa3e72a87d22500"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734360074527-887",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:42:46.947Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:42:46.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c688fa3e72a87d22512"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734360085227-798",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:42:48.954Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:42:48.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c748fa3e72a87d2261b"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734360085227-798 cho đơn vị vận chuyển!",
+  "different": "67603c158fa3e72a87d21c9d",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:43:00.539Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:43:00.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c874793701a3d5a4dd6"
+  },
+  "userId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734360085227-798 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "67603c158fa3e72a87d21c9d",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:43:19.772Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:43:19.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603c8e8fa3e72a87d2272b"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734360074527-887 cho đơn vị vận chuyển!",
+  "different": "67603c0a8fa3e72a87d21903",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:43:26.180Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:43:26.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603ca34793701a3d5a4e1f"
+  },
+  "userId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734360074527-887 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "67603c0a8fa3e72a87d21903",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:43:47.409Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:43:47.409Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603ca88fa3e72a87d2290e"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734360039598-750 cho đơn vị vận chuyển!",
+  "different": "67603be78fa3e72a87d20a5b",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:43:52.550Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:43:52.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603cbb4793701a3d5a4e67"
+  },
+  "userId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734360039598-750 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "67603be78fa3e72a87d20a5b",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:44:11.709Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:44:11.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603cc08fa3e72a87d22a26"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734360032110-884 cho đơn vị vận chuyển!",
+  "different": "67603bdf8fa3e72a87d20695",
+  "status_notification": true,
+  "createdAt": {
+    "$date": "2024-12-16T14:44:16.340Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:44:16.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603cd54793701a3d5a4eaf"
+  },
+  "userId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734360032110-884 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "67603bdf8fa3e72a87d20695",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:44:37.504Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:44:37.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603cdb8fa3e72a87d22c24"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734360024395-097 cho đơn vị vận chuyển!",
+  "different": "67603bd88fa3e72a87d202c9",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:44:43.156Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:44:43.156Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603cee4793701a3d5a4ef7"
+  },
+  "userId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734360024395-097 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "67603bd88fa3e72a87d202c9",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:45:02.422Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:45:02.422Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603cf48fa3e72a87d22d43"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734360016893-179 cho đơn vị vận chuyển!",
+  "different": "67603bd08fa3e72a87d1fef9",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:45:08.716Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:45:08.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603d074793701a3d5a4f3e"
+  },
+  "userId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734360016893-179 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "67603bd08fa3e72a87d1fef9",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:45:27.776Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:45:27.776Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603d0f8fa3e72a87d22e67"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734359993602-882 cho đơn vị vận chuyển!",
+  "different": "67603bb98fa3e72a87d1fa11",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:45:35.963Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:45:35.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603d254793701a3d5a4f93"
+  },
+  "userId": {
+    "$oid": "671f8360f64b9049fd9095cf"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734359993602-882 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "67603bb98fa3e72a87d1fa11",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:45:57.226Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:45:57.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603d2d8fa3e72a87d23070"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734359984722-386 cho đơn vị vận chuyển!",
+  "different": "67603bb08fa3e72a87d1f62b",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:46:05.621Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:46:05.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603da88fa3e72a87d23b96"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734359973537-418 cho đơn vị vận chuyển!",
+  "different": "67603ba58fa3e72a87d1f240",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:48:08.092Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:48:08.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603e288fa3e72a87d24261"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734359963955-912 cho đơn vị vận chuyển!",
+  "different": "67603b9b8fa3e72a87d1ee43",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:50:16.188Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:50:16.188Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603e3c4793701a3d5a5214"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734359963955-912 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "67603b9b8fa3e72a87d1ee43",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:50:36.282Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:50:36.282Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603e428fa3e72a87d243ac"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734359957211-488 cho đơn vị vận chuyển!",
+  "different": "67603b958fa3e72a87d1ea42",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:50:42.987Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:50:42.987Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603e564793701a3d5a525d"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734359957211-488 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "67603b958fa3e72a87d1ea42",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:51:02.547Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:51:02.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603e5f8fa3e72a87d244df"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734359943624-757 cho đơn vị vận chuyển!",
+  "different": "67603b878fa3e72a87d1e63c",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:51:11.377Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:51:11.377Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603e734793701a3d5a52cd"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734359943624-757 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "67603b878fa3e72a87d1e63c",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:51:31.451Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:51:31.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603e7c8fa3e72a87d24729"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734359935891-964 cho đơn vị vận chuyển!",
+  "different": "67603b7f8fa3e72a87d1e224",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:51:40.842Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:51:40.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603e8f4793701a3d5a5319"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734359935891-964 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "67603b7f8fa3e72a87d1e224",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:51:59.188Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:51:59.188Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603e978fa3e72a87d248b8"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734359928983-422 cho đơn vị vận chuyển!",
+  "different": "67603b788fa3e72a87d1de08",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:52:07.785Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:52:07.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603eac4793701a3d5a5362"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734359928983-422 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "67603b788fa3e72a87d1de08",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:52:28.380Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:52:28.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603eb88fa3e72a87d24d42"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734359921071-855 cho đơn vị vận chuyển!",
+  "different": "67603b708fa3e72a87d1d9e7",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:52:40.634Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:52:40.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603ecb4793701a3d5a53ab"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734359921071-855 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "67603b708fa3e72a87d1d9e7",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:52:59.995Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:52:59.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603ece8fa3e72a87d24e9c"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734359884899-394 cho đơn vị vận chuyển!",
+  "different": "67603b4c8fa3e72a87d1cd2d",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:53:02.962Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:53:02.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603ed64793701a3d5a5737"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người giao hàng đã giao hàng đơn hàng 1734359884899-394 thất bại với lí do Không tìm thấy địa chỉ giao hàng!",
+  "different": "67603b4c8fa3e72a87d1cd2d",
+  "id_different": "1734359884899-394",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:53:10.201Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:53:10.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603ee98fa3e72a87d250fc"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734359892523-656 cho đơn vị vận chuyển!",
+  "different": "67603b548fa3e72a87d1d164",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-16T14:53:29.898Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:53:29.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67603efd4793701a3d5a5773"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734359892523-656 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "67603b548fa3e72a87d1d164",
+  "status_notification": true,
+  "createdAt": {
+    "$date": "2024-12-16T14:53:49.184Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:53:49.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67612b68504a4a0cb48c422b"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734360066580-843 ",
+  "different": "67603c028fa3e72a87d21566",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T07:42:32.765Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T07:42:32.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6761325ee509f78e0d88c0cb"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734423019069-883",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T08:12:14.599Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T08:12:14.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67613267e509f78e0d88c0fb"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734423019069-883 cho đơn vị vận chuyển!",
+  "different": "676131eae509f78e0d88b9fc",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T08:12:23.613Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T08:12:23.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6761327fe509f78e0d88c35f"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734422911088-770",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T08:12:47.881Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T08:12:47.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67613286e509f78e0d88c391"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734422911088-770 cho đơn vị vận chuyển!",
+  "different": "6761317ee509f78e0d88add1",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T08:12:54.154Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T08:12:54.154Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676132d0b2660bc813e6b93a"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734422911088-770 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "6761317ee509f78e0d88add1",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T08:14:08.380Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T08:14:08.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676132ede509f78e0d88cf5a"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đơn hàng 1734422911088-770 đã được giao thành công!",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T08:14:37.044Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T08:14:37.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6761340de509f78e0d88f27a"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734423553546-527",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T08:19:25.975Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T08:19:25.976Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6761353ce509f78e0d891446"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734423857071-351",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T08:24:28.760Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T08:24:28.760Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67613546e509f78e0d891477"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67613472e509f78e0d88fb29"
+  },
+  "message": "Người bán đã giao đơn hàng 1734423857071-351 cho đơn vị vận chuyển!",
+  "different": "67613530e509f78e0d890b77",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T08:24:38.558Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T08:24:38.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67613571b2660bc813e6baa5"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "67613472e509f78e0d88fb29"
+  },
+  "message": "Đã giao đơn hàng 1734423857071-351 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "67613530e509f78e0d890b77",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T08:25:21.605Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T08:25:21.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6761364aa3a4426f1618fd18"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734423934384-786",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T08:28:58.185Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T08:28:58.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67613660a3a4426f1618fd7e"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67613472e509f78e0d88fb29"
+  },
+  "message": "Người bán đã giao đơn hàng 1734423934384-786 cho đơn vị vận chuyển!",
+  "different": "6761357ee509f78e0d891857",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T08:29:20.014Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T08:29:20.014Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67613672b2660bc813e6bb67"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "67613472e509f78e0d88fb29"
+  },
+  "message": "Đã giao đơn hàng 1734423934384-786 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "6761357ee509f78e0d891857",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T08:29:38.611Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T08:29:38.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67613745d5b5425a69bfbf14"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734423939269-218",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T08:33:09.374Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T08:33:09.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67613934a432345c6aa8b68b"
+  },
+  "userId": {
+    "$oid": "676138162f0a76894580939b"
+  },
+  "receiver_id": {
+    "$oid": "676138162f0a76894580939b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "67613931a432345c6aa8b32d",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T08:41:24.126Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T08:41:24.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67613946a432345c6aa8b8d6"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67613472e509f78e0d88fb29"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734424881258-947",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T08:41:42.661Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T08:41:42.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676139d6a432345c6aa8c45c"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "676138162f0a76894580939b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734424881258-947 cho đơn vị vận chuyển!",
+  "different": "67613931a432345c6aa8b32d",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T08:44:06.198Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T08:44:06.198Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676139f0b2660bc813e6bf04"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "676138162f0a76894580939b"
+  },
+  "message": "Đã giao đơn hàng 1734424881258-947 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "67613931a432345c6aa8b32d",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T08:44:32.957Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T08:44:32.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676189582e4fbc0e45965197"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "676189542e4fbc0e45964e44",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T14:23:20.562Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T14:23:20.563Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676189c32e4fbc0e4596569f"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734445396305-144 ",
+  "different": "676189542e4fbc0e45964e44",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T14:25:07.696Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T14:25:07.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676189cb2e4fbc0e459656b8"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734445396305-144 cho đơn vị vận chuyển!",
+  "different": "676189542e4fbc0e45964e44",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T14:25:15.888Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T14:25:15.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676189ff90090895f34ef6f0"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734445396305-144 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "676189542e4fbc0e45964e44",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T14:26:07.748Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T14:26:07.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67618a352e4fbc0e4596581d"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đơn hàng 1734445396305-144 đã được giao thành công!",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T14:27:01.583Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T14:27:01.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6761901e04781fe096d1af24"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "6761901a04781fe096d1abd1",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T14:52:14.842Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T14:52:14.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6761903804781fe096d1b19c"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734447131023-146 ",
+  "different": "6761901a04781fe096d1abd1",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T14:52:40.240Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T14:52:40.240Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6761903c04781fe096d1b1b4"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã giao đơn hàng 1734447131023-146 cho đơn vị vận chuyển!",
+  "different": "6761901a04781fe096d1abd1",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T14:52:44.751Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T14:52:44.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6761905dd3d263c544577589"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Đã giao đơn hàng 1734447131023-146 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "6761901a04781fe096d1abd1",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-17T14:53:17.385Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T14:53:17.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676212f40963a94d3ed5b418"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "676212f00963a94d3ed5b0bb",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T00:10:28.517Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T00:10:28.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676213000963a94d3ed5b81b"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "676212fc0963a94d3ed5b4bf",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T00:10:40.243Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T00:10:40.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762131e0963a94d3ed5bed2"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "6762131b0963a94d3ed5bb77",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T00:11:10.635Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T00:11:10.635Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676213290963a94d3ed5c2a9"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "676213250963a94d3ed5bf4f",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T00:11:21.884Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T00:11:21.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676213450963a94d3ed5c7d4"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "676138162f0a76894580939b"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734480677889-056",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T00:11:49.886Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T00:11:49.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762134a0963a94d3ed5c7f0"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734480667507-809 ",
+  "different": "6762131b0963a94d3ed5bb77",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T00:11:54.646Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T00:11:54.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762134f0963a94d3ed5c80b"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã giao đơn hàng 1734480667507-809 cho đơn vị vận chuyển!",
+  "different": "6762131b0963a94d3ed5bb77",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T00:11:59.588Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T00:11:59.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676213730963a94d3ed5ca04"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734480637181-731 ",
+  "different": "676212fc0963a94d3ed5b4bf",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T00:12:35.838Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T00:12:35.838Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676213f26a040b3eec0202d0"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã giao đơn hàng 1734480667507-809 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "6762131b0963a94d3ed5bb77",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T00:14:42.697Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T00:14:42.697Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676214050963a94d3ed5ced8"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã giao đơn hàng 1734480637181-731 cho đơn vị vận chuyển!",
+  "different": "676212fc0963a94d3ed5b4bf",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T00:15:01.689Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T00:15:01.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676219290963a94d3ed5df92"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "676219250963a94d3ed5dbf3",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T00:36:57.237Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T00:36:57.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676219650963a94d3ed5dfd6"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "message": "Người dùng Dương Hải Nam đã yêu cầu hủy đơn 1734480677889-056 với lí do Tìm được giá tốt hơn!",
+  "different": "676213250963a94d3ed5bf4f",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T00:37:57.907Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T00:37:57.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67621a750963a94d3ed5e8cc"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734482213505-394 ",
+  "different": "676219250963a94d3ed5dbf3",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T00:42:29.340Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T00:42:29.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762280a0963a94d3ed62ce5"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "676228060963a94d3ed62983",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T01:40:26.651Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T01:40:26.652Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676228250963a94d3ed633a8"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "676228210963a94d3ed6300a",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T01:40:53.531Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T01:40:53.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67622e925098e098e48fa0c5"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "message": "Người dùng Dương Hải Nam đã hủy đơn 1734486049928-190 với lí do Tìm được giá tốt hơn!",
+  "different": "676228210963a94d3ed6300a",
+  "id_different": "1734486049928-190",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T02:08:18.933Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T02:08:18.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67622ea05098e098e48fa721"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "message": "Người dùng Dương Hải Nam đã yêu cầu hủy đơn 1734482213505-394 với lí do Đặt nhầm sản phẩm!",
+  "different": "676219250963a94d3ed5dbf3",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T02:08:32.236Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T02:08:32.236Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67622f745098e098e48fbf08"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "message": "Người bán đã hủy đơn 1734486022971-225 với lí do Hết hàng!",
+  "different": "676228060963a94d3ed62983",
+  "id_different": "1734486022971-225",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T02:12:04.295Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T02:12:04.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67622fa05098e098e48fc3b4"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67613472e509f78e0d88fb29"
+  },
+  "message": "Người bán đã xác nhận đơn hàng 1734423846516-400 ",
+  "different": "67613526e509f78e0d89081d",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T02:12:48.092Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T02:12:48.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67622fad5098e098e48fc3cc"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67613472e509f78e0d88fb29"
+  },
+  "message": "Người bán đã giao đơn hàng 1734423846516-400 cho đơn vị vận chuyển!",
+  "different": "67613526e509f78e0d89081d",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T02:13:01.395Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T02:13:01.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67623002565b9259e0385039"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã giao đơn hàng 1734480637181-731 thành công!.Vui lòng ấn đã nhận hàng!",
+  "different": "676212fc0963a94d3ed5b4bf",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T02:14:26.538Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T02:14:26.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676232e35098e098e48fcd96"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Người bán đã Từ Chối:  Đơn hàng đã được giao cho đơn vị vận chuyển yêu cầu hủy đơn hàng 1734482213505-394",
+  "different": "676219250963a94d3ed5dbf3",
+  "id_different": "1734482213505-394",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T02:26:43.691Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T02:26:43.691Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676274925098e098e48fdc5a"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "receiver_id": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "message": "Đã có một đơn hàng mới",
+  "different": "6762748e5098e098e48fd8f4",
+  "status_notification": false,
+  "createdAt": {
+    "$date": "2024-12-18T07:06:58.409Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T07:06:58.409Z"
+  },
+  "__v": 0
+}]

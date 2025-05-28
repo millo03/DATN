@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "674eb9b5e5fe601047c9900c"
+  },
+  "name_category": "Áo polo",
+  "image_category": "https://res.cloudinary.com/dwya9mxip/image/upload/v1733212597/PRODUCTS/wxkxbf9xcfh3g1cxop0e.png",
+  "published": true,
+  "product_count": 6,
+  "createdAt": {
+    "$date": "2024-12-03T07:56:37.994Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T02:19:02.732Z"
+  },
+  "slug": "ao-polo"
+},
+{
+  "_id": {
+    "$oid": "674eb9c9e5fe601047c99012"
+  },
+  "name_category": "Áo thun nam",
+  "image_category": "https://res.cloudinary.com/dwya9mxip/image/upload/v1733212617/PRODUCTS/xi8tsgpj3d0uzhzhli6p.png",
+  "published": true,
+  "product_count": 0,
+  "createdAt": {
+    "$date": "2024-12-03T07:56:57.668Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T07:56:57.668Z"
+  },
+  "slug": "ao-thun-nam"
+},
+{
+  "_id": {
+    "$oid": "674f206645d258e80c198641"
+  },
+  "name_category": "Uncategorized",
+  "image_category": "https://res.cloudinary.com/dwya9mxip/image/upload/v1733329831/PRODUCTS/gmunzq7rcnmjnj2ack0y.png",
+  "slug": "uncategorized",
+  "published": true,
+  "product_count": 7,
+  "createdAt": {
+    "$date": "2024-12-03T15:14:46.654Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T02:19:01.242Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674fe55330fc628fb7747e81"
+  },
+  "name_category": "Quần Kaki & Chino",
+  "image_category": "https://res.cloudinary.com/dwya9mxip/image/upload/v1733289298/PRODUCTS/wwc7ffr3iiekccmdpxy8.webp",
+  "published": true,
+  "product_count": 0,
+  "createdAt": {
+    "$date": "2024-12-04T05:14:59.997Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-04T05:14:59.997Z"
+  },
+  "slug": "quan-kaki-and-chino"
+},
+{
+  "_id": {
+    "$oid": "674febe630fc628fb7748a3a"
+  },
+  "name_category": "Áo sơ mi",
+  "image_category": "https://res.cloudinary.com/dwya9mxip/image/upload/v1733290981/PRODUCTS/mjodmuaddnesbghdmhla.png",
+  "published": true,
+  "product_count": 3,
+  "createdAt": {
+    "$date": "2024-12-04T05:43:02.787Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T20:20:59.200Z"
+  },
+  "slug": "ao-so-mi"
+},
+{
+  "_id": {
+    "$oid": "674fed7630fc628fb774946c"
+  },
+  "name_category": "Áo khoác",
+  "image_category": "https://res.cloudinary.com/dwya9mxip/image/upload/v1733291381/PRODUCTS/hmxz5i1i5gif0byncbgv.png",
+  "published": true,
+  "product_count": 0,
+  "createdAt": {
+    "$date": "2024-12-04T05:49:42.591Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-04T05:49:42.591Z"
+  },
+  "slug": "ao-khoac"
+}]

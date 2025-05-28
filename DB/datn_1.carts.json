@@ -1,0 +1,1061 @@
+[{
+  "_id": {
+    "$oid": "66ea8d390762330b9fe9f84a"
+  },
+  "userId": {
+    "$oid": "66d308ec84bf48b559bff1c2"
+  },
+  "products": [],
+  "total_price": 150000,
+  "createdAt": {
+    "$date": "2024-09-18T08:20:09.842Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-07T09:06:24.059Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ebb8d67eb704ac86f780cf"
+  },
+  "userId": {
+    "$oid": "66e40cfd1c97e01fe47832bb"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "66ea8bfe0762330b9fe9f6ba"
+      },
+      "quantity": 2,
+      "price_item": 150000,
+      "color_item": "Đen",
+      "name_size": "S",
+      "total_price_item": 300000,
+      "status_checked": true,
+      "_id": {
+        "$oid": "6708b5be0d7f4c5b4e41e1f4"
+      }
+    }
+  ],
+  "total_price": 300000,
+  "createdAt": {
+    "$date": "2024-09-19T05:38:30.806Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-11T05:21:02.482Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ebca8032f07ada02d341b8"
+  },
+  "userId": {
+    "$oid": "66d87387b692fb7b0ba25d3c"
+  },
+  "products": [],
+  "total_price": 150000,
+  "createdAt": {
+    "$date": "2024-09-19T06:53:52.045Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-11T23:49:29.478Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ebd2b54e1dfe8307604ea2"
+  },
+  "userId": {
+    "$oid": "66ebd2994e1dfe8307604dad"
+  },
+  "products": [],
+  "total_price": 300000,
+  "createdAt": {
+    "$date": "2024-09-19T07:28:53.792Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-19T07:29:22.152Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ec2e515ed880db42e3d637"
+  },
+  "userId": {
+    "$oid": "66ec268ee71859929ca9bfdd"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "66ea8c520762330b9fe9f6e3"
+      },
+      "quantity": 1,
+      "price_item": 150000,
+      "color_item": "Đen",
+      "name_size": "M",
+      "total_price_item": 150000,
+      "status_checked": true,
+      "_id": {
+        "$oid": "66ec2eb85ed880db42e3d718"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "66ea8bfe0762330b9fe9f6ba"
+      },
+      "quantity": 1,
+      "price_item": 10000,
+      "color_item": "Đen",
+      "name_size": "M",
+      "total_price_item": 10000,
+      "status_checked": false,
+      "_id": {
+        "$oid": "66ec2e515ed880db42e3d638"
+      }
+    }
+  ],
+  "total_price": 160000,
+  "createdAt": {
+    "$date": "2024-09-19T13:59:45.476Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-19T14:01:30.610Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ed275358b1fb62e2e76abd"
+  },
+  "userId": {
+    "$oid": "66d35671ae9c6444f583e246"
+  },
+  "products": [],
+  "total_price": 200000,
+  "createdAt": {
+    "$date": "2024-09-20T07:42:11.333Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T04:10:32.149Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6703ace967507195e542d07e"
+  },
+  "userId": {
+    "$oid": "66df1c5fb2f80c1744b0c006"
+  },
+  "products": [],
+  "total_price": 160000,
+  "createdAt": {
+    "$date": "2024-10-07T09:42:01.484Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-07T14:28:18.675Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67092b062f776c274dc31024"
+  },
+  "userId": {
+    "$oid": "66d9dd32e1dd79838d306619"
+  },
+  "products": [],
+  "total_price": 150000,
+  "createdAt": {
+    "$date": "2024-10-11T13:41:26.521Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-11T13:43:08.001Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67092c002f776c274dc31391"
+  },
+  "userId": {
+    "$oid": "67092beb2f776c274dc312a5"
+  },
+  "products": [],
+  "total_price": 300000,
+  "createdAt": {
+    "$date": "2024-10-11T13:45:36.963Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-11T14:22:53.121Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6709b0ab71cd4d5a62df49f5"
+  },
+  "userId": {
+    "$oid": "66d3df9391092c50d9e24b4c"
+  },
+  "products": [],
+  "total_price": 200000,
+  "createdAt": {
+    "$date": "2024-10-11T23:11:39.164Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-11T23:14:24.146Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670e38c111a7f4a110b8c275"
+  },
+  "userId": {
+    "$oid": "670e38aa11a7f4a110b8c225"
+  },
+  "products": [],
+  "total_price": 200000,
+  "createdAt": {
+    "$date": "2024-10-15T09:41:21.641Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T03:21:24.993Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670e932b8eb3a3e6b98be8b5"
+  },
+  "userId": {
+    "$oid": "670e93218eb3a3e6b98be81c"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "6740155dfd34db858c3fd1dd"
+      },
+      "quantity": 1,
+      "price_item": 2190000,
+      "color_item": "Màu Kem",
+      "name_size": "L",
+      "total_price_item": 2190000,
+      "status_checked": true,
+      "_id": {
+        "$oid": "67498f3d805c1c9e28a270e9"
+      }
+    }
+  ],
+  "total_price": 2190000,
+  "createdAt": {
+    "$date": "2024-10-15T16:07:07.063Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-29T09:54:08.493Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670f1450d7a6c1fe63775528"
+  },
+  "userId": {
+    "$oid": "670e392d11a7f4a110b8c386"
+  },
+  "products": [],
+  "total_price": 250000,
+  "createdAt": {
+    "$date": "2024-10-16T01:18:08.959Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T02:00:09.615Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670f15982202b472c2321152"
+  },
+  "userId": {
+    "$oid": "670f15892202b472c23210c0"
+  },
+  "products": [],
+  "total_price": 351000,
+  "createdAt": {
+    "$date": "2024-10-16T01:23:36.188Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T19:39:54.946Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67106663bbf5e424d178de14"
+  },
+  "userId": {
+    "$oid": "670b736bc189cc1db82ed7a2"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "672f98e491af5d22720f7420"
+      },
+      "quantity": 1,
+      "price_item": 200000,
+      "total_price_item": 200000,
+      "status_checked": true,
+      "_id": {
+        "$oid": "6743667a617a78efb2d890e2"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "670e847fd6f89c368d517535"
+      },
+      "quantity": 1,
+      "price_item": 250000,
+      "color_item": "Đen",
+      "name_size": "L",
+      "total_price_item": 250000,
+      "status_checked": false,
+      "_id": {
+        "$oid": "6743668c617a78efb2d892ea"
+      }
+    }
+  ],
+  "total_price": 450000,
+  "createdAt": {
+    "$date": "2024-10-17T01:20:35.781Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T18:00:38.990Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67123b0310fad716b1a6bb54"
+  },
+  "userId": {
+    "$oid": "671239d210fad716b1a6b874"
+  },
+  "products": [],
+  "total_price": 250000,
+  "createdAt": {
+    "$date": "2024-10-18T10:40:03.865Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T09:08:49.106Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673703f7e1862cf040e69da5"
+  },
+  "userId": {
+    "$oid": "670df3dee8e737d68b53fa83"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "670e847fd6f89c368d517535"
+      },
+      "quantity": 1,
+      "price_item": 250000,
+      "color_item": "Đen",
+      "name_size": "XS",
+      "total_price_item": 250000,
+      "status_checked": true,
+      "_id": {
+        "$oid": "674f28366890b9b9cf6adcd4"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "670e8611d6f89c368d517605"
+      },
+      "quantity": 1,
+      "price_item": 150000,
+      "color_item": "Trắng",
+      "name_size": "S",
+      "total_price_item": 150000,
+      "status_checked": true,
+      "_id": {
+        "$oid": "674f1b77d216d07272bc6739"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "6740155dfd34db858c3fd1dd"
+      },
+      "quantity": 1,
+      "price_item": 2190000,
+      "color_item": "Màu Xanh",
+      "name_size": "L",
+      "total_price_item": 2190000,
+      "status_checked": true,
+      "_id": {
+        "$oid": "674ec3cba87e15a980c09150"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67493708051ab760174d5dd3"
+      },
+      "quantity": 1,
+      "price_item": 224000,
+      "color_item": "Màu đen",
+      "name_size": "L",
+      "total_price_item": 224000,
+      "status_checked": true,
+      "_id": {
+        "$oid": "674eaac3e5fe601047c982c7"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "670e8611d6f89c368d517605"
+      },
+      "quantity": 2,
+      "price_item": 200000,
+      "color_item": "Đen",
+      "name_size": "XS",
+      "total_price_item": 400000,
+      "status_checked": true,
+      "_id": {
+        "$oid": "674ea6de9ec52bdc2755dd49"
+      }
+    }
+  ],
+  "total_price": 3214000,
+  "createdAt": {
+    "$date": "2024-11-15T08:19:03.222Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T15:51:35.803Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674015366b1be58aa9dfaad6"
+  },
+  "userId": {
+    "$oid": "674015276b1be58aa9dfaa11"
+  },
+  "products": [],
+  "total_price": 260000,
+  "createdAt": {
+    "$date": "2024-11-22T05:23:02.457Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T00:59:19.475Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674974a4bb7e732284cc8cdd"
+  },
+  "userId": {
+    "$oid": "67497459bb7e732284cc8689"
+  },
+  "products": [],
+  "total_price": 2460000,
+  "createdAt": {
+    "$date": "2024-11-29T08:00:36.971Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-29T08:14:11.496Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d48b4424df13b28daa21b"
+  },
+  "userId": {
+    "$oid": "67484444a31746ed6000f3bd"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67487cdb051ab760174d54e8"
+      },
+      "quantity": 1,
+      "price_item": 320000,
+      "total_price_item": 320000,
+      "status_checked": false,
+      "_id": {
+        "$oid": "674d4bfb424df13b28dab0e5"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "6749386e051ab760174d5f71"
+      },
+      "quantity": 1,
+      "price_item": 375000,
+      "total_price_item": 375000,
+      "status_checked": false,
+      "_id": {
+        "$oid": "674d4c06424df13b28dab2b0"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67493708051ab760174d5dd3"
+      },
+      "quantity": 1,
+      "price_item": 224000,
+      "color_item": "Màu đen",
+      "name_size": "L",
+      "total_price_item": 224000,
+      "status_checked": true,
+      "_id": {
+        "$oid": "674d4c13424df13b28dab48b"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "6749386e051ab760174d5f71"
+      },
+      "quantity": 1,
+      "price_item": 377000,
+      "color_item": "Màu Be",
+      "name_size": "S",
+      "total_price_item": 377000,
+      "status_checked": true,
+      "_id": {
+        "$oid": "674d4c8f424df13b28daba8d"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "670e847fd6f89c368d517535"
+      },
+      "quantity": 1,
+      "price_item": 250000,
+      "color_item": "Đen",
+      "name_size": "XS",
+      "total_price_item": 250000,
+      "status_checked": false,
+      "_id": {
+        "$oid": "674f4edd4cc50134ff2ce2aa"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "670e847fd6f89c368d517535"
+      },
+      "quantity": 1,
+      "price_item": 250000,
+      "color_item": "Đen",
+      "name_size": "L",
+      "total_price_item": 250000,
+      "status_checked": false,
+      "_id": {
+        "$oid": "674f4efa4cc50134ff2ce6c0"
+      }
+    }
+  ],
+  "total_price": 1796000,
+  "createdAt": {
+    "$date": "2024-12-02T05:42:12.898Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T18:36:24.669Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d48b6424df13b28daa21e"
+  },
+  "userId": {
+    "$oid": "67484444a31746ed6000f3bd"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67493708051ab760174d5dd3"
+      },
+      "quantity": 1,
+      "price_item": 224000,
+      "color_item": "Màu đen",
+      "name_size": "L",
+      "total_price_item": 224000,
+      "status_checked": false,
+      "_id": {
+        "$oid": "674d48b6424df13b28daa21f"
+      }
+    }
+  ],
+  "total_price": 224000,
+  "createdAt": {
+    "$date": "2024-12-02T05:42:14.310Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T05:42:14.310Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d78548eb3274673ce945d"
+  },
+  "userId": {
+    "$oid": "673b05913ab3b1b2ace2dfab"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67493708051ab760174d5dd3"
+      },
+      "quantity": 1,
+      "price_item": 224000,
+      "color_item": "Màu đen",
+      "name_size": "L",
+      "total_price_item": 224000,
+      "status_checked": true,
+      "_id": {
+        "$oid": "674d78548eb3274673ce945e"
+      }
+    }
+  ],
+  "total_price": 224000,
+  "createdAt": {
+    "$date": "2024-12-02T09:05:24.448Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T09:05:24.448Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674e99a9f32ffa57831ca075"
+  },
+  "userId": {
+    "$oid": "674e8e53f32ffa57831c76f0"
+  },
+  "products": [],
+  "total_price": 220000,
+  "createdAt": {
+    "$date": "2024-12-03T05:39:53.677Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T07:00:16.820Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674ea08d457fff050ad23336"
+  },
+  "userId": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67493a1c051ab760174d6c0f"
+      },
+      "quantity": 91,
+      "price_item": 149000,
+      "color_item": "Xám Wash",
+      "name_size": "L",
+      "total_price_item": 13559000,
+      "status_checked": false,
+      "_id": {
+        "$oid": "6755296a8e8fee23819bfefb"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "675a83a3823a589bd89d4791"
+      },
+      "quantity": 1,
+      "price_item": 521100,
+      "color_item": "Xanh nhạt wash",
+      "name_size": "S",
+      "total_price_item": 521100,
+      "status_checked": false,
+      "_id": {
+        "$oid": "675a9f509fb615afe043e738"
+      }
+    }
+  ],
+  "total_price": 14400100,
+  "createdAt": {
+    "$date": "2024-12-03T06:09:17.675Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T16:08:05.111Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674ea86559ea4a29fadd7245"
+  },
+  "userId": {
+    "$oid": "674ea85359ea4a29fadd7164"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "674937d9051ab760174d5f13"
+      },
+      "quantity": 1,
+      "price_item": 260000,
+      "color_item": "Màu đen",
+      "name_size": "L",
+      "total_price_item": 260000,
+      "status_checked": true,
+      "_id": {
+        "$oid": "674f3e9bb46832cfb274f256"
+      }
+    }
+  ],
+  "total_price": 260000,
+  "createdAt": {
+    "$date": "2024-12-03T06:42:45.014Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T16:06:37.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674ecbfa540e10bd5c53d77b"
+  },
+  "userId": {
+    "$oid": "674ebe1d6dcb7d8850424361"
+  },
+  "products": [],
+  "total_price": 440000,
+  "createdAt": {
+    "$date": "2024-12-03T09:14:34.319Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T09:58:52.494Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674f2a906890b9b9cf6ae886"
+  },
+  "userId": {
+    "$oid": "674eab24e5fe601047c983b2"
+  },
+  "products": [],
+  "total_price": 270000,
+  "createdAt": {
+    "$date": "2024-12-03T15:58:08.177Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T17:09:36.105Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674f4f9151771866e2552d85"
+  },
+  "userId": {
+    "$oid": "674f4f5b51771866e2552b16"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "674937d9051ab760174d5f13"
+      },
+      "quantity": 1,
+      "price_item": 260000,
+      "color_item": "Màu Nâu Nhạt",
+      "name_size": "M",
+      "total_price_item": 260000,
+      "status_checked": false,
+      "_id": {
+        "$oid": "674f4fc251771866e25530d2"
+      }
+    }
+  ],
+  "total_price": 1269000,
+  "createdAt": {
+    "$date": "2024-12-03T18:36:01.428Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-04T05:39:32.337Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674ffd1266af816ad51efd98"
+  },
+  "userId": {
+    "$oid": "674ffd0c66af816ad51efc82"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67493708051ab760174d5dd3"
+      },
+      "quantity": 1,
+      "price_item": 224000,
+      "color_item": "Màu đen",
+      "name_size": "L",
+      "total_price_item": 224000,
+      "status_checked": false,
+      "_id": {
+        "$oid": "675003cc66af816ad51f2cac"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "674937d9051ab760174d5f13"
+      },
+      "quantity": 2,
+      "price_item": 265000,
+      "color_item": "Màu đen",
+      "name_size": "M",
+      "total_price_item": 530000,
+      "status_checked": true,
+      "_id": {
+        "$oid": "675004941fec83b3191a08c8"
+      }
+    }
+  ],
+  "total_price": 754000,
+  "createdAt": {
+    "$date": "2024-12-04T06:56:18.537Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-04T07:28:53.360Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67500a1fab516e7f191d14a2"
+  },
+  "userId": {
+    "$oid": "67500a13ab516e7f191d1264"
+  },
+  "products": [],
+  "total_price": 149000,
+  "createdAt": {
+    "$date": "2024-12-04T07:51:59.988Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T10:02:39.075Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67541e82b226262964c00d19"
+  },
+  "userId": {
+    "$oid": "67541e5eb226262964c00ac7"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67483e5a051ab760174d345b"
+      },
+      "quantity": 1,
+      "price_item": 234000,
+      "color_item": "Màu Trắng",
+      "name_size": "S",
+      "total_price_item": 234000,
+      "status_checked": false,
+      "_id": {
+        "$oid": "67622de65098e098e48f9549"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67484092051ab760174d3a3f"
+      },
+      "quantity": 1,
+      "price_item": 583000,
+      "color_item": "Xanh Dương",
+      "name_size": "S",
+      "total_price_item": 583000,
+      "status_checked": false,
+      "_id": {
+        "$oid": "676212c60963a94d3ed5a508"
+      }
+    }
+  ],
+  "total_price": 2009500,
+  "createdAt": {
+    "$date": "2024-12-07T10:08:02.320Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T07:06:54.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f007fb13442ade284247d"
+  },
+  "userId": {
+    "$oid": "675efe31b13442ade284166b"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "675a7e33823a589bd89d45dc"
+      },
+      "quantity": 1,
+      "price_item": 170000,
+      "color_item": "Đen",
+      "name_size": "S",
+      "total_price_item": 170000,
+      "status_checked": false,
+      "_id": {
+        "$oid": "67603ae98fa3e72a87d1b217"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67487a71051ab760174d4b16"
+      },
+      "quantity": 1,
+      "price_item": 350000,
+      "color_item": "Nâu",
+      "name_size": "L",
+      "total_price_item": 350000,
+      "status_checked": true,
+      "_id": {
+        "$oid": "67612c04504a4a0cb48c4a71"
+      }
+    }
+  ],
+  "total_price": 835000,
+  "createdAt": {
+    "$date": "2024-12-15T16:14:55.534Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T16:11:22.390Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "676128c2504a4a0cb48c27f3"
+  },
+  "userId": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67487a71051ab760174d4b16"
+      },
+      "quantity": 5,
+      "price_item": 350000,
+      "color_item": "Nâu",
+      "name_size": "L",
+      "total_price_item": 1750000,
+      "status_checked": true,
+      "_id": {
+        "$oid": "676128c2504a4a0cb48c27f4"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67483e5a051ab760174d345b"
+      },
+      "quantity": 6,
+      "price_item": 260000,
+      "color_item": "Màu Trắng",
+      "name_size": "XL",
+      "total_price_item": 1560000,
+      "status_checked": false,
+      "_id": {
+        "$oid": "67612a3e504a4a0cb48c306a"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67483f72051ab760174d3840"
+      },
+      "quantity": 1,
+      "price_item": 2304000,
+      "color_item": "Trắng",
+      "name_size": "XS",
+      "total_price_item": 2304000,
+      "status_checked": false,
+      "_id": {
+        "$oid": "676188db2e4fbc0e45963cd1"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67483e5a051ab760174d345b"
+      },
+      "quantity": 1,
+      "price_item": 234000,
+      "color_item": "Màu Trắng",
+      "name_size": "S",
+      "total_price_item": 234000,
+      "status_checked": true,
+      "_id": {
+        "$oid": "676227540963a94d3ed61f60"
+      }
+    }
+  ],
+  "total_price": 5848000,
+  "createdAt": {
+    "$date": "2024-12-17T07:31:14.643Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T02:10:43.527Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6761347de509f78e0d88fc8d"
+  },
+  "userId": {
+    "$oid": "67613472e509f78e0d88fb29"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67487c16051ab760174d53e1"
+      },
+      "quantity": 1,
+      "price_item": 385000,
+      "color_item": "Đen",
+      "name_size": "L",
+      "total_price_item": 385000,
+      "status_checked": true,
+      "_id": {
+        "$oid": "676136f2d5b5425a69bfba0e"
+      }
+    }
+  ],
+  "total_price": 385000,
+  "createdAt": {
+    "$date": "2024-12-17T08:21:17.497Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T08:34:37.648Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67613901a432345c6aa8b30e"
+  },
+  "userId": {
+    "$oid": "676138162f0a76894580939b"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67483e5a051ab760174d345b"
+      },
+      "quantity": 1,
+      "price_item": 270000,
+      "color_item": "Màu Trắng",
+      "name_size": "L",
+      "total_price_item": 270000,
+      "status_checked": true,
+      "_id": {
+        "$oid": "676139b5a432345c6aa8c193"
+      }
+    }
+  ],
+  "total_price": 270000,
+  "createdAt": {
+    "$date": "2024-12-17T08:40:33.914Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T14:27:26.551Z"
+  }
+}]

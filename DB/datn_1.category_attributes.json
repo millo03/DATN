@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "6728f6fe9b06ca9cc531a463"
+  },
+  "name_attribute": "Màu sắc",
+  "category_attribute": "ux_color",
+  "id_account": {
+    "$oid": "670df3dee8e737d68b53fa83"
+  },
+  "createdAt": {
+    "$date": "2024-11-04T16:31:58.449Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T09:26:44.780Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6737113d6e1c5a51941f18aa"
+  },
+  "name_attribute": "Hình ảnh",
+  "category_attribute": "ux_image",
+  "id_account": {
+    "$oid": "670df3dee8e737d68b53fa83"
+  },
+  "createdAt": {
+    "$date": "2024-11-15T09:15:41.655Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T09:26:21.607Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674016a6fd34db858c3fd8b9"
+  },
+  "name_attribute": "UX Label",
+  "category_attribute": "ux_label",
+  "id_account": {
+    "$oid": "670df3dee8e737d68b53fa83"
+  },
+  "createdAt": {
+    "$date": "2024-11-22T05:29:10.936Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T09:26:40.212Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674ebff2370ef1e2c7f4c3db"
+  },
+  "name_attribute": "Màu sắc",
+  "category_attribute": "ux_color",
+  "id_account": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "createdAt": {
+    "$date": "2024-12-03T08:23:14.049Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T09:15:47.041Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6761a97f67629eece4f66871"
+  },
+  "name_attribute": "Màu Sắc",
+  "category_attribute": "ux_color",
+  "id_account": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T16:40:31.574Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T16:40:31.574Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6761aa1467629eece4f669bd"
+  },
+  "name_attribute": "Họa Tiết",
+  "category_attribute": "ux_image",
+  "id_account": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T16:43:00.690Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T16:43:00.690Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6761aa2367629eece4f669c4"
+  },
+  "name_attribute": "Văn Bản",
+  "category_attribute": "ux_label",
+  "id_account": {
+    "$oid": "675aa0509fb615afe043f4f7"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T16:43:15.587Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T16:43:15.587Z"
+  }
+}]

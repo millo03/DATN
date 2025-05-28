@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <title>Interior</title>
+    <style></style>
+    <!-- <script>
+    window.embeddedChatbotConfig = {
+      chatbotId: "vHGyZ6TUYKIWNfwbIP8t2",
+      domain: "www.chatbase.co",
+    };
+  </script> -->
+    <!-- <script src="https://www.chatbase.co/embed.min.js" chatbotId="vHGyZ6TUYKIWNfwbIP8t2" domain="www.chatbase.co"
+    defer></script> -->
+  </head>
+
+  <body>
+    <div id="root"></div>
+
+     <!-- <script src="https://sf-cdn.coze.com/obj/unpkg-va/flow-platform/chat-app-sdk/1.2.0-beta.6/libs/oversea/index.js"></script>
+    <script>
+      new CozeWebSDK.WebChatClient({
+        config: {
+          bot_id: "7507671920490758151"
+        },
+        componentProps: {
+          title: "Coze"
+        },
+        auth: {
+          type: "token",
+          token:
+            "pat_xTnerYciXx1EgGF8kef0bDNM48t8ILuN1bBrc1ivzFpZuCJzmt8nAAak83JbxgNN",
+          onRefreshToken: function () {
+            return "pat_xTnerYciXx1EgGF8kef0bDNM48t8ILuN1bBrc1ivzFpZuCJzmt8nAAak83JbxgNN";
+          }
+        }
+      });
+    </script>
+     -->
+    <script src="https://sf-cdn.coze.com/obj/unpkg-va/flow-platform/chat-app-sdk/1.2.0-beta.6/libs/oversea/index.js"></script>
+    <script>
+      new CozeWebSDK.WebChatClient({
+        config: {
+          bot_id: '7507671920490758151',
+        },
+        componentProps: {
+          title: 'Coze',
+        },
+        auth: {
+          type: 'token',
+          token: 'pat_xTnerYciXx1EgGF8kef0bDNM48t8ILuN1bBrc1ivzFpZuCJzmt8nAAak83JbxgNN',
+          onRefreshToken: function () {
+            return 'pat_xTnerYciXx1EgGF8kef0bDNM48t8ILuN1bBrc1ivzFpZuCJzmt8nAAak83JbxgNN'
+          }
+        }
+      });
+    </script>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

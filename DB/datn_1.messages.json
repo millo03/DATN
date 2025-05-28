@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "670e3a0b11a7f4a110b8c492"
+  },
+  "senderId": {
+    "$oid": "670e38aa11a7f4a110b8c225"
+  },
+  "receiverId": {
+    "$oid": "670df3dee8e737d68b53fa83"
+  },
+  "messages": [
+    {
+      "content": "shop cho em hỏi bên mình còn tuyển shipper không ạ?",
+      "icons": [],
+      "seen": false,
+      "_id": {
+        "$oid": "670e3a0b11a7f4a110b8c494"
+      },
+      "attachments": [],
+      "createdAt": {
+        "$date": "2024-10-15T09:46:51.990Z"
+      },
+      "updatedAt": {
+        "$date": "2024-10-15T09:46:51.990Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-15T09:46:51.990Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T09:46:51.990Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670e3a1911a7f4a110b8c4db"
+  },
+  "senderId": {
+    "$oid": "670df3dee8e737d68b53fa83"
+  },
+  "receiverId": {
+    "$oid": "670e38aa11a7f4a110b8c225"
+  },
+  "messages": [
+    {
+      "content": "còn bạn nhé",
+      "icons": [],
+      "seen": false,
+      "_id": {
+        "$oid": "670e3a1911a7f4a110b8c4dc"
+      },
+      "attachments": [],
+      "createdAt": {
+        "$date": "2024-10-15T09:47:05.813Z"
+      },
+      "updatedAt": {
+        "$date": "2024-10-15T09:47:05.813Z"
+      }
+    },
+    {
+      "content": "bạn ở đâu ạ?",
+      "icons": [],
+      "seen": false,
+      "_id": {
+        "$oid": "670e3a2a11a7f4a110b8c4e9"
+      },
+      "attachments": [],
+      "createdAt": {
+        "$date": "2024-10-15T09:47:22.190Z"
+      },
+      "updatedAt": {
+        "$date": "2024-10-15T09:47:22.190Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-15T09:47:05.813Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T09:47:22.190Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674e0ad18b435afee61cfaaf"
+  },
+  "senderId": {
+    "$oid": "670e93218eb3a3e6b98be81c"
+  },
+  "receiverId": {
+    "$oid": "670df3dee8e737d68b53fa83"
+  },
+  "messages": [
+    {
+      "content": "Xin chào shop",
+      "role": "user",
+      "icons": [],
+      "seen": false,
+      "_id": {
+        "$oid": "674e8453280bc9b4a196f131"
+      },
+      "attachments": [],
+      "createdAt": {
+        "$date": "2024-12-03T04:08:51.875Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-03T04:08:51.875Z"
+      }
+    },
+    {
+      "content": "Không biết bên shop còn tuyển nhân viên không",
+      "role": "user",
+      "icons": [],
+      "seen": false,
+      "_id": {
+        "$oid": "674e8473280bc9b4a196f13d"
+      },
+      "attachments": [],
+      "createdAt": {
+        "$date": "2024-12-03T04:09:23.931Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-03T04:09:23.931Z"
+      }
+    },
+    {
+      "content": "Mình muốn ứng tuyền vị trí nhân viên sale",
+      "role": "user",
+      "icons": [],
+      "seen": false,
+      "_id": {
+        "$oid": "674e84f3280bc9b4a196f169"
+      },
+      "attachments": [],
+      "createdAt": {
+        "$date": "2024-12-03T04:11:31.799Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-03T04:11:31.799Z"
+      }
+    },
+    {
+      "content": "Dạ vị trí đó bên mình không tuyển nữa bạn có thể xem qua các ví trí ứng tuyển khác",
+      "role": "admin",
+      "icons": [],
+      "seen": false,
+      "_id": {
+        "$oid": "674e8689280bc9b4a196f1d6"
+      },
+      "attachments": [],
+      "createdAt": {
+        "$date": "2024-12-03T04:18:17.896Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-03T04:18:17.896Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-02T19:30:25.533Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T04:18:17.896Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674e10679fb16c976e8044f6"
+  },
+  "senderId": {
+    "$oid": "670df3dee8e737d68b53fa83"
+  },
+  "receiverId": {
+    "$oid": "670e93218eb3a3e6b98be81c"
+  },
+  "messages": [
+    {
+      "content": "Dạ, bên mình vẫn còn tuyển nhân viên",
+      "role": "admin",
+      "icons": [],
+      "seen": false,
+      "_id": {
+        "$oid": "674e84a9280bc9b4a196f14b"
+      },
+      "attachments": [],
+      "createdAt": {
+        "$date": "2024-12-03T04:10:17.171Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-03T04:10:17.171Z"
+      }
+    },
+    {
+      "content": "Không biết bạn đang quan tâm đến vị trí nào vậy",
+      "role": "admin",
+      "icons": [],
+      "seen": false,
+      "_id": {
+        "$oid": "674e84c8280bc9b4a196f159"
+      },
+      "attachments": [],
+      "createdAt": {
+        "$date": "2024-12-03T04:10:48.478Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-03T04:10:48.478Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-02T19:54:15.185Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T04:10:48.478Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674ea956e5fe601047c97eb0"
+  },
+  "senderId": {
+    "$oid": "670df3dee8e737d68b53fa83"
+  },
+  "receiverId": {
+    "$oid": "670df3dee8e737d68b53fa83"
+  },
+  "messages": [
+    {
+      "content": "một",
+      "icons": [],
+      "seen": false,
+      "_id": {
+        "$oid": "674ea956e5fe601047c97eb2"
+      },
+      "attachments": [],
+      "createdAt": {
+        "$date": "2024-12-03T06:46:46.805Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-03T06:46:46.805Z"
+      }
+    },
+    {
+      "content": "helo",
+      "icons": [],
+      "seen": false,
+      "_id": {
+        "$oid": "674ea95ee5fe601047c97eb8"
+      },
+      "attachments": [],
+      "createdAt": {
+        "$date": "2024-12-03T06:46:54.160Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-03T06:46:54.160Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-03T06:46:46.806Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T06:46:54.160Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674f343aa0c1440aac972207"
+  },
+  "senderId": {
+    "$oid": "674e9567215b6b28aefaf145"
+  },
+  "receiverId": {
+    "$oid": "670df3dee8e737d68b53fa83"
+  },
+  "messages": [
+    {
+      "content": "f",
+      "icons": [],
+      "seen": false,
+      "_id": {
+        "$oid": "674f343aa0c1440aac972209"
+      },
+      "attachments": [],
+      "createdAt": {
+        "$date": "2024-12-03T16:39:22.411Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-03T16:39:22.411Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-03T16:39:22.411Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T16:39:22.411Z"
+  }
+}]
