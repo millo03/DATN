@@ -60,6 +60,45 @@
         }
       });
     </script>
+
+    <!-- <script>
+      let resetTimer = null;
+
+      function mountCozeChat() {
+        const container = document.getElementById('coze-widget-container');
+        container.innerHTML = ''; // Xoá bot hiện tại nếu có
+
+        new CozeWebSDK.WebChatClient({
+          config: {
+            bot_id: '7507671920490758151',
+          },
+          componentProps: {
+            title: 'Coze',
+          },
+          auth: {
+            type: 'token',
+            token: 'pat_xTnerYciXx1EgGF8kef0bDNM48t8ILuN1bBrc1ivzFpZuCJzmt8nAAak83JbxgNN',
+            onRefreshToken: function () {
+              return 'pat_xTnerYciXx1EgGF8kef0bDNM48t8ILuN1bBrc1ivzFpZuCJzmt8nAAak83JbxgNN';
+            }
+          }
+        });
+
+        // Reset timer nếu đã tồn tại
+        if (resetTimer) clearTimeout(resetTimer);
+
+        // Thiết lập tự động reset sau 30 phút (30 * 60 * 1000 ms)
+        resetTimer = setTimeout(() => {
+          console.log('⏰ Reset cuộc trò chuyện sau 30 phút');
+          mountCozeChat();
+        }, 1800000); // 30 phút = 1,800,000ms
+      }
+
+      // Khởi tạo khi trang load
+      window.onload = () => {
+        mountCozeChat();
+      }; -->
+    </script>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>

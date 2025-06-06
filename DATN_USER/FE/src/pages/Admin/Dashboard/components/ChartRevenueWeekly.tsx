@@ -205,7 +205,7 @@ const ChartRevenueWeekly: React.FC = () => {
             options={options}
             series={state.series}
             type="bar"
-            height={420}
+            height={600}
           />
         </div>
       </div>

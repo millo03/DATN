@@ -140,17 +140,18 @@ const ShipperList: React.FC = () => {
     },
   ];
 
-  if (isLoading)
-    return (
-      <div className="fixed z-[10] bg-[#17182177] w-screen h-screen top-0 right-0 grid place-items-center">
-        <div className="animate-spin">
-          <Loader />
-        </div>
-      </div>
-    );
+  // if (isLoading)
+  //   return (
+  //     <div className="fixed z-[10] bg-[#17182177] w-screen h-screen top-0 right-0 grid place-items-center">
+  //       <div className="animate-spin">
+  //         <Loader />
+  //       </div>
+  //     </div>
+  //   );
   if (isError) return <div>{(error as any).message}</div>;
 
   return (
+   
     <CheckAuths roles={["admin"]}>
       <div className="container">
         {contextHolder}

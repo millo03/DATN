@@ -30,7 +30,7 @@ const ArrangeFilter: React.FC<ArrangeFilterProps> = ({
               <button
                 className={`px-4 py-2 rounded-md transition-colors duration-300 ${
                   sortOption === option.value
-                    ? "bg-gray-200 text-gray-900 font-semibold border border-gray-300"
+                    ? "bg-red-200 text-red-900 font-semibold border border-gray-300"
                     : "bg-white text-gray-600 hover:bg-gray-100"
                 }`}
                 onClick={() => handleSortChange(option.value)}

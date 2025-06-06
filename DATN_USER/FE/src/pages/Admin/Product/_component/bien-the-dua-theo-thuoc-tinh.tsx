@@ -86,7 +86,7 @@ const Filed_bien_the_dua_theo_thuoc_tinh = ({ props }: any) => {
               </div>
               <Form.List name={[name, "size"]} initialValue={[{}]}>
                 {(sizeFields, { add: addSize, remove: removeSize }) => (
-                  <div className="mt-20">
+                  <div className="mt-[90px]">
                     {sizeFields.map(
                       ({ key: sizeKey, name: sizeName, ...restSizeField }) => (
                         <div key={sizeKey} className="flex items-center gap-3">

@@ -67,6 +67,7 @@ export default function Form_variant({ propsData }: any) {
                                     <>
                                         {fields.map(({ key, name, ...restField }) => (
                                             <div key={key}>
+                                                <div>
                                                 <label
                                                     htmlFor=""
                                                     className="text-[#1C2434] font-medium text-sm">
@@ -84,12 +85,15 @@ export default function Form_variant({ propsData }: any) {
                                                         restField: restField
                                                     }}
                                                 />
+                                                </div>
+                                                <div >
                                                 <Form.List name={[name, "size"]} initialValue={[{}]}>
                                                     {(
                                                         sizeFields,
                                                         { add: addSize, remove: removeSize }
                                                     ) => (
                                                         <>
+                                                        
                                                             {sizeFields.map(
                                                                 ({
                                                                     key: sizeKey,
@@ -100,6 +104,7 @@ export default function Form_variant({ propsData }: any) {
                                                                         key={sizeKey}
                                                                         className="flex items-center gap-[13px] mb-2 -mt-2"
                                                                     >
+                                                                   
                                                                         <div>
                                                                             <label className="text-[#1C2434] font-medium text-sm">
                                                                                 Kích cỡ :
@@ -218,6 +223,7 @@ export default function Form_variant({ propsData }: any) {
                                                                             />
                                                                         }
                                                                     </div>
+                                                                    
                                                                 )
                                                             )}
                                                             <div className="flex flex-col items-start gap-4 mb-4">
@@ -239,8 +245,10 @@ export default function Form_variant({ propsData }: any) {
                                                                 }
                                                             </div>
                                                         </>
+                                                        
                                                     )}
                                                 </Form.List>
+                                                </div>
                                             </div>
                                         ))}
                                         <div>
@@ -262,10 +270,10 @@ export default function Form_variant({ propsData }: any) {
                     (state_variant.toString() === 'tao_bien_the_tu_thuoc_tinh') &&
                     <>
                         <SelectShadcn onValueChange={(value: any) => setStateCategory_attribute(value)}>
-                            <SelectTrigger className="!h-auto py-2 w-auto rounded -mt-[54px] ml-[400px] ">
+                            <SelectTrigger className="!h-auto py-2 w-auto rounded -mt-[54px] ml-[450px] ">
                                 <SelectValue placeholder="Lựa chọn" />
                             </SelectTrigger>
-                            <SelectContent className='bg-white z-[10]'>
+                            <SelectContent className='bg-while z-[10]'>
                                 <SelectGroup>
                                     {
                                         data_v2?.map((value: any) => (
@@ -275,6 +283,7 @@ export default function Form_variant({ propsData }: any) {
                                 </SelectGroup>
                             </SelectContent>
                         </SelectShadcn>
+                        
                         {
                             state_attribute &&
                             <Filed_bien_the_dua_theo_thuoc_tinh props={{
@@ -282,6 +291,7 @@ export default function Form_variant({ propsData }: any) {
                                 sizes: propsData?.sizes
                             }} />
                         }
+                        
                     </>
             }
         </div>

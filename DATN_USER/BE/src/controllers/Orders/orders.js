@@ -370,7 +370,8 @@ export const getAllOrdersToday = async (req, res) => {
         $gte: startOfDay,
         $lte: endOfDay
       },
-      status: "6"
+      status: "6",
+
     }).exec();
     // const ordersToday = await Order.find();
     return res.status(StatusCodes.OK).json(ordersToday);

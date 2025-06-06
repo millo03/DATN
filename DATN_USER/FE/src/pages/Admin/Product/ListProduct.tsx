@@ -77,11 +77,11 @@ const ListProduct = () => {
       <>
         {contextHolder}
 
-        <div className="mx-2">
+        <div className="mx-5">
           <div className="flex items-center justify-between mt-20 mb-5">
             <h1 className="text-2xl font-semibold">Quản Lý Sản Phẩm</h1>{" "}
             <Link to="/admin/products/add">
-              <Button className="mr-[150px] px-[6px] h-[38px] text-[14px] font-semibold border-[#1976D2] text-[#1976D2]">
+              <Button className="mr-[50px] px-[6px] h-[38px] text-[14px] font-semibold border-[#1976D2] text-[#1976D2]">
                 <AiOutlinePlus className="ml-[3px]" /> Thêm mới sản phẩm
               </Button>
             </Link>
@@ -111,7 +111,7 @@ const ListProduct = () => {
                   </Button>
               }
             </div>
-            <div className="flex space-x-5 mr-[150px]">
+            <div className="flex space-x-5 mr-[50px]">
               <Input
                 className="w-[400px]"
                 value={searchName}

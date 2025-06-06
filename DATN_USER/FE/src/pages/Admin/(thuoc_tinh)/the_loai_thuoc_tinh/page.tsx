@@ -93,15 +93,17 @@ export default function The_loai_thuoc_tinh() {
               />
               <span ref={ref_the_loai_thuoc_tinh} className="hidden text-sm text-red-500">Vui lòng chọn loại thuộc tính!</span>
             </div>
+            
             {
               status_api === 400 && <span className="text-sm text-red-500">Loại thuộc tính đã tồn tại!</span>
             }
-            <Form.Item wrapperCol={{ offset: 8, span: 16 }}>
-              <Button type="primary" htmlType="submit">
+            <Form.Item wrapperCol={{ offset: 80, span: 60 }}>
+              <Button type="primary" htmlType="submit" className="mt-8">
                 Tạo
               </Button>
             </Form.Item>
           </Form>
+          
         </div>
 
         {/* cot phai */}
